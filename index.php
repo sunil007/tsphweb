@@ -20,7 +20,7 @@
 
 							<div class="container">
 								<div class="agileits-banner-info">
-								 <span>Education.</span>
+								 <span>Education</span>
 									<h3>For the Creatives</h3>
 									 <p>You can learn anything</p>
 									
@@ -147,55 +147,12 @@
 <!-- banner-bottom -->
 	<div class="banner-bottom">
 		<div class="container">
-		<!--Mastering 4 images>
-			<h3><span class="fixed_w3"> About</span> us</h3>
-			<div class="agileits_banner_bottom_grids">
-				<div class="col-md-3 agileits_banner_bottom_grid">
-					<div class="hovereffect w3ls_banner_bottom_grid">
-						<img src="images/1.jpg" alt=" " class="img-responsive" />
-						<div class="overlay">
-						   <h4>Mastering</h4>
-						   <p>Education</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 agileits_banner_bottom_grid">
-					<div class="hovereffect w3ls_banner_bottom_grid">
-						<img src="images/2.jpg" alt=" " class="img-responsive" />
-						<div class="overlay">
-						   <h4>Mastering</h4>
-						     <p>Education</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 agileits_banner_bottom_grid">
-					<div class="hovereffect w3ls_banner_bottom_grid">
-						<img src="images/3.jpg" alt=" " class="img-responsive" />
-						<div class="overlay">
-						   <h4>Mastering</h4>
-						    <p>Education</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 agileits_banner_bottom_grid">
-					<div class="hovereffect w3ls_banner_bottom_grid">
-						<img src="images/4.jpg" alt=" " class="img-responsive" />
-						<div class="overlay">
-						   <h4>Mastering</h4>
-						    <p>Education</p>
-						</div>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			<Mastering 4 images-->
-			<!-- services -->
 	<div class="services two">
 		<div class="container">
 			<h3 class="w3l_header w3_agileits_header">About <span>Us</span></h3>
 			<div class="wthree_services_grids">	
-				<div class="col-md-6 wthree_services_grid_left">
-					<h3>THE <span>SCIENCE PRIVATE</span> HUB</h3>
+				<div class="col-md-12 wthree_services_grid_left">
+					<h3 class="text-left nomargin">THE <span>SCIENCE PRIVATE'S</span> HUB</h3>
 					<h4>Challenge your Limits!</h4>
 					<p> TSPH, The Science Private’s Hub, is an institution focused on creating a benchmark in the education industry. 
 						Concept of Private’s, work extraction and personalized attention are some of the key features which distinguish us from others. 
@@ -207,51 +164,6 @@
 						Our vision is to do all-round development of youngsters which enables them to pursue further studies from national level renowned engineering and medical institutes.
 					</p>
 					
-				</div>
-				<div class="col-md-6 wthree_services_grid_right">
-					<div class="col-md-4 agileits_w3layouts_service_grid">
-						<div class="agile_service_grd">
-							<i class="fa fa-share-alt" aria-hidden="true"></i>
-						</div>
-						<h4>Social Media</h4>
-						<p>Tortor varius augue ut mauris dictum.</p>
-					</div>
-					<div class="col-md-4 agileits_w3layouts_service_grid">
-						<div class="agile_service_grd">
-						<i class="fa fa-laptop" aria-hidden="true"></i>
-						</div>
-						<h4>Business</h4>
-						<p>Tortor varius augue ut mauris dictum.</p>
-					</div>
-					<div class="col-md-4 agileits_w3layouts_service_grid">
-						<div class="agile_service_grd">
-						<i class="fa fa-camera" aria-hidden="true"></i>
-						</div>
-						<h4>Photography</h4>
-						<p>Tortor varius augue ut mauris dictum.</p>
-					</div>
-					<div class="col-md-4 agileits_w3layouts_service_grid">
-						<div class="agile_service_grd">
-							<i class="fa fa-database" aria-hidden="true"></i>
-						</div>
-						<h4>Software</h4>
-						<p>Tortor varius augue ut mauris dictum.</p>
-					</div>
-					<div class="col-md-4 agileits_w3layouts_service_grid">
-						<div class="agile_service_grd">
-					<i class="fa fa-microphone" aria-hidden="true"></i>
-						</div>
-						<h4>Language</h4>
-						<p>Tortor varius augue ut mauris dictum.</p>
-					</div>
-					<div class="col-md-4 agileits_w3layouts_service_grid">
-						<div class="agile_service_grd">
-						<i class="fa fa-comments-o" aria-hidden="true"></i>
-						</div>
-						<h4>Communication</h4>
-						<p>Tortor varius augue ut mauris dictum.</p>
-					</div>
-					<div class="clearfix"> </div>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -418,51 +330,7 @@
 		<div class="container">
 		
 		<h3 class="w3l_header w3_agileits_header"> Latest <span>  News & Announcements</span></h3>
-		<!-- extra images>
-			<div class="agile_inner_w3ls-grids">
 	
-				<div class="col-sm-6 w3-agile-post-grids">
-					<div class="w3-agile-post-img w3-agile-post-img1">
-						<a href="#" data-toggle="modal" data-target="#myModal"> 
-							<ul>
-								<li><i class="fa fa-comments" aria-hidden="true"></i> 05</li>
-								<li><i class="fa fa-heart" aria-hidden="true"></i> 874</li>
-								<li><i class="fa fa-share" aria-hidden="true"></i> Share</li>
-							</ul>
-						</a>
-					</div>
-					<div class="w3-agile-post-info">
-						<h4><a href="#" data-toggle="modal" data-target="#myModal">Quisque a rhoncus</a></h4>
-						<ul>
-							<li>By <a href="#">Admin</a></li>
-							<li>Jan 28th,2017</li>
-						</ul>
-						<p>Suspendisse in nisl at ipsum molestie dignissim. Pellentesque est nisi, blandit eget aliquam sed, consequat nec risus.</p>
-					</div>
-				</div>
-				<div class="col-sm-6 w3-agile-post-grids">
-					<div class="w3-agile-post-img w3-agile-post-img2">
-						<a href="#" data-toggle="modal" data-target="#myModal"> 
-							<ul>
-								<li><i class="fa fa-comments" aria-hidden="true"></i> 21</li>
-								<li><i class="fa fa-heart" aria-hidden="true"></i> 287</li>
-								<li><i class="fa fa-share" aria-hidden="true"></i> Share</li>
-							</ul>
-						</a>
-					</div>
-					<div class="w3-agile-post-info">
-						<h4><a href="#" data-toggle="modal" data-target="#myModal">Quisque a rhoncus</a></h4>
-						<ul>
-							<li>By <a href="#">Admin</a></li>
-							<li>Feb 24th,2017</li>
-						</ul>
-						<p>Suspendisse in nisl at ipsum molestie dignissim. Pellentesque est nisi, blandit eget aliquam sed, consequat nec risus.</p>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-		<extra images-->
 		<div class="grid_3 grid_5 agile">
 				<!--comment><h3>Wells</h3><comment-->
 				<div class="well" style="border-color:#c71414;">
@@ -478,6 +346,7 @@
 					<a href="https://mhtcet2020.mahaonline.gov.in/" style="color:#2076bd; font-weight:bold;">MHCET 2020 Objections Application</a>
 				</div>
 			</div>
+		</div>
 	</div>
 	<!-- //blog -->
 <!-- stats -->
@@ -511,10 +380,7 @@
 <!-- //stats -->
 <!-- testimonials -->		
 	<div class="testimonials">
-		<div class="col-md-6 w3layouts_event_left">
-			<img src="images/test.jpg" alt=" " class="img-responsive" />
-		</div>
-		<div class="col-md-6 w3layouts_event_right">
+		<div class="col-md- w3layouts_event_right">
 			<h3>what people says</h3>
 			<section class="slider">
 				<div class="flexslider">

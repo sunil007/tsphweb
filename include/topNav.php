@@ -49,7 +49,7 @@
 				<nav class="menu--iris">
 					<ul class="nav navbar-nav menu__list">
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'index')?"menu__item--current": "" ?>"><a href="index.php" class="menu__link">Home</a></li>
-						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'services')?"menu__item--current": "" ?>"><a href="services.php" class="menu__link">Faculty</a></li>
+						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'faculty')?"menu__item--current": "" ?>"><a href="faculty.php" class="menu__link">Faculty</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'gallery')?"menu__item--current": "" ?>"><a href="gallery.php" class="menu__link">Courses</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'services')?"menu__item--current": "" ?>"><a href="#" class="menu__link">Results</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'services')?"menu__item--current": "" ?>"><a href="mail.php" class="menu__link">Gallery</a></li>

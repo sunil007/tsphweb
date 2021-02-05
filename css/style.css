@@ -3846,3 +3846,11 @@ h3.agileinfo_sign  {
 .nopadding{
 	padding : 0px !important;
 }
+
+.text-left{
+	text-align: left !important;
+}
+
+.nomargin{
+	margin : 0px !important;
+}
