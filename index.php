@@ -20,7 +20,7 @@
 
 							<div class="container">
 								<div class="agileits-banner-info">
-								 <span>Education</span>
+								 <span>Education.</span>
 									<h3>For the Creatives</h3>
 									 <p>You can learn anything</p>
 									
