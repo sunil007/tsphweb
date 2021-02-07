@@ -887,7 +887,7 @@ h3.w3l_header.w3_agileits_header.two {
 }
 .f-bg-w3l {
     background: rgba(0, 0, 0, 0.58);
-    padding: 7em 0 7em 0;
+    padding: 3em 0 3em 0;
 }
 .w3layouts_footer_grid h2{
     font-size: 1.4em;
@@ -923,6 +923,10 @@ h3.w3l_header.w3_agileits_header.two {
 .w3_twitter:hover{
 	border:1px solid #1da1f2;
 	background:#1da1f2;
+}
+.w3_youtube:hover{
+	border:1px solid #dd4b39;
+	background:#dd4b39;
 }
 .w3_instagram:hover{
 	border:1px solid #833ab4;
@@ -2364,7 +2368,7 @@ h3.agileinfo_sign  {
        font-size: 1em;
 	}
 	.f-bg-w3l {
-		padding: 5em 0 5em 0;
+		padding: 7em 0 7em 0;
 	}
 	.f-bg-w3l {
 		padding: 5em 0 5em 0;
@@ -3849,6 +3853,10 @@ h3.agileinfo_sign  {
 
 .text-left{
 	text-align: left !important;
+}
+
+.text-center{
+	text-align: center;
 }
 
 .nomargin{
