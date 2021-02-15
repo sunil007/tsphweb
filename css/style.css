@@ -221,7 +221,7 @@ ul.agile_forms {
 /*-- //banner --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background: url('../images/MRD Reception.jpg') no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -282,7 +282,7 @@ ul.agile_forms {
 	position:relative;
 }
 .agileits_w3layouts_more a{
-	    font-size: 17px;
+	font-size: 17px;
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
@@ -836,6 +836,7 @@ h3.w3l_header.w3_agileits_header.two {
       color: #545454;
     width: 80%;
     line-height: 2em;
+	margin-left: 40px !important;
 }
 .w3layouts_event_right_para_pos{
 	position:absolute;

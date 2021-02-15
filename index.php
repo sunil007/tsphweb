@@ -18,41 +18,29 @@
 				<li>
 					<div class="w3layouts-banner-top">
 
-							<div class="container">
-								<div class="agileits-banner-info">
-								 <span>Education</span>
-									<h3>For the Creatives</h3>
-									 <p>You can learn anything</p>
-									
-								</div>	
-							</div>
-						</div>
-				</li>
-				<li>
-						<div class="w3layouts-banner-top w3layouts-banner-top1">
 						<div class="container">
-								<div class="agileits-banner-info">
-								 <span>Free</span>
-									<h3>Premium Courses</h3>
-									 <p>You only have to know one thing</p>
-									
-								</div>	
-							</div>
+							<div class="agileits-banner-info">
+							</div>	
 						</div>
+					</div>
 				</li>
 				<li>
-						<div class="w3layouts-banner-top w3layouts-banner-top2">
-							<div class="container">
-								<div class="agileits-banner-info">
-								 <span>Education</span>
-									<h3>For the Creatives</h3>
-									 <p>You can learn anything.</p>
-									
-								</div>	
-								
-							</div>
+					<div class="w3layouts-banner-top w3layouts-banner-top1">
+					<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
 						</div>
-					</li>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top2">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
 
 			</ul>
 		</div>
@@ -381,47 +369,111 @@
 <!-- testimonials -->		
 	<div class="testimonials">
 		<div class="col-md- w3layouts_event_right">
-			<h3>what people says</h3>
+			<h3>what students says</h3>
 			<section class="slider">
 				<div class="flexslider">
 					<ul class="slides">
+						<!-- Sonali Sahu -->
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>Nam tempus lobortis sem non ornare. Curabitur dignissim interdum sem, et mollis lorem. 
-										Mauris hendrerit, mi in aliquet egestas, nisi mi vestibulum turpis.</p>
+									<p>One of the best institute for Science...Extremely proud to have been a part of this exceptionally amazing place. The student-friendly teaching methods of the professors are highly commendable.</p>
+									<!--emoji <img draggable="false" class="emoji" alt="❤" src="https://s.w.org/images/core/emoji/11.2.0/svg/2764.svg"> -->
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
 								</div>
 								<div class="w3_agile_event_right_grids">
 									<div class="col-xs-4 w3_agile_event_right_grid_left">
-										<img src="images/test1.jpg" alt=" " class="img-responsive" />
+										<img src="images/Sonali-Sahu.jpg" alt=" " class="img-responsive" />
 									</div>
 									<div class="col-xs-8 w3_agile_event_right_grid_right">
-										<h4>Williams Stall</h4>
-										<p>Graphic & web designer</p>
+										<h4>Sonali Sahu</h4>
+										<p>Student</p>
 									</div>
 									<div class="clearfix"> </div>
 								</div>
 							</div>
 						</li>
+						<!-- Ambika Gupta -->
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>Nam tempus lobortis sem non ornare. Curabitur dignissim interdum sem, et mollis lorem. 
-										Mauris hendrerit, mi in aliquet egestas, nisi mi vestibulum turpis.</p>
+									<p>I have gained a lot of knowledge from the great faculties of TSPH..i am really thankful to the science private hub as the faculties here show full dedication towards me and other students..they clear all my doubts and also they guide us in a very right way so that we can prepare well for our exams..the science private hub is honestly a great coaching institute...---proudly a TSPHIAN </p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
 								</div>
 								<div class="w3_agile_event_right_grids">
 									<div class="col-xs-4 w3_agile_event_right_grid_left">
-											<img src="images/test2.jpg" alt=" " class="img-responsive" />
+											<img src="images/ambika-gupta.jpg" alt=" " class="img-responsive" />
 									</div>
 									<div class="col-xs-8 w3_agile_event_right_grid_right">
-										<h4>Catherine Mark</h4>
-										<p>PHP & web developer</p>
+										<h4>Ambika Gupta</h4>
+										<p>Student</p>
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+							</div>
+						</li>
+						<!-- Tarun Singh -->
+						<li>
+							<div class="w3_event_right_grid">
+								<div class="w3layouts_event_right_para">
+									<p>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material design by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studying.</p>
+									<div class="w3layouts_event_right_para_pos">
+										<i class="fa fa-quote-left" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="w3_agile_event_right_grids">
+									<div class="col-xs-4 w3_agile_event_right_grid_left">
+											<img src="images/Tarun-Singh.jpg" alt=" " class="img-responsive" />
+									</div>
+									<div class="col-xs-8 w3_agile_event_right_grid_right">
+										<h4>Tarun Singh</h4>
+										<p>Student</p>
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+							</div>
+						</li>
+						<!-- Sarthak Nishit -->
+						<li>
+							<div class="w3_event_right_grid">
+								<div class="w3layouts_event_right_para">
+									<p>Professors of TSPH works on students by knowing their Capabilities and giving them Direction where they want to reach...Best Faculty Best Management Best Staff makes TSPH even more Great...The motivation given by TSPH not only helps you in 2 years but it helps us in our future...</p>
+									<div class="w3layouts_event_right_para_pos">
+										<i class="fa fa-quote-left" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="w3_agile_event_right_grids">
+									<div class="col-xs-4 w3_agile_event_right_grid_left">
+											<img src="images/Sarthak-Nishit.jpg" alt=" " class="img-responsive" />
+									</div>
+									<div class="col-xs-8 w3_agile_event_right_grid_right">
+										<h4>Sarthak Nishit</h4>
+										<p>Student</p>
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+							</div>
+						</li>
+						<!-- Raj Ghamsani-->
+						<li>
+							<div class="w3_event_right_grid">
+								<div class="w3layouts_event_right_para">
+									<p>The Best Place to study where we can know our Strong point and our weak point in studies and also making weak point to strong with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they helps us to manage our timings and makes us to work harder...They proved that TSPH is TSPH....</p>
+									<div class="w3layouts_event_right_para_pos">
+										<i class="fa fa-quote-left" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="w3_agile_event_right_grids">
+									<div class="col-xs-4 w3_agile_event_right_grid_left">
+											<img src="images/Raj-Ghamsani.jpg" alt=" " class="img-responsive" />
+									</div>
+									<div class="col-xs-8 w3_agile_event_right_grid_right">
+										<h4>Raj Ghamsani</h4>
+										<p>Student</p>
 									</div>
 									<div class="clearfix"> </div>
 								</div>

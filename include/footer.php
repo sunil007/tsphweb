@@ -26,14 +26,14 @@
 				<div class="col-md-6 w3layouts_footer_grid nopadding">
 					<p><b>BHAYANDAR BRANCH</b></p>
 					<p>First Floor, Ashoka Shopping Centre, Navghar Road,Near Shani Mandir, Near Railway Station, Bhayandar (E),</p>
-					<a class="agile-icon" href="#" style="color:white;"> <i class=" fa-map-marker"></i></a>
+					<a class="agile-icon" href="#" style="color:white;"> <i class="fa fa-map-marker"></i></a>
 					<a href="tel:+918652375375" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 375 375</a><a style="color:white;"> |</a>
 					<a href="tel:+918652374374" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 374 374</a>
 				</div>
 				<div class="col-md-6 w3layouts_footer_grid">
 					<p><b>MIRAROAD BRANCH</b></p> 
 					<p>D/232, First Floor, Shanti Shopping Centre, Near Railway Station, Mira Road (E),</p>
-					<a class="agile-icon" href="#" style="color:white;"> <i class=" fa-map-marker"></i></a>
+					<a class="agile-icon" href="#" style="color:white;"> <i class="fa fa-map-marker"></i></a>
 					<a href="tel:+918652371371" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 371 371</a><a style="color:white;"> |</a>
 					<a href="tel:+918652373373" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 373 373</a>
 				</div>
