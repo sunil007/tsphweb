@@ -51,7 +51,15 @@
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'index')?"menu__item--current": "" ?>"><a href="index.php" class="menu__link">Home</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'faculty')?"menu__item--current": "" ?>"><a href="faculty.php" class="menu__link">Faculty</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'courses')?"menu__item--current": "" ?>"><a href="courses.php" class="menu__link">Courses</a></li>
-						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"menu__item--current": "" ?>"><a href="results.php" class="menu__link">Results</a></li>
+						<li class="dropdown menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"menu__item--current": "" ?>"><a href="result_2021.php" class="dropdown-toggle menu__link" data-toggle="dropdown">Results<b class="caret"></b></a>
+							<ul class="dropdown-menu agile_short_dropdown ">
+								<li><a href="result_2021.php">2021 Results</a></li>
+								<li><a href="result_2020.php">2020 Results</a></li>
+								<li><a href="result_2019.php">2019 Results</a></li>
+								<li><a href="result_2018.php">2018 Results</a></li>
+							</ul>
+						</li>
+						
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'gallery')?"menu__item--current": "" ?>"><a href="gallery.php" class="menu__link">Gallery</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'contactus')?"menu__item--current": "" ?>"><a href="contactus.php" class="menu__link">Contact Us</a></li>
 					</ul>
@@ -60,3 +68,4 @@
 		</nav>
 	</div>
 </div>
+

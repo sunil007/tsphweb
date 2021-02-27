@@ -230,7 +230,7 @@ ul.agile_forms {
 	min-height:700px;
 }
 .w3layouts-banner-top1{
-	background: url(../images/banner1.jpg) no-repeat 0px 0px;
+	background: url('../images/banner1.jpg') no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -239,7 +239,7 @@ ul.agile_forms {
 	min-height:700px;
 }
 .w3layouts-banner-top2{
-	background: url(../images/banner2.jpg) no-repeat 0px 0px;
+	background: url('../images/banner2.jpg') no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -3862,4 +3862,21 @@ h3.agileinfo_sign  {
 
 .nomargin{
 	margin : 0px !important;
+}
+
+.center{
+	margin: 0px auto; 
+	width: 1000px;'
+}
+
+.studentname{
+	color: #eb5424;
+	font-size: 1em;
+	margin: 5px 0px;
+}
+
+.studentdetail{
+	color: #999999;
+	font-size: 14px;
+	margin: 5px 0px;
 }
