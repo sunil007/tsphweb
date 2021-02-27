@@ -13,33 +13,39 @@
 			</div>
 			<div class="col-md-9 w3layouts_footer_grid">
 				<ul class="w3l_footer_nav">
-					<li><a href="index.php" class="active">Home</a></li>
-					<li><a href="faculty.php">Faculty</a></li>
-					<li><a href="courses.php">Courses</a></li>
-					<li><a href="results.php">Results</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="contactus.php">Contact Us</a></li>
+					<li><a href="index.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'index')?"active": "" ?>">Home</a></li>
+					<li><a href="faculty.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'faculty')?"active": "" ?>">Faculty</a></li>
+					<li><a href="courses.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'courses')?"active": "" ?>">Courses</a></li>
+					<li><a href="results.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"active": "" ?>">Results</a></li>
+					<li><a href="gallery.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'gallery')?"active": "" ?>">Gallery</a></li>
+					<li><a href="contactus.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'contactus')?"active": "" ?>">Contact Us</a></li>
 				</ul>
 			</div>
 			<div class="col-md-12 w3layouts_footer_grid">
+				<div style='height:20px'></div>
 				<h2><span>Branch</span> Address</h2>
-				<div class="col-md-6 w3layouts_footer_grid nopadding">
+				<div class="col-md-6 nopadding">
 					<p><b>BHAYANDAR BRANCH</b></p>
 					<p>First Floor, Ashoka Shopping Centre, Navghar Road,Near Shani Mandir, Near Railway Station, Bhayandar (E),</p>
 					<a class="agile-icon" href="#" style="color:white;"> <i class="fa fa-map-marker"></i></a>
 					<a href="tel:+918652375375" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 375 375</a><a style="color:white;"> |</a>
 					<a href="tel:+918652374374" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 374 374</a>
+					<div style='height:20px'></div>
 				</div>
-				<div class="col-md-6 w3layouts_footer_grid">
+				<div class="col-md-6 nopadding">
 					<p><b>MIRAROAD BRANCH</b></p> 
 					<p>D/232, First Floor, Shanti Shopping Centre, Near Railway Station, Mira Road (E),</p>
 					<a class="agile-icon" href="#" style="color:white;"> <i class="fa fa-map-marker"></i></a>
 					<a href="tel:+918652371371" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 371 371</a><a style="color:white;"> |</a>
 					<a href="tel:+918652373373" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 373 373</a>
+					<div style='height:20px'></div>
 				</div>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
-		<p class="text-center" style="color:white;">© 2021 Mastering. All Rights Reserved.</p>
+		<div>
+			<div style='height:20px'></div>
+			<p class="text-center" style="color:white;">&copy; 2021 Mastering. All Rights Reserved.</p>
+		</div>
 	</div>
 </div>
