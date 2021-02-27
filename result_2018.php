@@ -16,7 +16,7 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top3">
+					<div class="w3layouts-banner-top" style="background: url('images/2018EngResults/Slider_Akhil_K.jpg') no-repeat 0px 0px; background-size: cover;">
 
 						<div class="container">
 							<div class="agileits-banner-info">
@@ -25,7 +25,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top4">
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/Slider_Khushal_R.jpg') no-repeat 0px 0px; background-size: cover;">
 					<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -33,7 +33,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top5">
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018MedResults/Slider_Chandrika_R.jpg') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
