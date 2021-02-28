@@ -82,6 +82,7 @@
 					</div>
 					<div class="col-md-12">&nbsp;</div>
 					<div class="col-md-12">
+						<div style="height:50px;"></div>
 						<h3 class="w3l_header w3_agileits_header">Medical Results <span>2021</span></h3>
 						<div style="height:50px;"></div>
 					</div>

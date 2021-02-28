@@ -3856,6 +3856,10 @@ h3.agileinfo_sign  {
 	text-align: left !important;
 }
 
+.text-right{
+	text-align: right !important;
+}
+
 .text-center{
 	text-align: center;
 }
