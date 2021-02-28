@@ -18,8 +18,19 @@
 	
 	<div class="col-md-12">
 		<div style="height:50px;"></div>
-		<h4 class="text-center" id="h4.-bootstrap-heading">Fill this contact form correctly to receive a callback from our side. We will respond to your message within 24 hours. You can get in touch with us on 
-		<a href="tel:+918652375375" style="color:43BABA" onMouseOver="this.style.color='green'"onMouseOut="this.style.color='25A3A3'">8652375375</a> either over the call or WhatsApp during office hours.</h4>
+		<div class="col-md-12 col-sm-12 agileits_mail_grid_left agileinfo_mail_grid_left">
+			<div class="agileits_mail_grid_lft_grid wthree_mail_grid_lft_grid">
+				<ul class="text-center">
+					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Fill this contact form correctly to receive a callback from our side.</li>
+					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> We will respond to your message within 24 hours.</li>
+					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> You can get in touch with us on 
+						<a href="tel:+918652375375" style="color:43BABA" onMouseOver="this.style.color='green'"onMouseOut="this.style.color='25A3A3'">8652375375</a> either over the call or WhatsApp during office hours.</h4></li>
+				</ul>
+			</div>	
+		</div>
+	</div>
+	
+	<div class="col-md-12">
 		<div style="height:50px;"></div>
 	</div>
 
