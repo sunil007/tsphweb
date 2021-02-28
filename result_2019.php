@@ -51,11 +51,6 @@
 		<div class="container">
 		
 			<div class="services two nopadding">
-				<div class="alert alert-success text-center" role="alert">
-						<strong>41 STUDENTS</strong> CLEARED JEE MAINS, 
-						<strong>9 STUDENTS</strong> CLEARED JEE ADVANCED, 
-						<strong>24 STUDENTS</strong> SCORED 99 PERCENTILE IN MHCET.
-					</div>
 				<div class="container">
 					<!--2019 Eng Results-->
 					<div class="col-md-12">
@@ -254,6 +249,15 @@
 						</div>
 						<div class="studentdetail text-center">PICT Pune </div>
 					</div>
+					
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+						<div class="alert alert-success text-center" role="alert">
+							<strong>41 STUDENTS</strong> CLEARED JEE MAINS, 
+							<strong>9 STUDENTS</strong> CLEARED JEE ADVANCED, 
+							<strong>24 STUDENTS</strong> SCORED 99 PERCENTILE IN MHCET.
+						</div>
+					</div>
 					<!-- //2019 Eng Results-->
 					
 					<!--2019 Med Results-->
@@ -403,6 +407,13 @@
 						<div class="studentname text-center">Sakshi T.</div>
 						<div class="studentdetail text-center">
 							MBBS, GMC Baramati
+						</div>
+					</div>
+					
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+						<div class="alert alert-success text-center" role="alert">
+							<strong>14 MBBS</strong> IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.
 						</div>
 					</div>
 					<!-- //2018 Med Results-->
