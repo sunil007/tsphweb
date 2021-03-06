@@ -19,6 +19,11 @@
 					<a href="https://www.youtube.com/channel/UC_hBrnDRNGlle41c-E9uPFw" target="_blank" style='margin: 0px 0px 0px 10px;font-size:16px;' onMouseOver="this.style.color='red'"onMouseOut="this.style.color='#fff'">
 						<i class="fa fa-youtube-play nopadding" aria-hidden="true"></i>
 					</a>
+					<span style="border-left: 1px solid #cfcfcf;margin-left: 3px;">&nbsp;</span>
+					
+					<a href="https://goo.gl/maps/ZUsWTgWMfEz2qvWh7" target="_blank" style='margin: 0px 0px 0px 10px;font-size:16px;' onMouseOver="this.style.color='red'"onMouseOut="this.style.color='#fff'">
+						<i class="fa fa-map-marker nopadding" aria-hidden="true"></i>
+					</a>
 				</li>
 				<li>
 					<a href="tel:+918652375375" style='font-size:15px;' onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">

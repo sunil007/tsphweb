@@ -143,7 +143,7 @@
 		<div class="team-w3ls-row">
 		   <h3 class="w3l_header w3_agileits_header">Our <span>Instructors</span></h3>
 		   <div class="agileits_banner_bottom_grids">
-				<div class="col-md-3 col-sm-6 team-grids">
+				<div class="col-md-4 col-sm-6 team-grids">
 					<img src="images/HiteshBechra-Physics.png" alt="" height="350px"/>
 					<div class="img-caption w3-agileits">
 						<div class="img-agileinfo-text">
@@ -159,7 +159,10 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 team-grids">
+				
+				<div class="col-md-4 col-sm-6 team-grids"></div>
+				
+				<div class="col-md-4 col-sm-6 team-grids">
 					<img src="images/ParimalPatel-Chemistry.png" alt="" height="350px"/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
@@ -175,7 +178,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 team-grids">
+				<div class="col-md-4 col-sm-6 team-grids">
 					<img src="images/PranavGandhi-Maths.png" alt="" height="350px"/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
@@ -191,7 +194,10 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 team-grids">
+				
+				<div class="col-md-4 col-sm-6 team-grids"></div>
+				
+				<div class="col-md-4 col-sm-6 team-grids">
 					<img src="images/GyanprakashPandey-Biology.png" alt="" height="350px"/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
@@ -251,65 +257,97 @@
 					<div class="col-md-12"><hr></div>
 				</div>
 				
-				<div class="col-md-3 service-box">
-				
-					<figure class="icon">
-					 <span>2</span>
-					<i class="fa fa-laptop" aria-hidden="true"></i>
-					</figure>
-					<h5>Library Study Hall</h5>
-					<p>To achieve best conceptual clarity; self-study is must & to promote the same, we have diversified collection of reference books in our library.</p>
-				</div>
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					 <span>3</span>
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>3</span>
 						<i class="fa fa-book" aria-hidden="true"></i>
-					</figure>
-					<h5>Study Material</h5>
-				<p>Self-designed, systematic & comprehensive study material is provided for boards & entrance exam preparation. Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it.</p>
+						</figure>
+						<h5>Study Material</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>Self-designed, systematic & comprehensive study material is provided for boards & entrance exam preparation. Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
 				</div>
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					 <span>4</span>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>4</span>
 						<i class="fa fa-lightbulb-o" aria-hidden="true"></i>
-					</figure>
-					<h5>Testing Program</h5>
-					<p>To ensure the relentless hard work from students, we, at Hub have designed ‘Unique Testing Program’ for boards as well as entrance. 
+						</figure>
+						<h5>Testing Program</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>To ensure the relentless hard work from students, we, at Hub have designed ‘Unique Testing Program’ for boards as well as entrance. 
 					Students are constantly engaged in a monthly testing cycle comprising of small test of 15 minutes to the entrance pattern 6 hours long test.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
 				</div>
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					 <span>5</span>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>5</span>
 						<i class="fa fa-question-circle-o" aria-hidden="true"></i>
-					</figure>
-					<h5>Work Extraction & Rigorous Doubts Solving</h5>
-				<p>We ensure timely completion and honesty in homework. At Hub, availability of professors make doubt solving instant and effective.</p>
+						</figure>
+						<h5>Work Extraction & Rigorous Doubts Solving</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>We ensure timely completion and honesty in homework. At Hub, availability of professors make doubt solving instant and effective.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
 				</div>
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					 <span>6</span>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>6</span>
 						<i class="fa fa-users" aria-hidden="true"></i>
-					</figure>
-					<h5>One on One Counseling</h5>
-					<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of parent because we believe that all the three must work in coordination to ensure the best progress.</p>
+						</figure>
+						<h5>One on One Counseling</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of parent because we believe that all the three must work in coordination to ensure the best progress.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
 				</div>
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					 <span>7</span>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>7</span>
 						<i class="fa fa-laptop" aria-hidden="true"></i>
-					</figure>
-					<h5>TSPH Digital</h5>
-				<p>‘TSPH Digital’ is transforming student’s performance in every possible way. Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
+						</figure>
+						<h5>TSPH Digital</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>‘TSPH Digital’ is transforming student’s performance in every possible way. Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
 				Students as well as parents are given access to our online web portal/android app to closely monitor attendance, test performance and progress.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
 				</div>
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					 <span>8</span>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>8</span>
 						<i class="fa fa-trophy" aria-hidden="true"></i>
-					</figure>
-					<h5>Consistency in Results</h5>
-					<p>We relentlessly work towards each and every student and guide them to reach a step above their potential. For us ‘Every Child Matters’. 
+						</figure>
+						<h5>Consistency in Results</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>We relentlessly work towards each and every student and guide them to reach a step above their potential. For us ‘Every Child Matters’. 
 					Year on year our students are taking results to the greater heights and getting selected in state and national level engineering and medical institutes.</p>
+					</div>
+					<div class="col-md-12"></div>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
