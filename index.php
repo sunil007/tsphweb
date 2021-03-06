@@ -17,31 +17,12 @@
 			<ul>
 				<li>
 					<div class="w3layouts-banner-top">
-
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top1">
-					<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top2">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-							
-						</div>
-					</div>
-				</li>
-
 			</ul>
 		</div>
 	</div>
@@ -133,7 +114,7 @@
 	</div>
 <!-- //bootstrap-pop-up -->
 <!-- banner-bottom -->
-	<div class="banner-bottom">
+	<div class="banner-bottom nopadding">
 		<div class="container">
 	<div class="services two">
 		<div class="container">
@@ -142,6 +123,7 @@
 				<div class="col-md-12 wthree_services_grid_left">
 					<h3 class="text-left nomargin">THE <span>SCIENCE PRIVATE'S</span> HUB</h3>
 					<h4>Challenge your Limits!</h4>
+					<div style='height:15px;'></div>
 					<p> TSPH, The Science Private’s Hub, is an institution focused on creating a benchmark in the education industry. 
 						Concept of Private’s, work extraction and personalized attention are some of the key features which distinguish us from others. 
 						Our ideology is “Don’t Limit Your Challenges, Challenge Your Limits”. Rich experience of directors and their passion towards teaching is changing 
@@ -158,9 +140,9 @@
 		</div>
 	</div>
 <!-- //services -->
-				<div class="team-w3ls-row">
-				   <h3 class="w3l_header w3_agileits_header">Our <span>Instructors</span></h3>
-				   <div class="agileits_banner_bottom_grids">
+		<div class="team-w3ls-row">
+		   <h3 class="w3l_header w3_agileits_header">Our <span>Instructors</span></h3>
+		   <div class="agileits_banner_bottom_grids">
 				<div class="col-md-3 col-sm-6 team-grids">
 					<img src="images/HiteshBechra-Physics.png" alt="" height="350px"/>
 					<div class="img-caption w3-agileits">
@@ -227,8 +209,8 @@
 				</div>
 				<div class="clearfix"> </div> 
 			</div>
-			</div>
-
+		</div>
+		<div style='height:40px;'></div>
 		</div>
 	</div>
 <!-- //banner-bottom -->
@@ -238,15 +220,37 @@
 		<div class="container">
 		<h3 class="w3l_header w3_agileits_header two">Why <span> TSPH ?</span></h3>
 			<div class="agile_inner_w3ls-grids two">
-				<div class="col-md-3 service-box">
-					<figure class="icon">
-					    <span>1</span>
-						<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-					</figure>
-					<h5>Concept of Private’s</h5>
-					<p>Directors themselves take the full responsibility of the subject and execute the plan with the help of small team of teachers. 
-					‘Personal Attention’ distinguishes TSPH from others.</p>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+							<span>1</span>
+							<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+						</figure>
+						<h5>Concept of Private’s</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>Directors themselves take the full responsibility of the subject and execute the plan with the help of small team of teachers. ‘Personal Attention’ distinguishes TSPH from others.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
 				</div>
+				
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>2</span>
+						<i class="fa fa-laptop" aria-hidden="true"></i>
+						</figure>
+						<h5>Library Study Hall</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>To achieve best conceptual clarity; self-study is must & to promote the same, we have diversified collection of reference books in our library.</p>
+					</div>
+					<div class="col-md-12"><hr></div>
+				</div>
+				
 				<div class="col-md-3 service-box">
 				
 					<figure class="icon">
@@ -319,7 +323,7 @@
 		
 		<h3 class="w3l_header w3_agileits_header"> Latest <span>  News & Announcements</span></h3>
 	
-		<div class="grid_3 grid_5 agile">
+			<div class="grid_3 grid_5 agile">
 				<!--comment><h3>Wells</h3><comment-->
 				<div class="well" style="border-color:#c71414;">
 					<a href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P" style="color:#c71414; font-weight:bold;">JEE Mains 2021Application Form Fill up</a>

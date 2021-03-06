@@ -6,8 +6,14 @@
 <script src="js/JiSlider.js"></script>
 <script>
 	$(window).load(function () {
-		if($('#JiSlider').size() > 0)
-			$('#JiSlider').JiSlider({color: '#fff', start: 3, reverse: true}).addClass('ff')
+		if($('#JiSlider').size() > 0){
+			var startSize = $("#JiSlider ul li").size();
+			if(startSize > 1){
+				$('#JiSlider').JiSlider({color: '#fff', start: startSize, reverse: true}).addClass('ff');
+			}else{
+				$('#JiSlider').JiSlider({color: '#fff', start: startSize, reverse: true, time : 10000000000}).addClass('ff');
+			}
+		}
 	})
 </script>
 

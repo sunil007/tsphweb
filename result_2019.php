@@ -24,14 +24,6 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/Slider_Khushal_R.jpg') no-repeat 0px 0px; background-size: cover;">
-					<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
 					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2019MedResults/DSC_4180.JPG') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
@@ -59,6 +51,19 @@
 					</div>
 					
 					<!-- MAYANK AGARWAL -->
+					<div class="col-md-12 col-sm-12">
+						<div style="height:50px;"></div>
+						<div class="alert alert-success text-center" role="alert" style="position: relative;">
+							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
+								<span>
+									<strong style="font-size: 3em;">41 STUDENTS </strong>
+								</span> 
+								 CLEARED JEE MAINS.
+							</span>
+						</div>	
+					</div>	
+					
+					
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
 						<div class="col-md-6"><div class="text-center"><img src="images/2019EngResults/Mayank A..JPG" alt="" height="450px"></div></div>
 						<div class="col-md-6">
@@ -124,6 +129,18 @@
 					
 					<div class="col-md-12">
 						<div style="height:50px;"></div>
+					</div>
+					
+					<div class="col-md-12 col-sm-12">
+						<div style="height:50px;"></div>
+						<div class="alert alert-success text-center" role="alert" style="position: relative;">
+							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
+								<span>
+									<strong style="font-size: 3em;">9 STUDENTS </strong>
+								</span> 
+								 CLEARED JEE ADVANCED.
+							</span>
+						</div>	
 					</div>
 					
 					<!-- AMAN C. -->
@@ -225,7 +242,7 @@
 					<!-- VATSAV D. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019EngResults/Vatsal D..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Vatsav D.</div>
+						<div class="studentname text-center">Vatsal D.</div>
 						<div class="text-center">							
 							MHT-CET : 99.126% (PR)
 						</div>
@@ -251,12 +268,17 @@
 					</div>
 					
 					<div class="col-md-12">
+						
 						<div style="height:50px;"></div>
-						<div class="alert alert-success text-center" role="alert">
-							<strong>41 STUDENTS</strong> CLEARED JEE MAINS, 
-							<strong>9 STUDENTS</strong> CLEARED JEE ADVANCED, 
-							<strong>24 STUDENTS</strong> SCORED 99 PERCENTILE IN MHCET.
+						<div class="alert alert-success text-center" role="alert" style="position: relative;">
+							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
+								<span>
+									<strong style="font-size: 3em;">24 STUDENTS </strong>
+								</span> 
+								SCORED 99 PERCENTILE IN MHCET.
+							</span>
 						</div>
+						
 					</div>
 					<!-- //2019 Eng Results-->
 					
@@ -412,8 +434,13 @@
 					
 					<div class="col-md-12">
 						<div style="height:50px;"></div>
-						<div class="alert alert-success text-center" role="alert">
-							<strong>14 MBBS</strong> IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.
+						<div class="alert alert-success text-center" role="alert" style="position: relative;">
+							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
+								<span>
+									<strong style="font-size: 3em;">14 MBBS</strong>
+								</span> 
+								IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.
+							</span>
 						</div>
 					</div>
 					<!-- //2018 Med Results-->

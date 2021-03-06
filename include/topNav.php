@@ -42,7 +42,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1><a class="navbar-brand img-responsive" href="index.php"><img src="images\TSPH-Logo1.png" alt="TSPH-Logo" style="height: 47px;"></a></h1>
+				<h1><a class="navbar-brand img-responsive" href="index.php"><img src="images\logo_tran.png" alt="TSPH-Logo" style="height: 100px;position: absolute;z-index: 10000000;background: none;"></a></h1>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">

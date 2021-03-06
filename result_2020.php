@@ -1,5 +1,5 @@
 <?php include "include/security.php" ?>
-<?php $_SESSION['pageName'] = 'index' ?>
+<?php $_SESSION['pageName'] = 'results' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

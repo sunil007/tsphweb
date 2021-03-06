@@ -236,7 +236,7 @@
 					</div>
 					
 					<div class="bs-docs-example">
-						<table class="table table-striped">
+						<!--table class="table table-striped">
 							<thead>
 								<tr>
 									<th>Student Name</th>
@@ -297,7 +297,7 @@
 									<td>BAMS</td>
 								</tr>
 							</tbody>
-						</table>
+						</table-->
 					</div>
 				</div>
 			</div>
