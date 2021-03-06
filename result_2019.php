@@ -58,7 +58,7 @@
 								<span>
 									<strong style="font-size: 3em;">41 STUDENTS </strong>
 								</span> 
-								 CLEARED JEE MAINS.
+								<span style="font-weight:bold;"> CLEARED JEE MAINS.</span>
 							</span>
 						</div>	
 					</div>	
@@ -138,7 +138,7 @@
 								<span>
 									<strong style="font-size: 3em;">9 STUDENTS </strong>
 								</span> 
-								 CLEARED JEE ADVANCED.
+								<span style="font-weight:bold;"> CLEARED JEE ADVANCED.</span>
 							</span>
 						</div>	
 					</div>
@@ -239,7 +239,7 @@
 						<div class="studentdetail text-center">D.J. Sanghvi Mumbai</div>
 					</div>
 					
-					<!-- VATSAV D. -->
+					<!-- VATSAL D. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019EngResults/Vatsal D..JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Vatsal D.</div>
@@ -275,7 +275,7 @@
 								<span>
 									<strong style="font-size: 3em;">24 STUDENTS </strong>
 								</span> 
-								SCORED 99 PERCENTILE IN MHCET.
+								<span style="font-weight:bold;">SCORED 99 PERCENTILE IN MHCET.<span>
 							</span>
 						</div>
 						
@@ -376,7 +376,7 @@
 					</div>
 					<!-- MITHUNA P. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Mihtuna P..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/Mithuna P..JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Mithuna P.</div>
 						<div class="studentdetail text-center">
 							NEET : 546/720 <br>
@@ -409,7 +409,7 @@
 					</div>
 					<!-- HITANKSHI P. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Hitakshi P..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/Hitankshi P..JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Hitankshi P.</div>
 						<div class="studentdetail text-center">
 							MBBS, KEM Mumbai
@@ -439,7 +439,7 @@
 								<span>
 									<strong style="font-size: 3em;">14 MBBS</strong>
 								</span> 
-								IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.
+								<span style="font-weight:bold;">IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.</span>
 							</span>
 						</div>
 					</div>

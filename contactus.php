@@ -24,7 +24,7 @@
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Fill this contact form correctly to receive a callback from our side.</li>
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> We will respond to your message within 24 hours.</li>
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> You can get in touch with us on 
-						<a href="tel:+918652375375" style="color:43BABA" onMouseOver="this.style.color='green'"onMouseOut="this.style.color='25A3A3'">8652375375</a> either over the call or WhatsApp during office hours.</h4></li>
+						<a href="https://api.whatsapp.com/send?phone=918652375375" style="color:43BABA" onMouseOver="this.style.color='green'"onMouseOut="this.style.color='25A3A3'">8652375375</a> either over the call or WhatsApp during office hours.</h4></li>
 				</ul>
 			</div>	
 		</div>

@@ -44,7 +44,7 @@
 						</div>
 						<div class="col-md-6 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Parimal Patel</span></h3>
-							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #004c8d;font-weight: bold;">CHEMISTRY</h4>
+							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #034883;font-weight: bold;">CHEMISTRY</h4>
 							<div style='height:15px;'></div>
 							<p>Prof. Parimal Patel has completed B.Pharm from Institute of Chemical Technology (ICT). Stronghold on the subject and friendly environment in the classroom makes students fall in love with Chemistry. Along with Scientific knowledge, sir strongly believes in imparting spiritual knowledge also. Yoga sessions and lesson on physical exercise from Parimal sir helps students in better concentration in studies and learning. Sir is also certified yoga teacher from Ayush Mantralaya, Governmet of India. 
 							</p>
@@ -58,7 +58,7 @@
 						</div>
 						<div class="col-md-6 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Pranav Gandhi</span></h3>
-							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #ff8963;font-weight: bold;">MATHEMATICS</h4>
+							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #ff9b05;font-weight: bold;">MATHEMATICS</h4>
 							<div style='height:15px;'></div>
 							<p>Have you heard about musical Mathematics? Prof. Pranav Gandhi’s classroom is the perfect example of delivering Mathematics in musical format. Academics wise sir is coming from a management background. In the past two decades, sir has transformed the lives of many youngsters. Students from sir’s early teaching days have now become renowned Engineer and Doctor and serving across the Globe. Career counseling and motivational session of sir keeps students on their toe across the two years of academic program. 
 							</p>
