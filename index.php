@@ -28,10 +28,10 @@
 	</div>
 
 <!-- //banner -->
-	<!-- Modal1 -->
+	<!-- Modal1 >
 	<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
 		<div class="modal-dialog">
-		<!-- Modal content-->
+		<!-- Modal content>
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -60,11 +60,11 @@
 			</div>
 		</div>
 	</div>
-	<!-- //Modal1 -->	
-	<!-- Modal2 -->
+	<!-- //Modal1 >	
+	<!-- Modal2 >
 	<div class="modal fade" id="myModal3" tabindex="-1" role="dialog">
 		<div class="modal-dialog">
-		<!-- Modal content-->
+		<!-- Modal content>
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -86,9 +86,9 @@
 			</div>
 		</div>
 	</div>
-	<!-- //Modal2 -->	
+	< //Modal2 -->	
 
-<!-- bootstrap-pop-up -->
+<!-- bootstrap-pop-up >
 	<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
@@ -113,6 +113,7 @@
 		</div>
 	</div>
 <!-- //bootstrap-pop-up -->
+
 <!-- banner-bottom -->
 	<div class="banner-bottom nopadding">
 		<div class="container">
@@ -130,7 +131,9 @@
 						the dynamics of the education industry and shaping the career of youngsters.
 						When the passion of the teacher meets with dedication and hard work of students then the miracle happens! 
 					</p>
+					<div style='height:15px;'></div>
 					<p> Since inception in 2013; we are able to put Mira - Bhayandar on Maharashtra State map by producing state-level toppers in entrance examinations.
+						Year on year, number of students clearing national level entrance exams like IIT – JEE (Mains & Adv.), NEET, etc. are on rise. Many students from TSPH are entering into the most premier institutes of the country like IIT, NIT and many renowned GMC.
 						Our vision is to do all-round development of youngsters which enables them to pursue further studies from national level renowned engineering and medical institutes.
 					</p>
 					
@@ -141,19 +144,18 @@
 	</div>
 <!-- //services -->
 		<div class="team-w3ls-row">
-		   <h3 class="w3l_header w3_agileits_header">Our <span>Instructors</span></h3>
+		   <h3 class="w3l_header w3_agileits_header">Our Directors <span style="text-transform:lowercase;">cum</span><span> Professors</span></h3>
 		   <div class="agileits_banner_bottom_grids">
 				<div class="col-md-4 col-sm-6 team-grids">
 					<img src="images/HiteshBechra-Physics.png" alt="" height="350px"/>
 					<div class="img-caption w3-agileits">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Hitesh Bechra</h4>
-							<p>Physics Instructor</p> 
+							<p>Physics Guru</p> 
 							<div class="w3social-icons"> 
 								<ul>
-									<li><a href="#"><i class="fa fa-google-plus"></i> </a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i> </a></li> 
+									<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -167,12 +169,11 @@
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Parimal Patel</h4>
-							<p>Chemistry Instructor </p>
+							<p>Chemistry Guru </p>
 							<div class="w3social-icons"> 
 								<ul>
-									<li><a href="#"><i class="fa fa-google-plus"></i> </a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i> </a></li> 
+									<li><a href="#" onMouseOver="this.style.color='#00ba66" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -183,12 +184,11 @@
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Pranav Gandhi</h4>
-							<p>Maths Instructor</p> 
+							<p>Maths Guru</p> 
 							<div class="w3social-icons"> 
 								<ul>
-									<li><a href="#"><i class="fa fa-google-plus"></i> </a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i> </a></li> 
+									<li><a href="#" onMouseOver="this.style.color='#00ba66"onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li> 
 								</ul>
 							</div>
 						</div>
@@ -202,12 +202,11 @@
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Gyanprakash Pandey</h4>
-							<p>Biology Instructor</p>
+							<p>Biology Guru</p>
 							<div class="w3social-icons"> 
 								<ul>
-									<li><a href="#"><i class="fa fa-google-plus"></i> </a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i> </a></li> 
+									<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -237,7 +236,9 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>Directors themselves take the full responsibility of the subject and execute the plan with the help of small team of teachers. ‘Personal Attention’ distinguishes TSPH from others.</p>
+						<p>Directors themselves take the full responsibility of the subject and execute the plan with the help of small team of teachers. 
+							<strong>‘Personal Attention’</strong> distinguishes TSPH from others.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -245,14 +246,16 @@
 				<div class='row'>
 					<div class="col-md-3 service-box">
 						<figure class="icon">
-						 <span>2</span>
-						<i class="fa fa-laptop" aria-hidden="true"></i>
+						 <span style="text-align: center;">2</span>
+						<i class="glyphicon glyphicon-book" style="color:#fff; font-size:2em; top: -15px; left: 30px; z-index:999;" aria-hidden="true"></i>
 						</figure>
 						<h5>Library Study Hall</h5>
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>To achieve best conceptual clarity; self-study is must & to promote the same, we have diversified collection of reference books in our library.</p>
+						<p>To achieve best conceptual clarity; self-study is must & to promote the same, we have diversified collection 
+							of reference books in our library.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -267,7 +270,9 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>Self-designed, systematic & comprehensive study material is provided for boards & entrance exam preparation. Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it.</p>
+						<p>Self-designed, systematic & comprehensive study material is provided for boards & entrance exam preparation. 
+							Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -282,8 +287,9 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>To ensure the relentless hard work from students, we, at Hub have designed ‘Unique Testing Program’ for boards as well as entrance. 
-					Students are constantly engaged in a monthly testing cycle comprising of small test of 15 minutes to the entrance pattern 6 hours long test.</p>
+						<p>To ensure the relentless hard work from students, we, at Hub have designed <strong>‘Unique Testing Program’</strong> for boards as well as entrance. 
+							Students are constantly engaged in a monthly testing cycle comprising of small test of 15 minutes to the entrance pattern 6 hours long test.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -298,7 +304,9 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>We ensure timely completion and honesty in homework. At Hub, availability of professors make doubt solving instant and effective.</p>
+						<p>We ensure timely completion and honesty in homework. 
+							At Hub, availability of professors make doubt solving instant and effective.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -313,7 +321,9 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of parent because we believe that all the three must work in coordination to ensure the best progress.</p>
+						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of 
+							parent because we believe that all the three must work in coordination to ensure the best progress.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -328,8 +338,10 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>‘TSPH Digital’ is transforming student’s performance in every possible way. Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
-				Students as well as parents are given access to our online web portal/android app to closely monitor attendance, test performance and progress.</p>
+						<p><strong>‘TSPH Digital’</strong> is transforming student’s performance in every possible way. 
+							Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
+							Students as well as parents are given access to our online web portal/android app to closely monitor attendance, test performance and progress.
+						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
@@ -344,8 +356,10 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>We relentlessly work towards each and every student and guide them to reach a step above their potential. For us ‘Every Child Matters’. 
-					Year on year our students are taking results to the greater heights and getting selected in state and national level engineering and medical institutes.</p>
+						<p>We relentlessly work towards each and every student and guide them to reach a step above their potential. 
+							For us <strong>‘Every Child Matters’.</strong> Year on year our students are taking results to the greater heights 
+							and getting selected in state and national level engineering and medical institutes.
+						</p>
 					</div>
 					<div class="col-md-12"></div>
 				</div>
@@ -384,24 +398,24 @@
 	    <div class="container"> 
 			<div class="inner_w3l_agile_grids">
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid">
-		   <i class="fa fa-laptop" aria-hidden="true"></i>
-			<p class="counter">45</p>
-			<h3>Courses</h3>
+		   <i class="fa fa-code-fork" aria-hidden="true"></i>
+			<p class="counter">02</p>
+			<h3>Branches</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid1">
-		    <i class="fa fa-smile-o" aria-hidden="true"></i>
-			<p class="counter">165</p>
-			<h3>Members</h3>
+		    <i class="fa fa-laptop" aria-hidden="true"></i>
+			<p class="counter">07</p>
+			<h3>Courses</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid2">
-		<i class="fa fa-trophy" aria-hidden="true"></i>
-			<p class="counter">563</p>
-			<h3>Awards</h3>
+		<i class="fa fa-smile-o" aria-hidden="true"></i>
+			<p class="counter">650</p>
+			<h3>Active Students</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid3">
-		<i class="fa fa-user" aria-hidden="true"></i>
-			<p class="counter">245</p>
-			<h3>Instructors</h3>
+		<i class="fa fa-users" aria-hidden="true"></i>
+			<p class="counter">1250</p>
+			<h3>Ex-TSPHians</h3>
 		</div>
 		<div class="clearfix"> </div>
 	</div>

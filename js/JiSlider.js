@@ -100,7 +100,7 @@
 		var setting = $.extend({
 			auto: true,
 			start: 1,
-			time: 600,
+			time: 800,
 			stay: 3000,
 			controller: true,
 			easing: 'ease',

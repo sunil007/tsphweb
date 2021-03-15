@@ -30,17 +30,17 @@
 				<div class="col-md-6 nopadding">
 					<p><b>BHAYANDAR BRANCH</b></p>
 					<p>First Floor, Ashoka Shopping Centre, Navghar Road,Near Shani Mandir, Near Railway Station, Bhayandar (E),</p>
-					<a class="agile-icon" href="http://maps.google.com/?q=1stFloor,AshokaShoppingCenterNexttoDivineImageSchool,NavgharRd,BhayandarEast,MiraBhayandar,Maharashtra401105" style="color:white;"> <i class="fa fa-map-marker"></i></a>
-					<a href="tel:+918652375375" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 375 375</a><a style="color:white;"> |</a>
-					<a href="tel:+918652374374" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 374 374</a>
+					<a class="agile-icon" href="https://goo.gl/maps/PTt6feQ9M98xwtnS9" style="color:#f24141; font-size:1.7em;"> <i class="fa fa-map-marker"></i></a>
+					<a href="tel:+918652375375" style="font-size:16px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 375 375</a><a style="color:white;"> |</a>
+					<a href="tel:+918652374374" style="font-size:16px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 374 374</a>
 					<div style='height:20px'></div>
 				</div>
 				<div class="col-md-6 nopadding">
 					<p><b>MIRAROAD BRANCH</b></p> 
 					<p>D/232, First Floor, Shanti Shopping Centre, Near Railway Station, Mira Road (E),</p>
-					<a class="agile-icon" href="https://g.page/TSPH-miraroad?share" style="color:white;"> <i class="fa fa-map-marker"></i></a>
-					<a href="tel:+918652371371" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 371 371</a><a style="color:white;"> |</a>
-					<a href="tel:+918652373373" style="font-size:15px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 373 373</a>
+					<a class="agile-icon" href="https://g.page/TSPH-miraroad?share" style="color:#f24141; font-size:1.7em;"> <i class="fa fa-map-marker"></i></a>
+					<a href="tel:+918652371371" style="font-size:16px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 371 371</a><a style="color:white;"> |</a>
+					<a href="tel:+918652373373" style="font-size:16px; color:white;" onMouseOver="this.style.color='cyan'"onMouseOut="this.style.color='#fff'">8652 373 373</a>
 					<div style='height:20px'></div>
 					
 				</div>

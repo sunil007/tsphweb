@@ -14,4 +14,4 @@
 <link href="//fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/swipebox.css">
-<!-- <link href="https://kapeli.com/cheat_sheets/Font_Awesome.docset/Contents/Resources/Documents/index" rel="stylesheet" > -->
+<!--link href="https://www.w3schools.com/icons/fontawesome5_icons_code.asp" rel="stylesheet" -->

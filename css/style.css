@@ -262,7 +262,7 @@ ul.agile_forms {
 	
 }
 .agileits-banner-info h3 span{
-	    background: #2529d8;
+	background: #2529d8;
     padding: 0 15px;
 }
 .agileits-banner-info {
@@ -543,6 +543,11 @@ p.w3l_sub_para_agile {
 .w3social-icons ul li a:hover{
       color: #00ba66;
 }
+
+.w3social-icons .fa .fa-instagram:hover{
+      color: #00ba66 !important;
+}
+
 .team-w3ls-row {
     margin-top: 4em;
 }
@@ -642,15 +647,15 @@ p.w3l_sub_para_agile {
   transform: scale(1);
 }
 .service-box h5 {
-       font-size: 1em;
-    color: #fff;
+    font-size: 1em;
+    color: #00ba66;
     margin: 1.2em 0 0.8em 0;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 .service-box p {
-    color: #747884;
+    color: #ffffff;
     font-size: .9em;
     line-height: 1.9em;
     margin: 0;
