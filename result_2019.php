@@ -75,7 +75,7 @@
 							<div class="studentdetail text-left"><h2>(Now @ IIT-HYDERABAD)</h2></div>
 							<hr>
 							<div class="studentname text-left">
-								JEE ADVANCE : RANK 437* <br>
+								JEE ADVANCED : RANK 437* <br>
 								<div style="height:10px;"></div>								
 								JEE MAINS : 99.065% (PR) <br> 
 								<div style="height:10px;"></div>
@@ -96,7 +96,7 @@
 						<div class="studentdetail text-center"><h2>(Now @ IIT-BOMBAY)</h2></div>
 						<hr>
 						<div class="text-center">
-							JEE ADVANCE : RANK 516* <br>								
+							JEE ADVANCED : RANK 516* <br>								
 							JEE MAINS : 95.886% (PR) <br> 
 							MHT-CET : 99.911% (PR)
 						</div>
@@ -109,7 +109,7 @@
 						<div class="studentdetail text-center"><h2>(Now @ IIT-VARANASI)</h2></div>
 						<hr>
 						<div class="text-center">
-							JEE ADVANCE : RANK 820* <br>								
+							JEE ADVANCED : RANK 820* <br>								
 							JEE MAINS : 94.167% (PR) <br> 
 							MHT-CET : 99.219% (PR)
 						</div>
@@ -151,7 +151,7 @@
 							JEE MAINS : 98.501% (PR) <br> 
 							MHT-CET : 99.889% (PR)
 						</div>
-						<div class="studentdetail text-center">V.J.T.I. Mumbai</div>
+						<div class="studentdetail text-center">V.J.T.I, Mumbai</div>
 					</div>
 					<!-- SARTHAK N. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -161,7 +161,7 @@
 							JEE MAINS : 97.964%  (PR) <br> 
 							MHT-CET : 99.763%  (PR)
 						</div>
-						<div class="studentdetail text-center">S.P.I.T. Mumbai</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- SATYAM R. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -171,7 +171,7 @@
 							JEE MAINS : 97.255% (PR) <br> 
 							MHT-CET : 99.788%  (PR)
 						</div>
-						<div class="studentdetail text-center">S.P.I.T. Mumbai</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- SANDESH B. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -181,7 +181,7 @@
 							JEE MAINS : 96.440% (PR) <br> 
 							MHT-CET : 99.607% (PR)
 						</div>
-						<div class="studentdetail text-center">S.P.I.T. Mumbai</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -204,7 +204,7 @@
 						<div class="text-center">							
 							MHT-CET : 99.280% (PR)
 						</div>
-						<div class="studentdetail text-center">S.P.I.T. Mumbai</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- ISHA M. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -213,7 +213,7 @@
 						<div class="text-center">							
 							MHT-CET : 99.233% (PR)
 						</div>
-						<div class="studentdetail text-center">Thadomal Mumbai</div>
+						<div class="studentdetail text-center">Thadomal, Mumbai</div>
 					</div>
 					<!-- YASH G. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -222,7 +222,7 @@
 						<div class="text-center">							
 							MHT-CET : 99.226% (PR)
 						</div>
-						<div class="studentdetail text-center">Thakur Mumbai</div>
+						<div class="studentdetail text-center">Thakur, Mumbai</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -236,7 +236,7 @@
 						<div class="text-center">							 
 							MHT-CET : 99.130% (PR)
 						</div>
-						<div class="studentdetail text-center">D.J. Sanghvi Mumbai</div>
+						<div class="studentdetail text-center">D.J. Sanghvi, Mumbai</div>
 					</div>
 					
 					<!-- VATSAL D. -->
@@ -246,7 +246,7 @@
 						<div class="text-center">							
 							MHT-CET : 99.126% (PR)
 						</div>
-						<div class="studentdetail text-center">D.J. Sanghvi Mumbai</div>
+						<div class="studentdetail text-center">D.J. Sanghvi, Mumbai</div>
 					</div>
 					<!-- DARSHAN T. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -255,7 +255,7 @@
 						<div class="text-center">							
 							MHT-CET : 99.073% (PR)
 						</div>
-						<div class="studentdetail text-center">S.P.I.T. Mumbai</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- RATISH S. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
@@ -264,7 +264,7 @@
 						<div class="text-center">							 
 							MHT-CET : 99.226% (PR)
 						</div>
-						<div class="studentdetail text-center">PICT Pune </div>
+						<div class="studentdetail text-center">PICT, Pune </div>
 					</div>
 					
 					<div class="col-md-12">
@@ -275,9 +275,10 @@
 								<span>
 									<strong style="font-size: 3em;">24 STUDENTS </strong>
 								</span> 
-								<span style="font-weight:bold;">SCORED 99 PERCENTILE IN MHCET.<span>
+								<span style="font-weight:bold;">SCORED 99 PERCENTILE AND ABOVE IN MHCET.<span>
 							</span>
 						</div>
+						<div class="studentdetail text-center">* indicates category rank.</div>
 						
 					</div>
 					<!-- //2019 Eng Results-->

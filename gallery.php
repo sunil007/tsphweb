@@ -16,10 +16,10 @@
 	</div>
 <!-- //banner -->
 
-	<!-- Modal2 -->
+	<!-- Modal2 >
 	<div class="modal fade" id="myModal3" tabindex="-1" role="dialog">
 		<div class="modal-dialog">
-		<!-- Modal content-->
+		<!-- Modal content>
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -45,7 +45,7 @@
 
 <div class="contact">
 	<div class="container">
-		<h3 class="w3l_header w3_agileits_header">Our <span>Gallery</span></h3>
+		<h3 class="w3l_header w3_agileits_header">Our <span>Memories</span></h3>
 		<div class="inner_w3l_agile_grids-gal">
 			<div class="col-md-4 gallery-grid gallery1">
 				<a href="images/gallery/TSPH Classroom.jpg" class="swipebox"><img src="images/gallery/TSPH Classroom.jpg" class="img-responsive" alt="/">

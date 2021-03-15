@@ -76,6 +76,8 @@
 								HSC PCM : 97.33% <br> 
 								<div style="height:10px;"></div>
 								JEE MAINS : 240/360
+								<div style="height:10px;"></div>
+								JEE Adv. : AIR 3560
 							</div>
 						</div>
 					</div>
@@ -99,7 +101,7 @@
 					<!-- Jee advance cleared -->
 					<div class="col-md-12">
 						<div style="height:50px;"></div>
-						<h3 class="w3l_header w3_agileits_header">JEE Advance<span>Cleared</span></h3>
+						<h3 class="w3l_header w3_agileits_header">JEE Advanced <span>Cleared</span></h3>
 						<div style="height:50px;"></div>
 					</div>
 					<!-- Mukesh Patel -->
@@ -107,14 +109,14 @@
 						<div class="text-center"><img src="images/2018EngResults/mukesh-p.png" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Mukesh Patel</h2></div>
-						<div class="studentdetail text-center"><h2>D.J. Sanghvi</h2></div>
+						<div class="studentdetail text-center"><h2>D.J. Sanghvi, Mumbai</h2></div>
 					</div>
 					<!-- Raj Ghamsani -->
 					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/raj-g.png" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Raj Ghamsani</h2></div>
-						<div class="studentdetail text-center"><h2>D.J. Sanghvi</h2></div>
+						<div class="studentdetail text-center"><h2>D.J. Sanghvi, Mumbai</h2></div>
 					</div>
 					
 					<div class="col-md-12">
@@ -125,55 +127,55 @@
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/rajkumar-s.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Rajkumar S.</div>
-						<div class="studentdetail text-center">V.J.T.I.</div>
+						<div class="studentdetail text-center">V.J.T.I, Mumbai</div>
 					</div>
 					<!-- Hemant C. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/hemant-c.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Hemant C.</div>
-						<div class="studentdetail text-center">V.J.T.I.</div>
+						<div class="studentdetail text-center">V.J.T.I, Mumbai</div>
 					</div>
 					<!-- Aditi P. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/aditi-p.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Aditi P.</div>
-						<div class="studentdetail text-center">V.J.T.I.</div>
+						<div class="studentdetail text-center">V.J.T.I, Mumbai</div>
 					</div>
 					<!-- Harsh D. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/harsh-d.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Harsh D.</div>
-						<div class="studentdetail text-center">S.P.I.T.</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- Karan S. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/karan-s.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Karan S.</div>
-						<div class="studentdetail text-center">S.P.I.T.</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- Janvi K. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/janvi-k.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Janvi K.</div>
-						<div class="studentdetail text-center">S.P.I.T.</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- Darshit P. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/darshit-p.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Darshit P.</div>
-						<div class="studentdetail text-center">S.P.I.T.</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- Kuldeep V. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/kuldeep-v.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Kuldeep V.</div>
-						<div class="studentdetail text-center">S.P.I.T.</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- Shubham S. -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018EngResults/shubham-s.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Shubham S.</div>
-						<div class="studentdetail text-center">S.P.I.T.</div>
+						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					<!-- Jee advance cleared -->
 					<!-- //2018 Eng Results-->
@@ -192,7 +194,7 @@
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>CHANDRIKA R.</h2></div>
 							<div style="height:10px;"></div>
-							<div class="text-left"><h2>FIRST IN BHAYANDAR</h2></div>
+							<!--div class="text-left"><h2>FIRST IN BHAYANDAR</h2></div-->
 							<div style="height:10px;"></div>
 							<div class="studentdetail text-left"><h2>(Now @ GMC NAGPUR)</h2></div>
 							<hr>
@@ -215,7 +217,7 @@
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018MedResults/Ambika-g.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Ambika G.</div>
-						<div class="studentdetail text-center">NEET : 500/720 - GOVT. MBBS</div>
+						<div class="studentdetail text-center">NEET : 500/720 - MBBS, GMC Dhule</div>
 					</div>
 					<!-- KANCHAMANI T. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
