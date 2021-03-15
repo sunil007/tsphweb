@@ -223,13 +223,13 @@
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018MedResults/kanchamani-t.png" alt="" height="260px"></div>
 						<div class="studentname text-center">KANCHAMANI T.</div>
-						<div class="studentdetail text-center">NEET : 497/720  - GOVT. MBBS</div>
+						<div class="studentdetail text-center">NEET : 497/720  - MBBS, GMC Akola</div>
 					</div>
 					<!-- PRASHANT M. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2018MedResults/prashant-m.png" alt="" height="260px"></div>
 						<div class="studentname text-center">PRASHANT M.</div>
-						<div class="studentdetail text-center">NEET : 497/720 - GOVT. MBBS</div>
+						<div class="studentdetail text-center">NEET : 497/720 - MBBS, GMC Jalgaon</div>
 					</div>
 					<!-- //2018 Med Results-->
 					
