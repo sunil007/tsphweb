@@ -22,6 +22,109 @@
 		<div class="container">
 			<!-- Engineering Programs -->
 			<h3 class="w3l_header w3_agileits_header">Engineering  <span>Programs</span></h3>
+			<div style='height:30px'></div>
+			<div class="accordion" id="accordionExample">
+			  <div class="card">
+				<div class="card-header" id="headingOne">
+				  <h2 class="mb-0 nofocus">
+					<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#engcollapseOne">
+					  <h4 class='accordHeader'>
+						<div class='row nomargin'>
+							<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Two Year Classroom Program</div>
+							<div class='col-xs-1 nopadding'>
+								<div style="float: right;">
+									<i class="fa fa-arrow-right"></i>
+									<i class="fa fa-arrow-down"></i>
+								</div>
+							</div>
+						</div>
+					</h4>
+					</button>
+				  </h2>
+				</div>
+
+				<div id="engcollapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+				  <div class="card-body accordBody wthree_services_grid_left">
+						<div style='height:10px'></div>
+						<h3 class="text-left nomargin" style="font-size:1.5em">1.JEE Advanced 2 Years Course  <span>(XI + XII + JEE Mains &amp; Advanced + MHCET)</span></h3>
+						<div style='height:10px'></div>
+						<p>This is a perfect program for those aspiring Engineers who want to pursue engineering from Indian Institute of Technology (IIT) or Indian Institute of Science (IISc). The course is designed in such a way that along with the preparation of JEE Advanced, students will be well versed with the preparation of Boards and MHCET. The program commences in May month.</p>
+						<div style='height:30px'></div>
+						<h3 class="text-left nomargin" style="font-size:1.5em">2.JEE Mains 2 Years Course  <span>(XI + XII + JEE Mains + MHCET)</span></h3>
+						<div style='height:10px'></div>
+						<p>This is a perfect program for those aspiring Engineers who want to pursue engineering from either National Institute of Technology (NIT) or Indian Institute of Information Technology (IIIT) or Central Government Funded Technology Institutes (GFTI) or State Government Funded Colleges. This program balances preparations of boards as well as entrance examination. The course is designed in such a way that students are thoroughly prepared for JEE Mains and they will get an upper edge in MHCET examination. The program commences in May month.</p>
+						<div style='height:5px'></div>
+				  </div>
+				</div>
+			  </div>
+			  <div class="card">
+				<div class="card-header" id="headingOne">
+				  <h2 class="mb-0 nofocus">
+					<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#engcollapseTwo">
+					 <h4 class='accordHeader'>
+						<div class='row nomargin'>
+							<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Two Year Classroom Program</div>
+							<div class='col-xs-1 nopadding'>
+								<div style="float: right;">
+									<i class="fa fa-arrow-right"></i>
+									<i class="fa fa-arrow-down"></i>
+								</div>
+							</div>
+						</div>
+					</h4>
+					</button>
+				  </h2>
+				</div>
+
+				<div id="engcollapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+				  <div class="card-body accordBody wthree_services_grid_left">
+						<div style='height:10px'></div>
+						<h3 class="text-left nomargin" style="font-size:1.5em">1.JEE Advanced 2 Years Course  <span>(XI + XII + JEE Mains &amp; Advanced + MHCET)</span></h3>
+						<div style='height:10px'></div>
+						<p>This is a perfect program for those aspiring Engineers who want to pursue engineering from Indian Institute of Technology (IIT) or Indian Institute of Science (IISc). The course is designed in such a way that along with the preparation of JEE Advanced, students will be well versed with the preparation of Boards and MHCET. The program commences in May month.</p>
+						<div style='height:30px'></div>
+						<h3 class="text-left nomargin" style="font-size:1.5em">2.JEE Mains 2 Years Course  <span>(XI + XII + JEE Mains + MHCET)</span></h3>
+						<div style='height:10px'></div>
+						<p>This is a perfect program for those aspiring Engineers who want to pursue engineering from either National Institute of Technology (NIT) or Indian Institute of Information Technology (IIIT) or Central Government Funded Technology Institutes (GFTI) or State Government Funded Colleges. This program balances preparations of boards as well as entrance examination. The course is designed in such a way that students are thoroughly prepared for JEE Mains and they will get an upper edge in MHCET examination. The program commences in May month.</p>
+						<div style='height:5px'></div>
+				  </div>
+				</div>
+			  </div>
+			  <div class="card">
+				<div class="card-header" id="headingOne">
+				  <h2 class="mb-0 nofocus">
+					<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#engcollapseThree">
+					  <h4 class='accordHeader'>
+						<div class='row nomargin'>
+							<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Two Year Classroom Program</div>
+							<div class='col-xs-1 nopadding'>
+								<div style="float: right;">
+									<i class="fa fa-arrow-right"></i>
+									<i class="fa fa-arrow-down"></i>
+								</div>
+							</div>
+						</div>
+					</h4>
+					</button>
+				  </h2>
+				</div>
+
+				<div id="engcollapseThree" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+				  <div class="card-body accordBody wthree_services_grid_left">
+						<div style='height:10px'></div>
+						<h3 class="text-left nomargin" style="font-size:1.5em">1.JEE Advanced 2 Years Course  <span>(XI + XII + JEE Mains &amp; Advanced + MHCET)</span></h3>
+						<div style='height:10px'></div>
+						<p>This is a perfect program for those aspiring Engineers who want to pursue engineering from Indian Institute of Technology (IIT) or Indian Institute of Science (IISc). The course is designed in such a way that along with the preparation of JEE Advanced, students will be well versed with the preparation of Boards and MHCET. The program commences in May month.</p>
+						<div style='height:30px'></div>
+						<h3 class="text-left nomargin" style="font-size:1.5em">2.JEE Mains 2 Years Course  <span>(XI + XII + JEE Mains + MHCET)</span></h3>
+						<div style='height:10px'></div>
+						<p>This is a perfect program for those aspiring Engineers who want to pursue engineering from either National Institute of Technology (NIT) or Indian Institute of Information Technology (IIIT) or Central Government Funded Technology Institutes (GFTI) or State Government Funded Colleges. This program balances preparations of boards as well as entrance examination. The course is designed in such a way that students are thoroughly prepared for JEE Mains and they will get an upper edge in MHCET examination. The program commences in May month.</p>
+						<div style='height:5px'></div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			
 			<div class="wthree_services_grids">
 				<div class="col-md-6 wthree_services_grid_right">
 					<div class="col-md-3 agileits_w3layouts_service_grid">
