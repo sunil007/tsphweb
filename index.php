@@ -143,10 +143,11 @@
 		</div>
 	</div>
 <!-- //services -->
-		<div class="team-w3ls-row">
+		<div class="">
 		   <h3 class="w3l_header w3_agileits_header">Our Directors <span style="text-transform:lowercase;">cum</span><span> Professors</span></h3>
 		   <div class="agileits_banner_bottom_grids">
-				<div class="col-md-4 col-sm-6 team-grids">
+		   
+				<div class="col-md-offset-1 col-md-4 col-sm-6 team-grids">
 					<img src="images/HiteshBechra-Physics.png" alt="" height="350px"/>
 					<div class="img-caption w3-agileits">
 						<div class="img-agileinfo-text">
@@ -160,11 +161,10 @@
 							</div>
 						</div>
 					</div>
+					<div style='height:50px;'>&nbsp;</div>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 team-grids"></div>
-				
-				<div class="col-md-4 col-sm-6 team-grids">
+				<div class="col-md-offset-2 col-md-4 col-sm-6 team-grids">
 					<img src="images/ParimalPatel-Chemistry.png" alt="" height="350px"/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
@@ -178,8 +178,10 @@
 							</div>
 						</div>
 					</div>
+					<div style='height:50px;'>&nbsp;</div>
 				</div>
-				<div class="col-md-4 col-sm-6 team-grids">
+				
+				<div class="col-md-offset-1  col-md-4 col-sm-6 team-grids">
 					<img src="images/PranavGandhi-Maths.png" alt="" height="350px"/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
@@ -193,11 +195,12 @@
 							</div>
 						</div>
 					</div>
+					<div style='height:50px;'>&nbsp;</div>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 team-grids"></div>
 				
-				<div class="col-md-4 col-sm-6 team-grids">
+				
+				<div class="col-md-offset-2 col-md-4 col-sm-6 team-grids">
 					<img src="images/GyanprakashPandey-Biology.png" alt="" height="350px"/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
@@ -211,6 +214,7 @@
 							</div>
 						</div>
 					</div>
+					<div style='height:50px;'>&nbsp;</div>
 				</div>
 				<div class="clearfix"> </div> 
 			</div>
@@ -246,8 +250,8 @@
 				<div class='row'>
 					<div class="col-md-3 service-box">
 						<figure class="icon">
-						 <span style="text-align: center;">2</span>
-						<i class="glyphicon glyphicon-book" style="color:#fff; font-size:2em; top: -15px; left: 30px; z-index:999;" aria-hidden="true"></i>
+							<span>2</span>
+							<i class="fa fa-bank" aria-hidden="true"></i>
 						</figure>
 						<h5>Library Study Hall</h5>
 					</div>
@@ -433,10 +437,12 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>One of the best institute for Science...Extremely proud to have been a part of this exceptionally amazing place. The student-friendly teaching methods of the professors are highly commendable.</p>
-									<!--emoji <img draggable="false" class="emoji" alt="❤" src="https://s.w.org/images/core/emoji/11.2.0/svg/2764.svg"> -->
-									<div class="w3layouts_event_right_para_pos">
-										<i class="fa fa-quote-left" aria-hidden="true"></i>
+									<div>
+										<p style='margin:0px !important;padding-left:50px;'>One of the best institute for Science...Extremely proud to have been a part of this exceptionally amazing place. The student-friendly teaching methods of the professors are highly commendable.</p>
+										<!--emoji <img draggable="false" class="emoji" alt="❤" src="https://s.w.org/images/core/emoji/11.2.0/svg/2764.svg"> -->
+										<div class="w3layouts_event_right_para_pos">
+											<i class="fa fa-quote-left" aria-hidden="true"></i>
+										</div>
 									</div>
 								</div>
 								<div class="w3_agile_event_right_grids">
@@ -455,7 +461,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>I have gained a lot of knowledge from the great faculties of TSPH..i am really thankful to the science private hub as the faculties here show full dedication towards me and other students..they clear all my doubts and also they guide us in a very right way so that we can prepare well for our exams..the science private hub is honestly a great coaching institute...---proudly a TSPHIAN </p>
+									<p style='margin:0px !important;padding-left:50px;'>I have gained a lot of knowledge from the great faculties of TSPH..i am really thankful to the science private hub as the faculties here show full dedication towards me and other students..they clear all my doubts and also they guide us in a very right way so that we can prepare well for our exams..the science private hub is honestly a great coaching institute...---proudly a TSPHIAN </p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -476,7 +482,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material design by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studying.</p>
+									<p style='margin:0px !important;padding-left:50px;'>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material design by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studying.</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -497,7 +503,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>Professors of TSPH works on students by knowing their Capabilities and giving them Direction where they want to reach...Best Faculty Best Management Best Staff makes TSPH even more Great...The motivation given by TSPH not only helps you in 2 years but it helps us in our future...</p>
+									<p style='margin:0px !important;padding-left:50px;'>Professors of TSPH works on students by knowing their Capabilities and giving them Direction where they want to reach...Best Faculty Best Management Best Staff makes TSPH even more Great...The motivation given by TSPH not only helps you in 2 years but it helps us in our future...</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -518,7 +524,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p>The Best Place to study where we can know our Strong point and our weak point in studies and also making weak point to strong with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they helps us to manage our timings and makes us to work harder...They proved that TSPH is TSPH....</p>
+									<p style='margin:0px !important;padding-left:50px;'>The Best Place to study where we can know our Strong point and our weak point in studies and also making weak point to strong with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they helps us to manage our timings and makes us to work harder...They proved that TSPH is TSPH....</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
