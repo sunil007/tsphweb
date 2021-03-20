@@ -21,7 +21,7 @@
 		
 			<div class="services two nopadding">
 				<div class="container">
-					<h3 class="w3l_header w3_agileits_header">About Our <span>Faculty</span></h3>
+					<h3 class="w3l_header w3_agileits_header">About Our <span>Faculties</span></h3>
 					<div class="wthree_services_grids">	
 						
 						<!--Prof. Hitesh Bechra-->

@@ -34,7 +34,7 @@
 							<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#engcollapseOne">
 								<h4 class='accordHeader'>
 									<div class='row nomargin'>
-										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Two Year Classroom Program</div>
+										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'><i class="fa fa-gears"></i> Two Year Classroom Program</div>
 										<div class='col-xs-1 nopadding'>
 											<div style="float: right;">
 												<i class="fa fa-arrow-right"></i>
@@ -69,7 +69,7 @@
 							<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#engcollapseTwo">
 								<h4 class='accordHeader'>
 									<div class='row nomargin'>
-										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>One Year Classroom Program</div>
+										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'><i class="fa fa-gears"></i> One Year Classroom Program</div>
 										<div class='col-xs-1 nopadding'>
 											<div style="float: right;">
 												<i class="fa fa-arrow-right"></i>
@@ -100,7 +100,7 @@
 							<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#engcollapseThree">
 								<h4 class='accordHeader'>
 									<div class='row nomargin'>
-										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Special Repeaters Batch Program</div>
+										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'><i class="fa fa-gears"></i> Special Repeaters Batch Program</div>
 										<div class='col-xs-1 nopadding'>
 											<div style="float: right;">
 												<i class="fa fa-arrow-right"></i>
@@ -147,7 +147,7 @@
 							<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#medcollapseOne">
 								<h4 class='accordHeader'>
 									<div class='row nomargin'>
-										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Two Year Classroom Program</div>
+										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'><i class=" fa fa-stethoscope"></i> Two Year Classroom Program</div>
 										<div class='col-xs-1 nopadding'>
 											<div style="float: right;">
 												<i class="fa fa-arrow-right"></i>
@@ -178,7 +178,7 @@
 							<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#medcollapseTwo">
 								<h4 class='accordHeader'>
 									<div class='row nomargin'>
-										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>One Year Classroom Program</div>
+										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'><i class=" fa fa-stethoscope"></i> One Year Classroom Program</div>
 										<div class='col-xs-1 nopadding'>
 											<div style="float: right;">
 												<i class="fa fa-arrow-right"></i>
@@ -209,7 +209,7 @@
 							<button class="nofocus btn btn-link fullExpand text-left collapsed" type="button" data-toggle="collapse" data-target="#medcollapseThree">
 								<h4 class='accordHeader'>
 									<div class='row nomargin'>
-										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'>Special Repeaters Batch Program</div>
+										<div class='col-xs-11 nopadding' style='overflow: hidden;text-overflow: ellipsis;'><i class=" fa fa-stethoscope"></i> Special Repeaters Batch Program</div>
 										<div class='col-xs-1 nopadding'>
 											<div style="float: right;">
 												<i class="fa fa-arrow-right"></i>
@@ -243,7 +243,7 @@
 	</div>
 <!-- //services -->
 
-<!-- stats -->
+<!-- stats >
 	<div class="stats" id="stats">
 	    <div class="container"> 
 			<div class="inner_w3l_agile_grids">

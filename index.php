@@ -152,13 +152,15 @@
 					<div class="img-caption w3-agileits">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Hitesh Bechra</h4>
-							<p>Physics Guru</p> 
-							<div class="w3social-icons"> 
-								<ul>
-									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
+							<span>
+								<p style="font-size:1.2em;">Physics Guru</p>
+								<div class="w3social-icons"> 
+									<ul>
+										<li><a target="_blank" href="https://www.facebook.com/hitesh.bechra"><i class="fa fa-facebook"style="font-size:1.5em;"></i> </a></li>
+										<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+									</ul>
+								</div>
+							</span>
 						</div>
 					</div>
 					<div style='height:50px;'>&nbsp;</div>
@@ -169,13 +171,15 @@
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Parimal Patel</h4>
-							<p>Chemistry Guru </p>
-							<div class="w3social-icons"> 
-								<ul>
-									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#" onMouseOver="this.style.color='#00ba66" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
+							<span>
+								<p style="font-size:1.2em;">Chemistry Guru </p>
+								<div class="w3social-icons"> 
+									<ul>
+										<li><a target="_blank" href="https://www.facebook.com/ictparimal"><i class="fa fa-facebook" style="font-size:1.5em;"></i> </a></li>
+										<li><a href="#" onMouseOver="this.style.color='#00ba66" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+									</ul>
+								</div>
+							</span>
 						</div>
 					</div>
 					<div style='height:50px;'>&nbsp;</div>
@@ -186,13 +190,15 @@
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Pranav Gandhi</h4>
-							<p>Maths Guru</p> 
-							<div class="w3social-icons"> 
-								<ul>
-									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#" onMouseOver="this.style.color='#00ba66"onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li> 
-								</ul>
-							</div>
+							<span>
+								<p style="font-size:1.2em;">Mathematics Guru</p> 
+								<div class="w3social-icons"> 
+									<ul>
+										<li><a target="_blank" href="https://www.facebook.com/pranav.gandhi.75"><i class="fa fa-facebook" style="font-size:1.5em;"></i> </a></li>
+										<li><a href="#" onMouseOver="this.style.color='#00ba66"onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li> 
+									</ul>
+								</div>
+							</span>
 						</div>
 					</div>
 					<div style='height:50px;'>&nbsp;</div>
@@ -205,13 +211,15 @@
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Gyanprakash Pandey</h4>
-							<p>Biology Guru</p>
-							<div class="w3social-icons"> 
-								<ul>
-									<li><a href="#"><i class="fa fa-facebook"></i> </a></li>
-									<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
+							<span>
+								<p style="font-size:1.2em;">Biology Guru</p>
+								<div class="w3social-icons"> 
+									<ul>
+										<li><a target="_blank" href="https://www.facebook.com/gyanprakash.pandey.52"><i class="fa fa-facebook"style="font-size:1.5em;"></i> </a></li>
+										<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+									</ul>
+								</div>
+							</span>
 						</div>
 					</div>
 					<div style='height:50px;'>&nbsp;</div>

@@ -1772,6 +1772,9 @@ h2.typoh2{
 	.alert,p {
 		font-size: 14px;
 	}
+	.service-box p{
+		text-align:center;
+	}
 	.pagination {
 		margin: 20px 0 0px;
 	}
@@ -2327,7 +2330,7 @@ h3.agileinfo_sign  {
 		width: 30%;
 	}
 	.service-box p {
-		font-size: .85em;
+		font-size: 1em;
 		margin: 0;
 	}
 	.icon i.fa {
@@ -3467,7 +3470,7 @@ h3.agileinfo_sign  {
 		padding:5.5em 0 0em;
 	}
 	.service-box h5 {
-      font-size: 0.86em;
+      font-size: 1.1em;
 	}
 	.services{
 		padding:2em 0 1em 0;
@@ -3895,7 +3898,7 @@ h3.agileinfo_sign  {
 	width:100%;
 }
 .accordHeader{
-	font-size: 1.5em;color: #333;background: #eee;width: 100%;padding: 10px;border-radius: 7px;border: 1px solid #cfcfcf;
+	font-size: 1.2em;color: #333;background: #eee;width: 100%;padding: 10px;border-radius: 7px;border: 1px solid #cfcfcf;
 }
 .accordBody{
 	margin: -7px 15px;
