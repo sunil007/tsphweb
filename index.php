@@ -157,7 +157,7 @@
 								<div class="w3social-icons"> 
 									<ul>
 										<li><a target="_blank" href="https://www.facebook.com/hitesh.bechra"><i class="fa fa-facebook"style="font-size:1.5em;"></i> </a></li>
-										<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+										<li><a href="https://www.instagram.com/username/" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
 									</ul>
 								</div>
 							</span>
