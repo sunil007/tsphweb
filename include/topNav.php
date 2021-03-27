@@ -47,7 +47,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1><a class="navbar-brand img-responsive" href="index.php"><img src="images\logo_tran.png" alt="TSPH-Logo" style="height: 100px;position: absolute;z-index: 10000000;background: none;"></a></h1>
+				<h1><a class="navbar-brand img-responsive" href="index.php"><img src="images\logo.png" alt="TSPH-Logo" style="height: 100px;position: absolute;z-index: 10000000;background: none;"></a></h1>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -58,10 +58,11 @@
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'courses')?"menu__item--current": "" ?>"><a href="courses.php" class="menu__link">Courses</a></li>
 						<li class="dropdown menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"menu__item--current": "" ?>"><a href="result_2021.php" class="dropdown-toggle menu__link" data-toggle="dropdown">Results<b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown ">
-								<li><a href="result_2021.php">2021 Results</a></li>
+								<!--li><a href="result_2021.php">2021 Results</a></li-->
 								<li><a href="result_2020.php">2020 Results</a></li>
 								<li><a href="result_2019.php">2019 Results</a></li>
 								<li><a href="result_2018.php">2018 Results</a></li>
+								<li><a href="starsofTSPHgalaxy.php">Stars Of TSPH Galaxy</a></li>
 							</ul>
 						</li>
 						

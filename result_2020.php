@@ -71,6 +71,13 @@
 						</div>	
 					</div>	
 					
+					<!-- JEE & MHCET -->
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+						<h3 class="w3l_header w3_agileits_header">2020 <span>JEE & MHCET</span></h3>
+						<div style="height:50px;"></div>
+					</div>
+					
 					<!-- Mohit Sharma -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
 						<div class="col-md-6"><div class="text-center"><img src="images/2020EngResults/Mohit Sharma.JPG" alt="" height="450px"></div></div>
@@ -312,25 +319,30 @@
 					<div class="col-md-12">&nbsp;</div>
 					<div class="col-md-12">
 						<div style="height:50px;"></div>
-						<h3 class="w3l_header w3_agileits_header">Medical Results <span>2019</span></h3>
+						<h3 class="w3l_header w3_agileits_header">Medical Results <span>2020</span></h3>
 						<div style="height:50px;"></div>
 					</div>
 					
-					<!-- NIHARIKA MISHRA -->
+					<!-- 2020 NEET -->
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+						<h4 class="w3l_header w3_agileits_header">2020 NEET <span>GOVT. MBBS Selections</span></h4>
+						<div style="height:50px;"></div>
+					</div>
+					
+					<!-- Khushboo Rajpurohit -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2019MedResults/Niharika M..JPG" alt="" height="450px"></div></div>
+						<div class="col-md-6"><div class="text-center"><img src="images/2020MedResults/Khushboo Rajpurohit.JPG" alt="" height="450px"></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
-							<div class="studentname text-left"><h2>Niharika Mishra</h2></div>
+							<div class="studentname text-left"><h2>Khushboo Rajpurohit</h2></div>
 							<div style="height:10px;"></div>
-							<div class="studentdetail text-left"><h2>(Now @ KEM MUMBAI)</h2></div>
+							<div class="studentdetail text-left"><h2>KEM, MUMBAI</h2></div>
 							<hr>
 							<div class="studentname text-left">
-								NEET : 648/720 <br>
+								665/720<br>
 								<div style="height:10px;"></div>
-								STATE RANK : 75 <br>
-								<div style="height:10px;"></div>
-								AIR: 1070
+								STATE MERIT RANK : 80 <br>
 							</div>
 						</div>
 					</div>
@@ -339,41 +351,26 @@
 						<div style="height:50px;"></div>
 					</div>
 					
-					<!-- ALOK Y. -->
-					<div class="col-md-12" style="height:25px;"></div>
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Alok Y..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Alok Y.</div>
+					<!-- Maunik Modi -->
+					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Maunik Modi.JPG" alt="" height="400px"></div>
+						<div style="height:10px;"></div>
+						<div class="studentname text-center"><h2>Maunik Modi</h2></div>
+						<hr>
 						<div class="studentdetail text-center">
-							NEET : 560/720 <br>
-							MBBS, GMC Jalgaon
+							641/720 <br>
+							LTMMC, Mumbai
 						</div>
 					</div>
-					<!-- AKSHATA M. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Akshata M..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Akshata M.</div>
+					<!-- Pawan Modi -->
+					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Pawan Modi.JPG" alt="" height="400px"></div>
+						<div style="height:10px;"></div>
+						<div class="studentname text-center"><h2>Pawan Modi</h2></div>
+						<hr>
 						<div class="studentdetail text-center">
-							NEET : 558/720 <br>
-							MBBS, GMC Akola
-						</div>
-					</div>
-					<!-- MEET K. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Meet K..jpg" alt="" height="260px"></div>
-						<div class="studentname text-center">Meet K.</div>
-						<div class="studentdetail text-center">
-							NEET : 558/720 <br>
-							MBBS, GMC Akola
-						</div>
-					</div>
-					<!-- TWINKLE S. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Twinkle S..jpg" alt="" height="260px"></div>
-						<div class="studentname text-center">Twinkle S.</div>
-						<div class="studentdetail text-center">
-							NEET : 556/720 <br>
-							MBBS, GMC Akola
+							638/720 <br>
+							Cooper, Mumbai
 						</div>
 					</div>
 					
@@ -381,41 +378,32 @@
 						<div style="height:50px;"></div>
 					</div>
 					
-					<!-- JEET D. -->
+					<!-- Kalash Shukla -->
 					<div class="col-md-12" style="height:25px;"></div>
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Jeet D..jpg" alt="" height="260px"></div>
-						<div class="studentname text-center">Jeet D.</div>
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Kalash Shukla.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Kalash Shukla</div>
 						<div class="studentdetail text-center">
-							NEET : 555/720 <br>
-							MBBS, GMC Yavatmal
+							630/720 <br>
+							Grant Medical College, Mumbai
 						</div>
 					</div>
-					<!-- SUMIT D. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Sumit D..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Sumit D.</div>
+					<!-- Hemlata Patel -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Hemlata Patel.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Hemlata Patel</div>
 						<div class="studentdetail text-center">
-							NEET : 552/720 <br>
-							MBBS, GMC Jalgaon
+							626/720 <br>
+							Cooper, Mumbai
 						</div>
 					</div>
-					<!-- MITHUNA P. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Mithuna P..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Mithuna P.</div>
+					<!-- Lucky Dubey -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Lucky Dubey.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Lucky Dubey</div>
 						<div class="studentdetail text-center">
-							NEET : 546/720 <br>
-							MBBS, GMC Gondia
-						</div>
-					</div>
-					<!-- NIDHI S. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Nidhi S..jpeg" alt="" height="260px"></div>
-						<div class="studentname text-center">Nidhi S.</div>
-						<div class="studentdetail text-center">
-							NEET : 530/720 <br>
-							MBBS, LTMMC Sion Mumbai
+							626/720 <br>
+							Cooper, Mumbai
 						</div>
 					</div>
 					
@@ -423,38 +411,94 @@
 						<div style="height:50px;"></div>
 					</div>
 					
-					<!-- SAKSHI S. -->
-					<div class="col-md-12" style="height:25px;"></div>
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Sakshi S..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Sakshi S.</div>
+					<!-- Shubh Doshi -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Shubh Doshi.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Shubh Doshi</div>
 						<div class="studentdetail text-center">
-							NEET : 526/720 <br>
-							MBBS, BJMC Pune
+							615/720 <br>
+							IGMC, Nagpur
 						</div>
 					</div>
-					<!-- HITANKSHI P. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Hitankshi P..JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Hitankshi P.</div>
+					<!-- Suman Saini -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Suman Saini.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Suman Saini</div>
 						<div class="studentdetail text-center">
-							MBBS, KEM Mumbai
+							611/720 <br>
+							Cooper, Mumbai
 						</div>
 					</div>
-					<!-- MEHTAB K. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Mehtab K..jpg" alt="" height="260px"></div>
-						<div class="studentname text-center">Mehtab K.</div>
+					<!-- Shashank Dubey -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Shashank Dubey.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Shashank Dubey</div>
 						<div class="studentdetail text-center">
-							MBBS, IIMSR Jalna
+							608/720 <br>
+							GMC, Miraj
 						</div>
 					</div>
-					<!-- SAKSHI T. -->
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Sakshi T..jpeg" alt="" height="260px"></div>
-						<div class="studentname text-center">Sakshi T.</div>
+					
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+					</div>
+					
+					<!-- Shruti Patel.JPG -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Shruti Patel.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Shruti Patel</div>
 						<div class="studentdetail text-center">
-							MBBS, GMC Baramati
+							605/720 <br>
+							GMC, Kolhapur
+						</div>
+					</div>
+					<!-- Subhjyoti Jana -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Subhjyoti Jana.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Subhjyoti Jana</div>
+						<div class="studentdetail text-center">
+							591/720 <br>
+							GMC, Solhapur
+						</div>
+					</div>			
+					<!-- Shrirang Sanghwai -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Shrirang Sanghwai .JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Shrirang Sanghwai</div>
+						<div class="studentdetail text-center">
+							585/720 <br>
+							GMC, Jalgaon
+						</div>
+					</div>
+					
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+					</div>
+					
+					<!-- Anshika Maurya -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Anshika Maurya.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Anshika Maurya</div>
+						<div class="studentdetail text-center">
+							581/720 <br>
+							GMC, Jalgaon
+						</div>
+					</div>
+					<!-- Drashti Sosa -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Drashti Sosa.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Drashti Sosa</div>
+						<div class="studentdetail text-center">
+							502/720 <br>
+							GMC, Miraj
+						</div>
+					</div>
+					<!-- Rashi Banerjee -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Rashi Banerjee.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Rashi Banerjee</div>
+						<div class="studentdetail text-center">
+
 						</div>
 					</div>
 					
@@ -463,9 +507,9 @@
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">14 MBBS</strong>
+									<strong style="font-size: 3em;">28 STUDENTS</strong>
 								</span> 
-								<span style="font-weight:bold;">IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.</span>
+								<span style="font-weight:bold;">ABOVE 500 SCORE.</span>
 							</span>
 						</div>
 					</div>
