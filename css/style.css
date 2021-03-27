@@ -3921,3 +3921,8 @@ h3.agileinfo_sign  {
 .accordion .card .card-header .collapsed .fa-arrow-down{
 	display:none;
 }
+
+.starsDim{
+	height:260px;
+	width:30px;
+}
