@@ -1,5 +1,5 @@
 <?php include "include/security.php" ?>
-<?php $_SESSION['pageName'] = 'contactus' ?>
+<?php $_SESSION['pageName'] = 'enquiry' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,15 +8,15 @@
 </head>
 	
 <body>
-	<?php include "include/topNav.php"; ?>
+	<!--?php include "include/topNav.php"; ?-->
 	
-	<div class="banner1">			
+	<!--div class="banner1">			
 		<div class="w3_agileits_service_banner_info">
 			<h2>Contact Us</h2>
 		</div>
-	</div>
+	</div-->
 	
-	<div class="col-md-12">
+	<!--div class="col-md-12">
 		<div style="height:50px;"></div>
 		<div class="col-md-12 col-sm-12 agileits_mail_grid_left agileinfo_mail_grid_left">
 			<div class="agileits_mail_grid_lft_grid wthree_mail_grid_lft_grid">
@@ -32,12 +32,12 @@
 	
 	<div class="col-md-12">
 		<div style="height:50px;"></div>
-	</div>
+	</div-->
 
 	
 	<div class="contact">
 		<div class="container">
-			<h3 class="w3l_header w3_agileits_header1">Contact <span>Info</span></h3>
+			<h3 class="w3l_header w3_agileits_header1">Enquiry <span>Form</span></h3>
 			<div class="w3layouts_mail_grid">
 					<div class="agileits_mail_grid_right agileits_w3layouts_mail_grid_right">
 					<div class="agileits_mail_grid_right1 agile_mail_grid_right1">
@@ -71,7 +71,7 @@
 	</div>
 
 
-<?php include "include/footer.php"; ?>
+<!--?php include "include/footer.php"; ?-->
 <?php include "include/js.php"; ?>
 </body>
 </html>

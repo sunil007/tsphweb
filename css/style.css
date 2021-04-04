@@ -1963,7 +1963,7 @@ h2.typoh2{
     padding: 10px 10px;
     text-align: center;
 }
-.agileits_mail_grid_right1 input[type="text"],.agileits_mail_grid_right1 input[type="email"], .agileits_mail_grid_right1 input[type="tel"], .agileits_mail_grid_right1 textarea{
+.agileits_mail_grid_right1 input[type="text"],.agileits_mail_grid_right1 input[type="email"], .agileits_mail_grid_right1 input[type="tel"], .agileits_mail_grid_right1 textarea, .agileits_mail_grid_right1 select{
 	outline: none;
     width: 85%;
     background: #fff;
