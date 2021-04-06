@@ -139,6 +139,9 @@
 					
 				</div>
 				<div class="clearfix"> </div>
+				<div class='text-center'>
+					<div class='btn btn-sm btn-default' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px;'>Register Now</div>
+				</div>	
 			</div>
 		</div>
 	</div>

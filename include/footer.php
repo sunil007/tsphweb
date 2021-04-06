@@ -51,3 +51,54 @@
 		</div>
 	</div>
 </div>
+
+<div id='enquiryForm' class="modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title">Enquiry Form</h3>
+		<hr class="nomargin" style="border-bottom: 1px solid #337ab7;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close" style=' position: absolute;top: -10px;right: -10px;padding: 5px 10px;border: 1px solid #fff;color: #fff;background-color: red;border-radius: 20px;'>
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+		<h4>Student Name</h4>
+		<div style='height:5px;'></div>
+        <div class='input-group'>
+			<span class='input-group-addon'><i class='fa fa-user'></i></span>
+			<input type='text' name='name' class='form-control' placeholder='Student Name'>
+		</div>
+		
+		<h4>Contact Number</h4>
+		<div style='height:5px;'></div>
+        <div class='input-group'>
+			<span class='input-group-addon'><i class='fa fa-phone'></i></span>
+			<input type='mobile' name='phone' class='form-control' placeholder='Contact Number'>
+		</div>
+		
+		<h4>Select Course</h4>
+		<div style='height:5px;'></div>
+        <div class='input-group'>
+			<span class='input-group-addon'><i class='fa fa-list'></i></span>
+			<select id="course" name="course" class='form-control'>
+				<option value="-1">Select Course</option>
+				<option value="XI + XII + Engineering">XI + XII + Engineering</option>
+				<option value="XI + XII + Medical">XI + XII + Medical</option>
+				<option value="Eng. Rep.">Eng. Rep.</option>
+				<option value="Med. Rep.">Med. Rep.</option>
+				<option value="XII + Engineering">XII + Engineering</option>
+				<option value="XI + Medical">XI + Medical</option>
+				<option value=" XII"> XII</option>
+				<option value=" Others"> Others</option>
+			</select>
+		</div>
+		
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary">Submit</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
