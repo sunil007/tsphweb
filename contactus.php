@@ -16,7 +16,7 @@
 		</div>
 	</div>
 	
-	<div class="col-md-12">
+	<div class="row">
 		<div style="height:50px;"></div>
 		<div class="col-md-12 col-sm-12 agileits_mail_grid_left agileinfo_mail_grid_left">
 			<div class="agileits_mail_grid_lft_grid wthree_mail_grid_lft_grid">
@@ -24,7 +24,8 @@
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Fill this contact form correctly to receive a callback from our side.</li>
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> We will respond to your message within 24 hours.</li>
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> You can get in touch with us on 
-						<a href="https://wa.me/8652375375" style="color:43BABA" onMouseOver="this.style.color='green'"onMouseOut="this.style.color='25A3A3'">8652375375</a> either over the call or WhatsApp during office hours.</h4></li>
+						<b><u><a target="_blank" href="https://wa.me/8652375375?text=Hello%20TSPH" >+91 8652-375-375</a></u></b> 
+					either over the call or WhatsApp during office hours.</h4></li>
 				</ul>
 			</div>	
 		</div>
@@ -44,23 +45,27 @@
 						<form action="#" method="post">
 							<span>
 								<i>Name</i>
-								<input type="text" name="Name" placeholder=" " required="">
+								<input type="text" name="name" placeholder="Name" required="">
 							</span>
 							<span>
 								<i>Mobile</i>
-								<input type="tel" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" placeholder=" " required="">
+								<input type="tel" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" placeholder="Contact number" required="">
 							</span>
 							<span>
-								<i>Subject</i>
-								<!--input type="text" name="Subject" placeholder=" " required=""-->
-								<select id="subject" name="Subject">
-									<option value="none" selected>Select</option>
-									<option value="a">A</option>
-									<option value="b">B</option>
-									<option value="c">C</option>
+								<i>Course	</i>
+								<select id="course" name="course">
+									<option value="-1">Select Course</option>
+									<option value="XI + XII + Engineering">XI + XII + Engineering</option>
+									<option value="XI + XII + Medical">XI + XII + Medical</option>
+									<option value="Eng. Rep.">Eng. Rep.</option>
+									<option value="Med. Rep.">Med. Rep.</option>
+									<option value="XII + Engineering">XII + Engineering</option>
+									<option value="XI + Medical">XI + Medical</option>
+									<option value=" XII"> XII</option>
+									<option value=" Others"> Others</option>
 								</select>
 							</span>
-							<input type="submit" value="SUBMIT">
+							<div class="text-right"><input type="submit" value="SUBMIT"></div>
 						</form>
 					</div>
 				</div>

@@ -62,7 +62,7 @@
 								<li><a href="result_2020.php">2020 Results</a></li>
 								<li><a href="result_2019.php">2019 Results</a></li>
 								<li><a href="result_2018.php">2018 Results</a></li>
-								<li><a href="starsofTSPHgalaxy.php">Stars Of TSPH Galaxy</a></li>
+								<li><a href="starsofTSPHgalaxy.php">&nbsp;&nbsp;Stars Of TSPH Galaxy&nbsp;&nbsp;</a></li>
 							</ul>
 						</li>
 						
