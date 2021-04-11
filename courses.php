@@ -239,6 +239,9 @@
 			</div>
 			
 			<div class="clearfix"> </div>
+			<div class='text-center'>
+				<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;'>Register Now</div>
+			</div>	
 		</div>
 	</div>
 <!-- //services -->

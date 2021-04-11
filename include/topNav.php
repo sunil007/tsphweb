@@ -68,6 +68,7 @@
 						
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'gallery')?"menu__item--current": "" ?>"><a href="gallery.php" class="menu__link">Gallery</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'contactus')?"menu__item--current": "" ?>"><a href="contactus.php" class="menu__link">Contact Us</a></li>
+						<li class="menu__item"><div class='btn btn-sm btn-info' onclick='$("#enquiryForm").modal("show")' style='font-size:1em;'>Register Now</div></li>
 					</ul>
 				</nav>
 			</div>
