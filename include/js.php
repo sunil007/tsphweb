@@ -9,9 +9,9 @@
 		if($('#JiSlider').size() > 0){
 			var startSize = $("#JiSlider ul li").size();
 			if(startSize > 1){
-				$('#JiSlider').JiSlider({color: '#fff', start: startSize, reverse: true}).addClass('ff');
+				$('#JiSlider').JiSlider({color: '#fff', start: 1, reverse: false, stay : 7000}).addClass('ff');
 			}else{
-				$('#JiSlider').JiSlider({color: '#fff', start: startSize, reverse: true, time : 10000000000}).addClass('ff');
+				$('#JiSlider').JiSlider({color: '#fff', start: startSize, reverse: false, stay : 10000000000}).addClass('ff');
 			}
 		}
 	})

@@ -16,7 +16,39 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top">
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner1.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner2.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner3.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner4.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner5.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -118,7 +150,7 @@
 	<div class="banner-bottom nopadding">
 		<div class="container">
 	<div class="services two">
-		<div class="container">
+		<div class="">
 			<h3 class="w3l_header w3_agileits_header">About <span>Us</span></h3>
 			<div class="wthree_services_grids">	
 				<div class="col-md-12 wthree_services_grid_left">
@@ -140,7 +172,7 @@
 				</div>
 				<div class="clearfix"> </div>
 				<div class='text-center'>
-					<div class='btn btn-sm btn-default' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px;'>Register Now</div>
+					<div class='btn btn-sm btn-default' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px;'>Enquiry & Admissionw</div>
 				</div>	
 			</div>
 		</div>

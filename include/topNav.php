@@ -26,12 +26,21 @@
 					</a>
 				</li>
 				<li>
+					<a href="document/TSPH Prospectus.pdf" style="font-size:15px;border: 1px solid #fff;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
+						<b class="fa fa-download" aria-hidden="true"></b> <b>Prospectus</b>
+					</a>
+					&nbsp;
+					<a href="document/TSPH Digital Guru.pdf" style="font-size:15px;border: 1px solid #fff;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
+						<b class="fa fa-star" aria-hidden="true"></b> <b>Results 2021</b>
+					</a>
+				</li>
+				<li>
 					<a href="tel:+918652375375" style='font-size:15px;' onMouseOver="this.style.color='#1173f2'"onMouseOut="this.style.color='#fff'">
-						<b class="fa fa-phone" aria-hidden="true"></b> +91 8652-375-375
+						<b class="fa fa-phone" aria-hidden="true"></b> <b>+91 8652-375-375</b>
 					</a>
 					<span style="border-left: 1px solid #cfcfcf;margin-left: 3px;">&nbsp;</span>
 					<a href="tel:+918652373373" style='font-size:15px;' onMouseOver="this.style.color='#1173f2'"onMouseOut="this.style.color='#fff'">	
-						<b class="fa fa-phone" aria-hidden="true"></b> +91 8652-373-373
+						<b class="fa fa-phone" aria-hidden="true"></b> <b>+91 8652-373-373</b>
 					</a>
 				</li>
 			</ul>
@@ -68,7 +77,7 @@
 						
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'gallery')?"menu__item--current": "" ?>"><a href="gallery.php" class="menu__link">Gallery</a></li>
 						<li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'contactus')?"menu__item--current": "" ?>"><a href="contactus.php" class="menu__link">Contact Us</a></li>
-						<li class="menu__item"><div class='btn btn-sm btn-info' onclick='$("#enquiryForm").modal("show")' style='font-size:1em;'>Register Now</div></li>
+						<li class="menu__item"><div class='btn btn-sm btn-info' onclick='$("#enquiryForm").modal("show")' style='font-size:1em;background-color: #eb5424;border-color: #eb5424;'>Enquiry & Admission</div></li>
 					</ul>
 				</nav>
 			</div>
