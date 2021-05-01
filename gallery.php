@@ -46,7 +46,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Celebration Time 2.jpg" class="swipebox"><img src="images/gallery/Celebration Time 2.jpg" class="img-responsive" alt="/">
+				<a href="images/gallery/Celebration Time 2.jpg" class="swipebox"><img src="images/gallery/TSPH Celebration Time 2.jpg" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Celebration Time</h4>
 						<p><i class="fa fa-birthday-cake" aria-hidden="true"></i></p>
@@ -62,7 +62,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Celebration Time.jpg" class="swipebox"><img src="images/gallery/Celebration Time.jpg" class="img-responsive" alt="/">
+				<a href="images/gallery/Celebration Time.jpg" class="swipebox"><img src="images/gallery/TSPH Celebration Time.jpg" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Celebration Time</h4>
 						<p><i class="fa fa-birthday-cake" aria-hidden="true"></i></p>
@@ -70,7 +70,7 @@
 			   </a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Library.JPG" class="swipebox"><img src="images/gallery/Library.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Library.JPG" class="swipebox"><img src="images/gallery/TSPH Library.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Library</h4>
 						<p><i class="fa fa-book" aria-hidden="true"></i></p>
@@ -78,7 +78,7 @@
 			   </a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Computer Facility.JPG" class="swipebox"><img src="images/gallery/Computer Facility.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Computer Facility.JPG" class="swipebox"><img src="images/gallery/TSPH Computer Facility.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Computer Facility</h4>
 						<p><i class="fa fa-laptop" aria-hidden="true"></i></p>
@@ -86,7 +86,7 @@
 			   </a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Group Doubts Solving.JPG" class="swipebox"><img src="images/gallery/Group Doubts Solving.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Group Doubts Solving.JPG" class="swipebox"><img src="images/gallery/TSPH Group Doubts Solving.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Group Doubts Solving</h4>
 						<p><i class="fa fa-user-secret" aria-hidden="true"></i></p>
@@ -94,7 +94,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Swachcha Bharat Drive 2.jpg" class="swipebox"><img src="images/gallery/Swachcha Bharat Drive 2.jpg" class="img-responsive" alt="/" style="height:253.3px;">
+				<a href="images/gallery/Swachcha Bharat Drive 2.jpg" class="swipebox"><img src="images/gallery/TSPH Swachcha Bharat Drive 2.jpg" class="img-responsive" alt="/" style="height:253.3px;">
 					<div class="textbox">
 						<h4>TSPH Swachcha Bharat Drive</h4>
 						<p><i class="fa fa-trash-o" aria-hidden="true"></i></p>
@@ -102,7 +102,7 @@
 			   </a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Study Hall.JPG" class="swipebox"><img src="images/gallery/Study Hall.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Study Hall.JPG" class="swipebox"><img src="images/gallery/TSPH Study Hall.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 					<h4>TSPH Study Hall</h4>
 						<p><i class="fa fa-check-square" aria-hidden="true"></i></p>
@@ -110,7 +110,7 @@
 			   </a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Prof. Pranav Gandhi.JPG" class="swipebox"><img src="images/gallery/Prof. Pranav Gandhi.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Prof. Pranav Gandhi.JPG" class="swipebox"><img src="images/gallery/TSPH Prof. Pranav Gandhi.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Professor</h4>
 						<p><i class="fa fa-user-circle" aria-hidden="true"></i></p>	
@@ -118,7 +118,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Team TSPH.JPG" class="swipebox"><img src="images/gallery/Team TSPH.JPG" class="img-responsive" alt="/" style="height:253.3px;">
+				<a href="images/gallery/Team TSPH.JPG" class="swipebox"><img src="images/gallery/TSPH Team.JPG" class="img-responsive" alt="/" style="height:253.3px;">
 					<div class="textbox">
 						<h4>TSPH Team TSPH</h4>
 						<p><i class="fa fa-users" aria-hidden="true"></i></p>	
@@ -126,7 +126,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Garba Night at Tsph.JPG" class="swipebox"><img src="images/gallery/Garba Night at Tsph.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Garba Night at Tsph.JPG" class="swipebox"><img src="images/gallery/TSPH Garba Night at Tsph.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Garba Night</h4>
 						<p><i class="fa fa-smile-o" aria-hidden="true"></i></p>	
@@ -134,7 +134,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Garba Night at Tsph_2.JPG" class="swipebox"><img src="images/gallery/Garba Night at Tsph_2.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Garba Night at Tsph_2.JPG" class="swipebox"><img src="images/gallery/TSPH Garba Night at Tsph_2.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Garba Night</h4>
 						<p><i class="fa fa-smile-o" aria-hidden="true"></i></p>	
@@ -182,7 +182,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Tree Saplling Distribution.jpg" class="swipebox"><img src="images/gallery/Tree Saplling Distribution.jpg" class="img-responsive" alt="/">
+				<a href="images/gallery/Tree Saplling Distribution.jpg" class="swipebox"><img src="images/gallery/TSPH Tree Saplling Distribution.jpg" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Sapling Distribution</h4>
 						<p><i class="fa fa-tree" aria-hidden="true"></i></p>	
@@ -214,7 +214,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Demonstration.jpg" class="swipebox"><img src="images/gallery/Demonstration.jpg" class="img-responsive" alt="/">
+				<a href="images/gallery/Demonstration.jpg" class="swipebox"><img src="images/gallery/TSPH Demonstration.jpg" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Demonstration</h4>
 						<p><i class="fa fa-users" aria-hidden="true"></i></p>	
@@ -222,7 +222,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Felicitation Ceremony 2.JPG" class="swipebox"><img src="images/gallery/Felicitation Ceremony 2.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Felicitation Ceremony 2.JPG" class="swipebox"><img src="images/gallery/TSPH Felicitation Ceremony 2.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Felicitation</h4>
 						<p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>	
@@ -230,7 +230,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Felicitation Ceremony.JPG" class="swipebox"><img src="images/gallery/Felicitation Ceremony.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Felicitation Ceremony.JPG" class="swipebox"><img src="images/gallery/TSPH Felicitation Ceremony.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 					<h4>TSPH Felicitation</h4>
 						<p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -238,7 +238,7 @@
 			   </a>
 			</div>
 			<div class="col-md-4 gallery-grid gallery1">
-				<a href="images/gallery/Felicitation Ceremony 3.JPG" class="swipebox"><img src="images/gallery/Felicitation Ceremony 3.JPG" class="img-responsive" alt="/">
+				<a href="images/gallery/Felicitation Ceremony 3.JPG" class="swipebox"><img src="images/gallery/TSPH Felicitation Ceremony 3.JPG" class="img-responsive" alt="/">
 					<div class="textbox">
 						<h4>TSPH Felicitation</h4>
 						<p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
