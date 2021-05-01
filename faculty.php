@@ -25,11 +25,11 @@
 					<div class="wthree_services_grids">	
 						
 						<!--Prof. Hitesh Bechra-->
-						<div class="col-md-6 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right">
 							<img src="images/HiteshBechra-Physics.png" alt="" height="260px">
 
 						</div>
-						<div class="col-md-6 wthree_services_grid_left">
+						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Hitesh Bechra</span></h3>
 							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #9f1c20;font-weight: bold;">PHYSICS</h4>
 							<div style='height:15px;'></div>
@@ -40,10 +40,10 @@
 						<div style='height:25px;'></div>
 						
 						<!--Prof. Parimal Patel-->
-						<div class="col-md-6 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right">
 							<img src="images/ParimalPatel-Chemistry.png" alt="" height="270px">
 						</div>
-						<div class="col-md-6 wthree_services_grid_left">
+						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Parimal Patel</span></h3>
 							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #034883;font-weight: bold;">CHEMISTRY</h4>
 							<div style='height:15px;'></div>
@@ -57,11 +57,11 @@
 						<div style='height:25px;'></div>
 						
 						<!--Prof. Pranav Gandhi-->
-						<div class="col-md-6 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right">
 							<img src="images/PranavGandhi-Maths.png" alt="" height="260px">
 							<div class="clearfix"> </div>
 						</div>
-						<div class="col-md-6 wthree_services_grid_left">
+						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Pranav Gandhi</span></h3>
 							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #ff9b05;font-weight: bold;">MATHEMATICS</h4>
 							<div style='height:15px;'></div>
@@ -75,11 +75,11 @@
 						<div style='height:25px;'></div>
 						
 						<!--Prof. Gyanprakash Pandey-->
-						<div class="col-md-6 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right">
 							<img src="images/GyanprakashPandey-Biology.png" alt="" height="300px">
 							<div class="clearfix"> </div>
 						</div>
-						<div class="col-md-6 wthree_services_grid_left">
+						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Gyanprakash Pandey</span></h3>
 							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #0eac04;font-weight: bold;">BIOLOGY</h4>
 							<div style='height:15px;'></div>

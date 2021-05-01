@@ -60,91 +60,6 @@
 	</div>
 
 <!-- //banner -->
-	<!-- Modal1 >
-	<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
-		<div class="modal-dialog">
-		<!-- Modal content>
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					
-					<div class="signin-form profile">
-					<h3 class="agileinfo_sign">Sign In</h3>	
-							<div class="login-form">
-								<form action="#" method="post">
-									<input type="text" name="email" placeholder="E-mail" required="">
-									<input type="password" name="password" placeholder="Password" required="">
-									<div class="tp">
-										<input type="submit" value="Sign In">
-									</div>
-								</form>
-							</div>
-							<div class="login-social-grids">
-								<ul>
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-rss"></i></a></li>
-								</ul>
-							</div>
-							<p><a href="#" data-toggle="modal" data-target="#myModal3" > Don't have an account?</a></p>
-						</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- //Modal1 >	
-	<!-- Modal2 >
-	<div class="modal fade" id="myModal3" tabindex="-1" role="dialog">
-		<div class="modal-dialog">
-		<!-- Modal content>
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					
-					<div class="signin-form profile">
-					<h3 class="agileinfo_sign">Sign Up</h3>	
-							<div class="login-form">
-								<form action="#" method="post">
-								   <input type="text" name="name" placeholder="Username" required="">
-									<input type="email" name="email" placeholder="Email" required="">
-									<input type="password" name="password" placeholder="Password" required="">
-									<input type="password" name="password" placeholder="Confirm Password" required="">
-									<input type="submit" value="Sign Up">
-								</form>
-							</div>
-							<p><a href="#"> By clicking register, I agree to your terms</a></p>
-						</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	< //Modal2 -->	
-
-<!-- bootstrap-pop-up >
-	<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-				
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
-				</div>
-				<section>
-					<div class="modal-body">
-						<h5>Mastering</h5>
-						<img src="images/2.jpg" alt=" " class="img-responsive" />
-						<p>Ut enim ad minima veniam, quis nostrum 
-							exercitationem ullam corporis suscipit laboriosam, 
-							nisi ut aliquid ex ea commodi consequatur? Quis autem 
-							vel eum iure reprehenderit qui in ea voluptate velit 
-							e.
-							<i>" Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
-								esse quam nihil molestiae consequatur.</i></p>
-					</div>
-				</section>
-			</div>
-		</div>
-	</div>
-<!-- //bootstrap-pop-up -->
 
 <!-- banner-bottom -->
 	<div class="banner-bottom nopadding">
@@ -172,11 +87,18 @@
 				</div>
 				<div class="clearfix"> </div>
 				<div class='text-center'>
-					<div class='btn btn-sm btn-default' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px;'>Enquiry & Admissionw</div>
+					<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px; background-color:#00ba66; border:#00ba66;'>Enquiry & Admission</div>
 				</div>	
 			</div>
 		</div>
 	</div>
+	
+	<iframe width="100%" height="500px;"
+		src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1">
+	</iframe>
+	
+	<div class="clearfix"> </div>
+	<div style='height:50px;'>&nbsp;</div>
 <!-- //services -->
 		<div class="">
 		   <h3 class="w3l_header w3_agileits_header">Our Directors <span style="text-transform:lowercase;">cum</span><span> Professors</span></h3>
@@ -468,7 +390,13 @@
 <!-- //stats -->
 <!-- testimonials -->		
 	<div class="testimonials">
-		<div class="col-md- w3layouts_event_right">
+		<div class="col-md-6 w3layouts_event_left">
+			<div style='height:80px;'>&nbsp;</div>
+			<iframe width="100%" height="500px;"
+				src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin-left:30px;">
+			</iframe>
+		</div>
+		<div class="col-md-6 w3layouts_event_right">
 			<h3>what students says</h3>
 			<section class="slider">
 				<div class="flexslider">

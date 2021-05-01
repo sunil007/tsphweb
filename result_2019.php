@@ -15,7 +15,7 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2019EngResults/DSC_4160.JPG') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2019EngResults/TSPH Result 2019 1.JPG') no-repeat 0px 0px; background-size: cover;">
 
 						<div class="container">
 							<div class="agileits-banner-info">
@@ -24,7 +24,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2019MedResults/DSC_4180.JPG') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2019MedResults/TSPH Result 2019 2.JPG') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -49,7 +49,10 @@
 						<h3 class="w3l_header w3_agileits_header">Engineering Results <span>2019</span></h3>
 						<div style="height:50px;"></div>
 					</div>
-					
+					<div style='height:80px;'>&nbsp;</div>
+					<iframe width="100%" height="500px;"
+						src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin-left:30px;">
+					</iframe>
 					<!-- MAYANK AGARWAL -->
 					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
@@ -65,7 +68,7 @@
 					
 					
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2019EngResults/Mayank A..JPG" alt="" height="450px"></div></div>
+						<div class="col-md-6"><div class="text-center"><img src="images/2019EngResults/TSPH Result Mayank A.JPG" alt="" height="450px"></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Mayank Agarwal</h2></div>
@@ -90,7 +93,7 @@
 					
 					<!-- PANKAJ W. -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Pankaj W..JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Pankaj W.JPG" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Pankaj W.</h2></div>
 						<div class="studentdetail text-center"><h2>(Now @ IIT-BOMBAY)</h2></div>
@@ -103,7 +106,7 @@
 					</div>
 					<!-- KETAN S. -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Ketan S..JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Ketan S.JPG" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Ketan S.</h2></div>
 						<div class="studentdetail text-center"><h2>(Now @ IIT-VARANASI)</h2></div>
@@ -116,7 +119,7 @@
 					</div>
 					<!-- MAHESH R. -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Mahesh R..jpg" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Mahesh R.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Mahesh R.</h2></div>
 						<div class="studentdetail text-center"><h2>(Now @ NIT SURAT)</h2></div>
@@ -145,7 +148,7 @@
 					
 					<!-- AMAN C. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Aman C..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Aman C.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Aman C.</div>
 						<div class="text-center">							
 							JEE MAINS : 98.501% (PR) <br> 
@@ -155,7 +158,7 @@
 					</div>
 					<!-- SARTHAK N. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Sarthak N..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Sarthak N.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Sarthak N.</div>
 						<div class="text-center">							
 							JEE MAINS : 97.964%  (PR) <br> 
@@ -165,7 +168,7 @@
 					</div>
 					<!-- SATYAM R. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Satyam R..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Satyam R.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Satyam R.</div>
 						<div class="text-center">							
 							JEE MAINS : 97.255% (PR) <br> 
@@ -175,7 +178,7 @@
 					</div>
 					<!-- SANDESH B. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Sandesh B..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Sandesh B.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Sandesh B.</div>
 						<div class="text-center">							
 							JEE MAINS : 96.440% (PR) <br> 
@@ -190,7 +193,7 @@
 					
 					<!-- HARDIK P. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Hardik P..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Hardik P.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Hardik P.</div>
 						<div class="text-center">							
 							MHT-CET : 99.455% (PR)
@@ -199,7 +202,7 @@
 					</div>
 					<!-- KHUSHI P. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Khushi P..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Khushi P.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Khushi P.</div>
 						<div class="text-center">							
 							MHT-CET : 99.280% (PR)
@@ -208,7 +211,7 @@
 					</div>
 					<!-- ISHA M. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Isha M..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Isha M.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Isha M.</div>
 						<div class="text-center">							
 							MHT-CET : 99.233% (PR)
@@ -217,7 +220,7 @@
 					</div>
 					<!-- YASH G. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Yash G..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Yash G.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Yash G.</div>
 						<div class="text-center">							
 							MHT-CET : 99.226% (PR)
@@ -231,7 +234,7 @@
 					
 					<!-- RUSHABH S. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Rushbh S..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Rushbh S.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Rushabh S.</div>
 						<div class="text-center">							 
 							MHT-CET : 99.130% (PR)
@@ -241,7 +244,7 @@
 					
 					<!-- VATSAL D. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Vatsal D..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Vatsal D.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Vatsal D.</div>
 						<div class="text-center">							
 							MHT-CET : 99.126% (PR)
@@ -250,7 +253,7 @@
 					</div>
 					<!-- DARSHAN T. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Darshan T..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Darshan T.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Darshan T.</div>
 						<div class="text-center">							
 							MHT-CET : 99.073% (PR)
@@ -259,7 +262,7 @@
 					</div>
 					<!-- RATISH S. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/Rushbh S..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Rushbh S.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Ratish S.</div>
 						<div class="text-center">							 
 							MHT-CET : 99.226% (PR)
@@ -291,9 +294,15 @@
 						<div style="height:50px;"></div>
 					</div>
 					
+					<div style='height:80px;'>&nbsp;</div>
+					<iframe width="100%" height="500px;"
+						src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;">
+					</iframe>
+					<div style='height:80px;'>&nbsp;</div>
+					
 					<!-- NIHARIKA MISHRA -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2019MedResults/Niharika M..JPG" alt="" height="450px"></div></div>
+						<div class="col-md-6"><div class="text-center"><img src="images/2019MedResults/TSPH Result Niharika M.JPG" alt="" height="450px"></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Niharika Mishra</h2></div>
@@ -317,7 +326,7 @@
 					<!-- ALOK Y. -->
 					<div class="col-md-12" style="height:25px;"></div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Alok Y..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Alok Y.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Alok Y.</div>
 						<div class="studentdetail text-center">
 							NEET : 560/720 <br>
@@ -326,7 +335,7 @@
 					</div>
 					<!-- AKSHATA M. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Akshata M..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Akshata M.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Akshata M.</div>
 						<div class="studentdetail text-center">
 							NEET : 558/720 <br>
@@ -335,7 +344,7 @@
 					</div>
 					<!-- MEET K. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Meet K..jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Meet K.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Meet K.</div>
 						<div class="studentdetail text-center">
 							NEET : 558/720 <br>
@@ -344,7 +353,7 @@
 					</div>
 					<!-- TWINKLE S. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Twinkle S..jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Twinkle S.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Twinkle S.</div>
 						<div class="studentdetail text-center">
 							NEET : 556/720 <br>
@@ -359,7 +368,7 @@
 					<!-- JEET D. -->
 					<div class="col-md-12" style="height:25px;"></div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Jeet D..jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Jeet D.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Jeet D.</div>
 						<div class="studentdetail text-center">
 							NEET : 555/720 <br>
@@ -368,7 +377,7 @@
 					</div>
 					<!-- SUMIT D. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Sumit D..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Sumit D.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Sumit D.</div>
 						<div class="studentdetail text-center">
 							NEET : 552/720 <br>
@@ -377,7 +386,7 @@
 					</div>
 					<!-- MITHUNA P. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Mithuna P..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Mithuna P.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Mithuna P.</div>
 						<div class="studentdetail text-center">
 							NEET : 546/720 <br>
@@ -386,7 +395,7 @@
 					</div>
 					<!-- NIDHI S. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Nidhi S..jpeg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Nidhi S.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Nidhi S.</div>
 						<div class="studentdetail text-center">
 							NEET : 530/720 <br>
@@ -401,7 +410,7 @@
 					<!-- SAKSHI S. -->
 					<div class="col-md-12" style="height:25px;"></div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Sakshi S..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Sakshi S.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Sakshi S.</div>
 						<div class="studentdetail text-center">
 							NEET : 526/720 <br>
@@ -410,7 +419,7 @@
 					</div>
 					<!-- HITANKSHI P. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Hitankshi P..JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Hitankshi P.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Hitankshi P.</div>
 						<div class="studentdetail text-center">
 							MBBS, KEM Mumbai
@@ -418,7 +427,7 @@
 					</div>
 					<!-- MEHTAB K. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Mehtab K..jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Mehtab K.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Mehtab K.</div>
 						<div class="studentdetail text-center">
 							MBBS, IIMSR Jalna
@@ -426,7 +435,7 @@
 					</div>
 					<!-- SAKSHI T. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019MedResults/Sakshi T..jpeg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019MedResults/TSPH Result Sakshi T.png" alt="" height="260px"></div>
 						<div class="studentname text-center">Sakshi T.</div>
 						<div class="studentdetail text-center">
 							MBBS, GMC Baramati

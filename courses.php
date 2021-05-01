@@ -240,7 +240,7 @@
 			
 			<div class="clearfix"> </div>
 			<div class='text-center'>
-				<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;'>Enquire Now</div>
+				<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em; background-color:#eb5424; border:#eb5424;'>Enquire Now</div>
 			</div>	
 		</div>
 	</div>

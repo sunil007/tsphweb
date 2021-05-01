@@ -221,13 +221,13 @@ ul.agile_forms {
 /*-- //banner --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url('../images/MRD Reception.jpg') no-repeat 0px 0px;
+    /*--background: url('../images/MRD Reception.jpg') no-repeat 0px 0px;--*/
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
 	-o-background-size: cover;		
 	-moz-background-size: cover;
-	min-height:700px;
+	min-height:700px !important;
 }
 .w3layouts-banner-top1{
 	background: url('../images/banner1.jpg') no-repeat 0px 0px;
@@ -236,7 +236,7 @@ ul.agile_forms {
 	-moz-background-size: cover;
 	-o-background-size: cover;		
 	-moz-background-size: cover;
-	min-height:700px;
+	min-height:700px !important;
 }
 .w3layouts-banner-top2{
 	background: url('../images/banner2.jpg') no-repeat 0px 0px;
@@ -245,7 +245,7 @@ ul.agile_forms {
 	-moz-background-size: cover;
 	-o-background-size: cover;		
 	-moz-background-size: cover;	
-	min-height:700px;
+	min-height:700px !important;
 }
 
 .agileits-banner-info h3 {
@@ -2139,7 +2139,7 @@ h3.agileinfo_sign  {
 		width: 67%;
 	}
 	.w3layouts-banner-top,.w3layouts-banner-top1,.w3layouts-banner-top2 {
-		min-height: 630px;
+		min-height: 700px;
 	}
 	.agileits-banner-info {
 		padding: 15em 0 0em;

@@ -32,15 +32,16 @@
 				<div class="col-md-6 nopadding">
 					<p><b> <a class="agile-icon" target="_blank" href="https://goo.gl/maps/PTt6feQ9M98xwtnS9" > <i class="fa fa-map-marker" style="color:#f24141; font-size:3em;"></i></a>&nbsp;<a class="agile-icon" target="_blank" href="https://goo.gl/maps/PTt6feQ9M98xwtnS9" ><span style="font-size:1.5em;">BHAYANDAR BRANCH</span></a></b></p>
 					<p>First Floor, Ashoka Shopping Centre, Navghar Road,Near Shani Mandir, Near Railway Station, Bhayandar (E),</p>
-					<a href="tel:+918652375375" style="font-size:16px; color:#fe7549;"><i class="fa fa-phone" aria-hidden="true"></i> +91 8652-375-375</a><a style="color:white;"> |</a>
-					<a href="tel:+918652374374" style="font-size:16px; color:#fe7549;"><i class="fa fa-phone" aria-hidden="true"></i> +91 8652-374-374</a>
+					<a href="tel:+918652375375" style="font-size:16px; color:#fe7549;"><i class="fa fa-phone" aria-hidden="true"></i><b> +91 8652-375-375</b></a><a style="color:white;"> |</a>
+					<a href="tel:+918652374374" style="font-size:16px; color:#fe7549;"><i class="fa fa-phone" aria-hidden="true"></i><b> +91 8652-374-374</b></a>
 					<div style='height:20px'></div>
 				</div>
 				<div class="col-md-6 nopadding">
 					<p><b> <a class="agile-icon" target="_blank" href="https://g.page/TSPH-miraroad?share" > <i class="fa fa-map-marker" style="color:#f24141; font-size:3em;"></i></a>&nbsp;<a class="agile-icon" target="_blank" href="https://g.page/TSPH-miraroad?share" ><span style="font-size:1.5em;">MIRAROAD BRANCH</span></a></b></p>
 					<p>D/232, First Floor, Shanti Shopping Centre, Near Railway Station, Mira Road (E),</p>
-					<a href="tel:+918652371371" style="font-size:16px; color:#fe7549;"><i class="fa fa-phone" aria-hidden="true"></i> +91 8652-371-371</a><a style="color:white;"> |</a>
-					<a href="tel:+918652373373" style="font-size:16px; color:#fe7549"><i class="fa fa-phone" aria-hidden="true"></i> +91 8652-373-373</a>
+					<a href="tel:+918652371371" style="font-size:16px; color:#fe7549;"><i class="fa fa-phone" aria-hidden="true"></i><b> +91 8652-371-371</b></a>
+					<a style="color:white;"> |</a>
+					<a href="tel:+918652373373" style="font-size:16px; color:#fe7549"><i class="fa fa-phone" aria-hidden="true"></i><b>+91 8652-373-373</b></a>
 					<div style='height:20px'></div>
 					
 				</div>
