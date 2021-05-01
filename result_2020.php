@@ -475,6 +475,26 @@
 						<div style="height:50px;"></div>
 					</div>
 					
+					<!-- Shubham Pal -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Shubham Pal.JPG" alt="" height="260px"></div>
+						<div class="studentname text-center">Shubham Pal</div>
+						<div class="studentdetail text-center">
+							584/720 <br>
+							GMC, Akola
+						</div>
+					</div>
+					
+					<!-- Lokesh Jha -->
+					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/Lokesh Jha.jpeg" alt="" height="260px"></div>
+						<div class="studentname text-center">Lokesh Jha</div>
+						<div class="studentdetail text-center">
+							582/720 <br>
+							GMC, Ambajogai
+						</div>
+					</div>
+					
 					<!-- Anshika Maurya -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2020MedResults/Anshika Maurya.JPG" alt="" height="260px"></div>
@@ -491,14 +511,6 @@
 						<div class="studentdetail text-center">
 							502/720 <br>
 							GMC, Miraj
-						</div>
-					</div>
-					<!-- Rashi Banerjee -->
-					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020MedResults/Rashi Banerjee.JPG" alt="" height="260px"></div>
-						<div class="studentname text-center">Rashi Banerjee</div>
-						<div class="studentdetail text-center">
-
 						</div>
 					</div>
 					

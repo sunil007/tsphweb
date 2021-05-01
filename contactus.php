@@ -20,12 +20,17 @@
 		<div style="height:50px;"></div>
 		<div class="col-md-12 col-sm-12 agileits_mail_grid_left agileinfo_mail_grid_left">
 			<div class="agileits_mail_grid_lft_grid wthree_mail_grid_lft_grid">
-				<ul class="text-center">
-					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Fill this contact form correctly to receive a callback from our side.</li>
+				<ul class="text-center" >
+					<!--li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Fill this contact form correctly to receive a callback from our side.</li>
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> We will respond to your message within 24 hours.</li>
 					<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i> You can get in touch with us on 
 						<b><u><a target="_blank" href="https://wa.me/8652375375?text=Hello%20TSPH" >+91 8652-375-375</a></u></b> 
-					either over the call or WhatsApp during office hours.</h4></li>
+					either over the call or WhatsApp during office hours.</h4></li-->
+					<p style="font-size:24px;"><b>Namaste !</b></p>
+					<div style="height:15px;"></div>					
+					<p style="font-size:20px;"><b>Greetings of the day from the team TSPH.</b></p>
+					<p style="font-size:20px;">Kindly fillup enquiry form below to receive a callback from our side. We will respond to your message as soon as possible.</p>
+					<p style="font-size:20px;">You can get in touch with us on <b><u><a target="_blank" href="https://wa.me/8652375375?text=Hello%20TSPH" >+91 8652-375-375</a></u></b> either on WhatsApp or phone call during office hours.</p>
 				</ul>
 			</div>	
 		</div>
@@ -38,7 +43,7 @@
 	
 	<div class="contact">
 		<div class="container">
-			<h3 class="w3l_header w3_agileits_header1">Contact <span>Info</span></h3>
+			<h3 class="w3l_header w3_agileits_header1">Enquire <span>Now</span></h3>
 			<div class="w3layouts_mail_grid">
 				<div class="agileits_mail_grid_right agileits_w3layouts_mail_grid_right">
 					<div class="agileits_mail_grid_right1 agile_mail_grid_right1">
@@ -55,13 +60,13 @@
 								<i>Course	</i>
 								<select id="course" name="course">
 									<option value="-1">Select Course</option>
-									<option value="XI + XII + Engineering">XI + XII + Engineering</option>
-									<option value="XI + XII + Medical">XI + XII + Medical</option>
-									<option value="Eng. Rep.">Eng. Rep.</option>
-									<option value="Med. Rep.">Med. Rep.</option>
-									<option value="XII + Engineering">XII + Engineering</option>
-									<option value="XI + Medical">XI + Medical</option>
-									<option value=" XII"> XII</option>
+									<option value="XI + XII + Engineering">XI + XII + Engineering (JEE Mains + MHCET)</option>
+									<option value="XI + XII + Engineering">XI + XII + Engineering (JEE Mains + ADV. + MHCET)</option>
+									<option value="XI + XII + Medical">XI + XII + Medical(NEET)</option>
+									<option value="Eng. Rep.">JEE (Mains & ADV.) Repeater</option>
+									<option value="Med. Rep.">NEET Repeater</option>
+									<option value="XII + Engineering">XII + Engineering (JEE Mains + MHCET)</option>
+									<option value="XI + Medical">XI + Medical (NEET)</option>
 									<option value=" Others"> Others</option>
 								</select>
 							</span>

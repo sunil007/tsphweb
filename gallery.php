@@ -11,7 +11,7 @@
 	<?php include "include/topNav.php"; ?>
 	<div class="banner1">
 		<div class="w3_agileits_service_banner_info">
-			<h2>Gallery</h2>
+			<h2>TSPH Gallery</h2>
 		</div>
 	</div>
 <!-- //banner -->
@@ -50,7 +50,7 @@
 			<div class="col-md-4 gallery-grid gallery1">
 				<a href="images/gallery/TSPH Classroom.jpg" class="swipebox"><img src="images/gallery/TSPH Classroom.jpg" class="img-responsive" alt="/">
 					<div class="textbox">
-						<h4>Classroom</h4>
+						<h4>TSPH Classroom</h4>
 					<p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>	
 					</div>
 			</a>

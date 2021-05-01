@@ -130,7 +130,7 @@ input[type="submit"],input[type="reset"],a,.agileinfo_services_grid1_pos,.agilei
 	    font-weight:800;
 }
 .w3_agileits_search {
-       float: right;
+    float: right;
     width: 35%;
     padding: 10px;
     background: rgb(0, 0, 0);
@@ -166,7 +166,7 @@ input[type="submit"],input[type="reset"],a,.agileinfo_services_grid1_pos,.agilei
     font-size: 13px;
 }
 .navbar-right {
-    width: 58%;
+    width: 74%;
     margin-right: 0;
 }
 .navbar-default .navbar-nav > li > a {

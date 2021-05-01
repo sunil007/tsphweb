@@ -25,7 +25,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/Slider_Khushal_R.jpg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/TSPH Result 2018 1.jpg') no-repeat 0px 0px; background-size: cover;">
 					<div class="container">
 							<div class="agileits-banner-info">
 							</div>	

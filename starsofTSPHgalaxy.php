@@ -93,10 +93,6 @@
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center"><img src="images/TSPHstars/5_vinayB.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 11 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
-							<div class="text-center"><img src="images/TSPHstars/11_mohitS.jpg" alt="" class='img-responsive'></div>
-						</div>
 						<div class="col-md-12 col-sm-12" style='height:30px'><hr></div>
 					</div>
 					
@@ -121,10 +117,6 @@
 						<!-- 10 -->
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/10_shubhamR.jpg" alt="" class='img-responsive'></div>
-						</div>
-						<!-- 16 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
-							<div class="text-center"><img src="images/TSPHstars/16_dharniS.jpg" alt="" class='img-responsive'></div>
 						</div>
 						<div class="col-md-12 col-sm-12" style='height:30px'><hr></div>
 					</div>
@@ -152,10 +144,6 @@
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/21_riyaP.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 22 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
-							<div class="text-center "><img src="images/TSPHstars/22_nidhiG.jpg" alt="" class='img-responsive'></div>
-						</div>
 						<div class="col-md-12 col-sm-12" style='height:30px'><hr></div>
 					</div>
 					
@@ -173,49 +161,57 @@
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/19_aniketB.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 20 -->
+						<!-- 16 -->
+						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
+							<div class="text-center"><img src="images/TSPHstars/16_dharniS.jpg" alt="" class='img-responsive'></div>
+						</div>
+						<!-- 11 -->
+						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
+							<div class="text-center"><img src="images/TSPHstars/11_mohitS.jpg" alt="" class='img-responsive'></div>
+						</div>
+						<!-- 20 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/20_akrutiR.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 26 -->
+						<!-- 26 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/26_nareshG.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 27 -->
+						<!-- 27 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/27_hetM.jpg" alt="" class='img-responsive'></div>
 						</div>
 						<div class="col-md-12 col-sm-12" style='height:30px'><hr></div>
 					</div>
 					
-					<!-- right -->
+					<!-- right >
 					<div class='row'>
-						<!-- 23 -->
+						<!-- 23 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/23_krishaP.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 24 -->
+						<!-- 24 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/24_krishapP.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 25 -->
+						<!-- 25 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/25_bhumikaJ.jpg" alt="" class='img-responsive'></div>
 						</div>
 						
-						<!-- 28 -->
+						<!-- 28 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/28_binduP.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 29 -->
+						<!-- 29 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/29_divyaJ.jpg" alt="" class='img-responsive'></div>
 						</div>
-						<!-- 30 -->
+						<!-- 30 >
 						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/30_manishaP.jpg" alt="" class='img-responsive'></div>
-						</div>
-						
+						</div-->
+						<div class="col-md-12 col-sm-12" style='height:30px'><hr></div>
 					</div>
 				</div>
 			</div>

@@ -25,7 +25,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/Slider_Khushal_R.jpg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/TSPH Result 2018 1.jpg') no-repeat 0px 0px; background-size: cover;">
 					<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -61,7 +61,7 @@
 					
 					<!-- Kushal Rathi -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2018EngResults/kushal-rathi-MUMBAI.png" alt="" height="450px"></div></div>
+						<div class="col-md-6"><div class="text-center"><img src="images/2018EngResults/TSPH Result Kushal Rathi.png" alt="" height="450px"></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Kushal Rathi</h2></div>

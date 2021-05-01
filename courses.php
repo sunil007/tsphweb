@@ -13,7 +13,7 @@
 	<div class="banner1">
 			
 		<div class="w3_agileits_service_banner_info">
-			<h2>Courses</h2>
+			<h2>TSPH Courses</h2>
 		</div>
 	</div>
 <!-- //banner -->
@@ -22,7 +22,7 @@
 	<div class="services two">
 		<div class="container">
 			<!-- Engineering Programs -->
-			<h3 class="w3l_header w3_agileits_header">Engineering  <span>Programs</span></h3>
+			<h3 class="w3l_header w3_agileits_header">TSPH <span>Engineering Programs</span></h3>
 			<div style='height:30px'></div>
 			
 			<!-- Accordian -->
@@ -135,7 +135,7 @@
 			</div>
 			
 			<!-- Medical Programs -->
-			<h3 class="w3l_header w3_agileits_header">Medical  <span>Programs</span></h3>
+			<h3 class="w3l_header w3_agileits_header">TSPH <span>Medical Programs</span></h3>
 			<div style='height:30px'></div>
 			
 			<!-- Accordian -->
@@ -240,7 +240,7 @@
 			
 			<div class="clearfix"> </div>
 			<div class='text-center'>
-				<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;'>Register Now</div>
+				<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;'>Enquire Now</div>
 			</div>	
 		</div>
 	</div>

@@ -192,7 +192,7 @@
 								<div class="w3social-icons"> 
 									<ul>
 										<li><a target="_blank" href="https://www.facebook.com/hitesh.bechra"><i class="fa fa-facebook"style="font-size:1.5em;"></i> </a></li>
-										<li><a href="https://www.instagram.com/username/" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+										<li><a href="https://www.instagram.com/hiteshbechra/" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'" target="_blank"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
 									</ul>
 								</div>
 							</span>
@@ -211,7 +211,7 @@
 								<div class="w3social-icons"> 
 									<ul>
 										<li><a target="_blank" href="https://www.facebook.com/ictparimal"><i class="fa fa-facebook" style="font-size:1.5em;"></i> </a></li>
-										<li><a href="#" onMouseOver="this.style.color='#00ba66" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+										<li><a href="https://www.instagram.com/parimal_j_patel/" onMouseOver="this.style.color='#00ba66" onMouseOut="this.style.color='#fff'" target="_blank"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
 									</ul>
 								</div>
 							</span>
@@ -230,7 +230,7 @@
 								<div class="w3social-icons"> 
 									<ul>
 										<li><a target="_blank" href="https://www.facebook.com/pranav.gandhi.75"><i class="fa fa-facebook" style="font-size:1.5em;"></i> </a></li>
-										<li><a href="#" onMouseOver="this.style.color='#00ba66"onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li> 
+										<li><a href="https://www.instagram.com/boltessor/" onMouseOver="this.style.color='#00ba66"onMouseOut="this.style.color='#fff'" target="_blank"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li> 
 									</ul>
 								</div>
 							</span>
@@ -251,7 +251,7 @@
 								<div class="w3social-icons"> 
 									<ul>
 										<li><a target="_blank" href="https://www.facebook.com/gyanprakash.pandey.52"><i class="fa fa-facebook"style="font-size:1.5em;"></i> </a></li>
-										<li><a href="#" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
+										<li><a href="https://www.instagram.com/dr.gyanprakash/" onMouseOver="this.style.color='#00ba66'" onMouseOut="this.style.color='#fff'" target="_blank"><i class="fa fa-instagram" style="font-size:1.5em;"></i></a></li>
 									</ul>
 								</div>
 							</span>
@@ -284,7 +284,7 @@
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
 						<p>Directors themselves take the full responsibility of the subject and execute the plan with the help of small team of teachers. 
-							<strong>‘Personal Attention’</strong> distinguishes TSPH from others.
+							<strong>‘Personal Attention’</strong> is the key to crack entrance exam like JEE Mains, Advanced, NEET and MHCET, which distinguishes TSPH from others.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -301,7 +301,7 @@
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
 						<p>To achieve best conceptual clarity; self-study is must & to promote the same, we have diversified collection 
-							of reference books in our library.
+							of reference books in our library. It is quite essential facility for Engineering and Medical aspirants.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -318,7 +318,7 @@
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
 						<p>Self-designed, systematic & comprehensive study material is provided for boards & entrance exam preparation. 
-							Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it.
+							Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it. It plays quite a significant role in preparation of entrance exam like JEE Mains, Advanced, NEET and MHCET.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -334,8 +334,7 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>To ensure the relentless hard work from students, we, at Hub have designed <strong>‘Unique Testing Program’</strong> for boards as well as entrance. 
-							Students are constantly engaged in a monthly testing cycle comprising of small test of 15 minutes to the entrance pattern 6 hours long test.
+						<p>To ensure the relentless hard work from students, we, at Hub have designed <strong>‘Unique Testing Program’</strong> for boards as well as JEE, NEET entrance. Students are constantly engaged in a monthly testing cycle comprising of small test of 15 minutes to the JEE Advanced pattern 6 hours long test. 
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -351,8 +350,7 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>We ensure timely completion and honesty in homework. 
-							At Hub, availability of professors make doubt solving instant and effective.
+						<p>At TSPH, we ensure timely completion and honesty in homework. At Hub, availability of professors make doubt solving instant and effective.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -368,8 +366,7 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of 
-							parent because we believe that all the three must work in coordination to ensure the best progress.
+						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of parent because we believe that all the three must work in coordination to ensure the best progress of Engineering and Medical aspirants.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -385,7 +382,7 @@
 					</div>
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
-						<p><strong>‘TSPH Digital’</strong> is transforming student’s performance in every possible way. 
+						<p><strong>‘TSPH Digital Guru’</strong> is transforming student’s performance in every possible way. 
 							Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
 							Students as well as parents are given access to our online web portal/android app to closely monitor attendance, test performance and progress.
 						</p>
@@ -405,7 +402,7 @@
 						<div style='height:15px;'></div>
 						<p>We relentlessly work towards each and every student and guide them to reach a step above their potential. 
 							For us <strong>‘Every Child Matters’.</strong> Year on year our students are taking results to the greater heights 
-							and getting selected in state and national level engineering and medical institutes.
+							and getting selected in state and national level engineering and medical institutes. This makes TSPH one of the best coaching institute for Engineering and Medical entrance exam.
 						</p>
 					</div>
 					<div class="col-md-12"></div>
@@ -481,7 +478,7 @@
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
 									<div>
-										<p style='margin:0px !important;padding-left:50px;'>One of the best institute for Science...Extremely proud to have been a part of this exceptionally amazing place. The student-friendly teaching methods of the professors are highly commendable.</p>
+										<p style='margin:0px !important;padding-left:50px;'>One of the best institute for Science...Extremely proud to have been a part of this exceptionally amazing place. The student-friendly teaching methods of the professors are highly commendable. If a student follows a complete plan then success in JEE, NEET is guaranteed.</p>
 										<!--emoji <img draggable="false" class="emoji" alt="❤" src="https://s.w.org/images/core/emoji/11.2.0/svg/2764.svg"> -->
 										<div class="w3layouts_event_right_para_pos">
 											<i class="fa fa-quote-left" aria-hidden="true"></i>
@@ -504,7 +501,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p style='margin:0px !important;padding-left:50px;'>I have gained a lot of knowledge from the great faculties of TSPH..i am really thankful to the science private hub as the faculties here show full dedication towards me and other students..they clear all my doubts and also they guide us in a very right way so that we can prepare well for our exams..the science private hub is honestly a great coaching institute...---proudly a TSPHIAN </p>
+									<p style='margin:0px !important;padding-left:50px;'>I have gained a lot of knowledge from the great faculties of TSPH..I am really thankful to the science private's hub as the faculties here shown full dedication towards me and other students..they cleared all my doubts and also they guide us in a very right way so that we can prepare well for our exams..the science private's hub is honestly a great coaching institute. TSPH made me achieve my dream of MBBS...---Proud TSPHIAN </p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -525,7 +522,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p style='margin:0px !important;padding-left:50px;'>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material design by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studying.</p>
+									<p style='margin:0px !important;padding-left:50px;'>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material designed by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studies. Based on my experience of JEE batch, I truly recommend TSPH for JEE Mains, Advanced & MHCET courses.</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -546,7 +543,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p style='margin:0px !important;padding-left:50px;'>Professors of TSPH works on students by knowing their Capabilities and giving them Direction where they want to reach...Best Faculty Best Management Best Staff makes TSPH even more Great...The motivation given by TSPH not only helps you in 2 years but it helps us in our future...</p>
+									<p style='margin:0px !important;padding-left:50px;'>Professors of TSPH works on students by knowing their Capabilities and giving them Direction where they want to reach...Best Faculties, Best Management & Best Staff makes TSPH even more Great...The motivation given by TSPH not only helps you in 2 years but it helps us in our future... TSPH is best coaching institute of Mira-Bhayandar.</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -567,7 +564,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p style='margin:0px !important;padding-left:50px;'>The Best Place to study where we can know our Strong point and our weak point in studies and also making weak point to strong with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they helps us to manage our timings and makes us to work harder...They proved that TSPH is TSPH....</p>
+									<p style='margin:0px !important;padding-left:50px;'>The Best Place to study where we can know our strong points and our weak points in studies and also making weakness to strength with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they help us to manage our timings and make us work harder. TSPH helped me cracking all entrance exams i.e. JEE Mains, Advanced & MHCET. I am really proud to join TSPH...They proved that TSPH is TSPH....</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
