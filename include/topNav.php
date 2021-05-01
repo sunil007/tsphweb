@@ -26,11 +26,11 @@
 					</a>
 				</li>
 				<li>
-					<a href="document/TSPH Prospectus.pdf" style="font-size:15px;border: 1px solid #fff;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
+					<a href="document/TSPH Prospectus.pdf" style="font-size:15px;border: 1px solid #eb5424;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
 						<b class="fa fa-download" aria-hidden="true"></b> <b>Prospectus</b>
 					</a>
 					&nbsp;
-					<a href="document/TSPH Digital Guru.pdf" style="font-size:15px;border: 1px solid #fff;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
+					<a href="document/TSPH Digital Guru.pdf" style="font-size:15px;border: 1px solid #eb5424;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
 						<b class="fa fa-star" aria-hidden="true"></b> <b>Results 2021</b>
 					</a>
 				</li>
