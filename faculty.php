@@ -31,7 +31,7 @@
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Hitesh Bechra</span></h3>
-							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #9f1c20;font-weight: bold;">PHYSICS</h4>
+							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #00ba66;font-weight: bold;">PHYSICS</h4>
 							<div style='height:15px;'></div>
 							<p>Prof. Hitesh Bechra worked in a multinational company for a short span after completing his Engineering in Electronics domain. His passion towards teaching brought him back in the education domain. He has worked in many renowned coaching institutes of JEE & NEET before starting TSPH. Connecting the Concept of Physics with the real world and rich subject knowledge are some of the characteristics which represents his personality. 
 							</p>
@@ -45,7 +45,7 @@
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Parimal Patel</span></h3>
-							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #034883;font-weight: bold;">CHEMISTRY</h4>
+							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #00ba66;font-weight: bold;">CHEMISTRY</h4>
 							<div style='height:15px;'></div>
 							<p>Prof. Parimal Patel has completed B.Pharm from Institute of Chemical Technology (ICT). 
 								Stronghold on the subject and friendly environment in the classroom makes students fall in love with Chemistry. 
@@ -63,7 +63,7 @@
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Pranav Gandhi</span></h3>
-							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #ff9b05;font-weight: bold;">MATHEMATICS</h4>
+							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #00ba66;font-weight: bold;">MATHEMATICS</h4>
 							<div style='height:15px;'></div>
 							<p>Have you heard about musical Mathematics? Prof. Pranav Gandhi’s classroom is the perfect example of delivering Mathematics in musical format. 
 								Academics wise sir is coming from a management background. In the past two decades, sir has transformed the lives of many youngsters. 
@@ -81,7 +81,7 @@
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Gyanprakash Pandey</span></h3>
-							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #0eac04;font-weight: bold;">BIOLOGY</h4>
+							<h4 style="font-size: 1.4em;letter-spacing: 1px;color: #00ba66;font-weight: bold;">BIOLOGY</h4>
 							<div style='height:15px;'></div>
 							<p>To become a doctor; one must learn from the one who himself is a doctor. Since the past 15 years, 
 								Prof. Dr. Gyanprakash Pandey sir has guided thousands of medical aspirants. Biology subject requires practical 

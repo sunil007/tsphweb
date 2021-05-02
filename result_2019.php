@@ -281,6 +281,9 @@
 								<span style="font-weight:bold;">SCORED 99 PERCENTILE AND ABOVE IN MHCET.<span>
 							</span>
 						</div>
+						<div class="col-md-12">
+							<div style="height:30px;"></div>
+						</div>
 						<div class="studentdetail text-center">* indicates category rank.</div>
 						
 					</div>

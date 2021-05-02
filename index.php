@@ -87,7 +87,7 @@
 				</div>
 				<div class="clearfix"> </div>
 				<div class='text-center'>
-					<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px; background-color:#00ba66; border:#00ba66;'>Enquiry & Admission</div>
+					<div class='btn btn-sm btn-warning' onclick='$("#enquiryForm").modal("show")' style='font-size:1.2em;margin-top:30px; background-color:#00ba66; border:#00ba66;'>Enquire Now</div>
 				</div>	
 			</div>
 		</div>
@@ -370,7 +370,7 @@
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid1">
 		    <i class="fa fa-laptop" aria-hidden="true"></i>
-			<p class="counter">07</p>
+			<p class="counter">08</p>
 			<h3>Courses</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid2">
@@ -390,6 +390,10 @@
 <!-- //stats -->
 <!-- testimonials -->		
 	<div class="testimonials">
+		<div class="col-md-12 col-sm-12 w3l_header w3_agileits_header">
+			<div style='height:80px;'>&nbsp;</div>
+			<h3 style="font-size:1em;"><b>what students says</b></h3>
+		</div>
 		<div class="col-md-6 w3layouts_event_left">
 			<div style='height:80px;'>&nbsp;</div>
 			<iframe width="100%" height="500px;"
@@ -397,7 +401,7 @@
 			</iframe>
 		</div>
 		<div class="col-md-6 w3layouts_event_right">
-			<h3>what students says</h3>
+			<!--h3>what students says</h3-->
 			<section class="slider">
 				<div class="flexslider">
 					<ul class="slides">

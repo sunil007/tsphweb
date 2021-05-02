@@ -118,7 +118,7 @@
 							<div style='height:10px'></div>
 							<h3 class="text-left nomargin" style="font-size:1.5em">1.JEE Mains <span>Repeater</span></h3>
 							<div style='height:10px'></div>
-							<p>Special JEE Mains repeaters course is designed for those who missed NIT by a small margin in the first attempt; why don’t give one more chance? Systemic revision.</p>
+							<p>Special JEE Mains repeaters course is designed for those who missed NIT by a small margin in the first attempt; why don’t give one more chance? Systemic revision, doubts solving, part tests and full syllabus mock tests will ensure that student will definitely achieve the target.</p>
 							<div style='height:30px'></div>
 							<h3 class="text-left nomargin" style="font-size:1.5em">2.JEE Advanced <span>Repeater </span></h3>
 							<div style='height:10px'></div>
