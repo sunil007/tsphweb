@@ -93,9 +93,11 @@
 		</div>
 	</div>
 	
-	<iframe width="100%" height="500px;"
-		src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1">
-	</iframe>
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe width="100%" height="500px;"
+			src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1">
+		</iframe>
+	</div>
 	
 	<div class="clearfix"> </div>
 	<div style='height:50px;'>&nbsp;</div>
@@ -396,9 +398,11 @@
 		</div>
 		<div class="col-md-6 w3layouts_event_left">
 			<div style='height:80px;'>&nbsp;</div>
-			<iframe width="100%" height="500px;"
-				src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin-left:30px;">
-			</iframe>
+			<div class="embed-responsive embed-responsive-21by9 embed-responsive-16by9 embed-responsive-4by3 embed-responsive-1by1">
+				<iframe width="100%" height="500px;"
+					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin:auto;">
+				</iframe>
+			</div>
 		</div>
 		<div class="col-md-6 w3layouts_event_right">
 			<!--h3>what students says</h3-->
