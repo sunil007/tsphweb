@@ -50,9 +50,11 @@
 						<div style="height:50px;"></div>
 					</div>
 					<div style='height:80px;'>&nbsp;</div>
-					<iframe width="100%" height="500px;"
-						src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin-left:30px;">
-					</iframe>
+					<div class="embed-responsive embed-responsive-21by9 embed-responsive-16by9 embed-responsive-4by3 embed-responsive-1by1">
+						<iframe width="100%" height="500px;"
+							src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin-left:30px;">
+						</iframe>
+					</div>
 					<!-- MAYANK AGARWAL -->
 					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
@@ -282,7 +284,7 @@
 							</span>
 						</div>
 						<div class="col-md-12">
-							<div style="height:30px;"></div>
+							<div style="height:0px;"></div>
 						</div>
 						<div class="studentdetail text-center">* indicates category rank.</div>
 						
@@ -298,9 +300,11 @@
 					</div>
 					
 					<div style='height:80px;'>&nbsp;</div>
-					<iframe width="100%" height="500px;"
-						src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;">
-					</iframe>
+					<div class="embed-responsive embed-responsive-21by9 embed-responsive-16by9 embed-responsive-4by3 embed-responsive-1by1">
+						<iframe width="100%" height="500px;"
+							src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;">
+						</iframe>
+					</div>
 					<div style='height:80px;'>&nbsp;</div>
 					
 					<!-- NIHARIKA MISHRA -->
