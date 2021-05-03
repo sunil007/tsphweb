@@ -52,7 +52,7 @@
 					<div style='height:80px;'>&nbsp;</div>
 					<div class="embed-responsive embed-responsive-21by9 embed-responsive-16by9 embed-responsive-4by3 embed-responsive-1by1">
 						<iframe width="100%" height="500px;"
-							src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin-left:30px;">
+							src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin:auto;">
 						</iframe>
 					</div>
 					<!-- MAYANK AGARWAL -->

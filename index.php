@@ -394,13 +394,13 @@
 	<div class="testimonials">
 		<div class="col-md-12 col-sm-12 w3l_header w3_agileits_header">
 			<div style='height:80px;'>&nbsp;</div>
-			<h3 style="font-size:1em;"><b>what students says</b></h3>
+			<h3 style="font-size:1em;"><b>what students say</b></h3>
 		</div>
 		<div class="col-md-6 w3layouts_event_left">
 			<div style='height:80px;'>&nbsp;</div>
 			<div class="embed-responsive embed-responsive-21by9 embed-responsive-16by9 embed-responsive-4by3 embed-responsive-1by1">
 				<iframe width="100%" height="500px;"
-					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin:auto;">
+					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin-left:10px; margin-right:10px !important;">
 				</iframe>
 			</div>
 		</div>
