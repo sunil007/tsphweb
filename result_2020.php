@@ -464,7 +464,7 @@
 					
 					<!-- Lokesh Jha -->
 					<div class="col-md-4 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020MedResults/TSPH Result Lokesh Jha.jpeg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2020MedResults/TSPH Result Lokesh Jha.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Lokesh Jha</div>
 						<div class="studentdetail text-center">
 							582/720 <br>
