@@ -154,21 +154,23 @@
 				data['token']=token;
 			
 			$("#successMessage").text("Please wait...Registring your enquiry with TSPH Experts.");
+			$("#errorMessage").text("");
 			$.post("ajax/newEnquiry.php", data, function(data){
 				try{
-					$("#successMessage").text();
-					$("#errorMessage").text();
+					$("#successMessage").text("");
+					$("#errorMessage").text("");
 					jsonData = JSON.parse(data);
 					if(typeof(jsonData['status']) != "undefined" && jsonData['status'] == "success"){
 						$("#enquiryDataForm").hide();
 						$("#enquiryForm .modal-footer").hide();
 						$("#successMessage").html("<h3 class='text-center'><span style='font-size:1.2em'>Thank You</span><br/>&nbsp;<br/>Request is Registered Successfully.<br/>&nbsp;<br/>&nbsp;</h3>");
 					}else{
+						$("#successMessage").text("");
 						$("#errorMessage").text("Failed to connect to server. Please reload the page and try again.")
 					}
 				}catch(e){
 					console.log(e);
-					$("#successMessage").text();
+					$("#successMessage").text("");
 					$("#errorMessage").text("Failed to connect to server. Please reload the page and try again.")
 					
 				}

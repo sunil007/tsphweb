@@ -47,15 +47,19 @@
 			<div class="w3layouts_mail_grid">
 				<div class="agileits_mail_grid_right agileits_w3layouts_mail_grid_right">
 					<div class="agileits_mail_grid_right1 agile_mail_grid_right1">
-						<form action="#" method="post">
+						<form id='contactDataForm' action="#" method="post">
 							<span>
 								<i>Name</i>
-								<input type="text" name="name" placeholder="Name" required="">
+								<input type='text' name='name' placeholder='Student Name'>
 							</span>
+							<div id='nameError' style='color:red;font-size:0.9em'></div>
+							
 							<span>
 								<i>Mobile</i>
-								<input type="tel" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" placeholder="Contact number" required="">
+								<input type='tel' name='phone' placeholder='Contact Number'>
 							</span>
+							<div id='phoneError' style='color:red;font-size:0.9em'></div>
+							
 							<span>
 								<i>Course	</i>
 								<select id="course" name="course">
@@ -70,8 +74,12 @@
 									<option value=" Others"> Others</option>
 								</select>
 							</span>
-							<div class="text-right"><input type="submit" value="SUBMIT"></div>
+							<div id='courseError' style='color:red;font-size:0.9em'></div>
+							
+							<button type="button" class="btn btn-primary" onclick="submitContact()" style="background: #eb5424;border-color: #eb5424;border-radius: 0px;float: right;">Submit</button>
 						</form>
+						<div id='errorContactMessage' style='color:red;font-size:0.9em'></div>
+						<div id='successContactMessage' style='color:green;font-size:0.9em'></div>
 					</div>
 				</div>
 				
@@ -79,7 +87,70 @@
 			</div>
 		</div>
 	</div>
-
+	
+	<script>
+		function submitContact(){
+			let name = $("#contactDataForm [name='name']").val();
+			if(name == ""){
+				$("#contactDataForm [name='name']").effect('highlight',2000);
+				$("#contactDataForm #nameError").text("Please enter name");
+				return false;
+			}else{
+				$("#contactDataForm #nameError").text("");
+			}
+			
+			let phone = $("#contactDataForm [name='phone']").val();
+			if(phone == ""){
+				$("#contactDataForm [name='phone']").effect('highlight',2000);
+				$("#contactDataForm #phoneError").text("Please enter valid 10 digit name");
+				return false;
+			}else{
+				$("#contactDataForm #phoneError").text("");
+			}
+			let course = $("#contactDataForm [name='course']").val();
+			if(course == "-1"){
+				$("#contactDataForm [name='course']").effect('highlight',2000);
+				$("#contactDataForm #courseError").text("Please select course");
+				return false;
+			}else{
+				$("#contactDataForm #courseError").text("");
+			}
+			
+			captchaAction = "newEnquiry";
+			grecaptcha.execute('6LeQ334UAAAAAMcpX18gQk-hvLQh74biC2ii-oXI', {action: captchaAction})
+			.then(function(token) {
+				var dataPoints = $("#contactDataForm").serializeArray();
+				data = {};
+				data['name'] = name;
+				data['phone'] = phone;
+				data['cource'] = course;
+				if(typeof(token) != "undefined" && token.length > 0)
+					data['token']=token;
+				
+				$("#successContactMessage").text("Please wait...Registring your enquiry with TSPH Experts.");
+				$("#errorContactMessage").text("");
+				$.post("ajax/newEnquiry.php", data, function(data){
+					$("#successContactMessage").text("");
+					$("#errorContactMessage").text("");
+					try{
+						jsonData = JSON.parse(data);
+						if(typeof(jsonData['status']) != "undefined" && jsonData['status'] == "success"){
+							$("#contactDataForm").hide();
+							$("#successContactMessage").html("<h3 class='text-center'><span style='font-size:1.2em'>Thank You</span><br/>&nbsp;<br/>Request is Registered Successfully.<br/>&nbsp;<br/>&nbsp;</h3>");
+						}else{
+							$("#successContactMessage").text("");
+							$("#errorContactMessage").text("Failed to connect to server. Please reload the page and try again.")
+						}
+					}catch(e){
+						console.log(e);
+						$("#successContactMessage").text("");
+						$("#errorContactMessage").text("Failed to connect to server. Please reload the page and try again.")
+						
+					}
+				});
+			});
+		}
+	</script>
 
 <?php include "include/footer.php"; ?>
 <?php include "include/js.php"; ?>
