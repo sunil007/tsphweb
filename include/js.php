@@ -2,6 +2,7 @@
 <!-- start-smoth-scrolling -->
 <!-- js -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
 <!-- //js -->
 <script src="js/JiSlider.js"></script>
 <script>
@@ -67,3 +68,4 @@
 		$(".swipebox").swipebox();
 	});
 </script>
+<script src='https://www.google.com/recaptcha/api.js?render=6LeQ334UAAAAAMcpX18gQk-hvLQh74biC2ii-oXI'></script>

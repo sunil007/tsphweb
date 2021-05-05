@@ -66,42 +66,113 @@
         </button>
       </div>
       <div class="modal-body">
-		<h4>Student Name</h4>
-		<div style='height:5px;'></div>
-        <div class='input-group'>
-			<span class='input-group-addon'><i class='fa fa-user'></i></span>
-			<input type='text' name='name' class='form-control' placeholder='Student Name'>
-		</div>
-		
-		<h4>Contact Number</h4>
-		<div style='height:5px;'></div>
-        <div class='input-group'>
-			<span class='input-group-addon'><i class='fa fa-phone'></i></span>
-			<input type='mobile' name='phone' class='form-control' placeholder='Contact Number'>
-		</div>
-		
-		<h4>Select Course</h4>
-		<div style='height:5px;'></div>
-        <div class='input-group'>
-			<span class='input-group-addon'><i class='fa fa-list'></i></span>
-			<select id="course" name="course" class='form-control'>
-				<option value="-1">Select Course</option>
-				<option value="XI + XII + Engineering">XI + XII + Engineering</option>
-				<option value="XI + XII + Medical">XI + XII + Medical</option>
-				<option value="Eng. Rep.">Eng. Rep.</option>
-				<option value="Med. Rep.">Med. Rep.</option>
-				<option value="XII + Engineering">XII + Engineering</option>
-				<option value="XI + Medical">XI + Medical</option>
-				<option value=" XII"> XII</option>
-				<option value=" Others"> Others</option>
-			</select>
-		</div>
-		
+		<form id="enquiryDataForm">
+			<h4>Student Name</h4>
+			<div style='height:5px;'></div>
+			<div class='input-group nomargin'>
+				<span class='input-group-addon'><i class='fa fa-user'></i></span>
+				<input type='text' name='name' class='form-control' placeholder='Student Name'>
+			</div>
+			<div id='nameError' style='color:red;font-size:0.9em'></div>
+			
+			<div style='height:15px;'></div>
+			<h4>Contact Number</h4>
+			<div style='height:5px;'></div>
+			<div class='input-group nomargin'>
+				<span class='input-group-addon'><i class='fa fa-phone'></i></span>
+				<input type='number' name='phone' class='form-control' placeholder='Contact Number'>
+			</div>
+			<div id='phoneError' style='color:red;font-size:0.9em'></div>
+			
+			<div style='height:15px;'></div>
+			<h4>Select Course</h4>
+			<div style='height:5px;'></div>
+			<div class='input-group nomargin'>
+				<span class='input-group-addon'><i class='fa fa-list'></i></span>
+				<select id="course" name="course" class='form-control'>
+					<option value="-1">Select Course</option>
+					<option value="XI + XII + Engineering">XI + XII + Engineering</option>
+					<option value="XI + XII + Medical">XI + XII + Medical</option>
+					<option value="Eng. Rep.">Eng. Rep.</option>
+					<option value="Med. Rep.">Med. Rep.</option>
+					<option value="XII + Engineering">XII + Engineering</option>
+					<option value="XI + Medical">XI + Medical</option>
+					<option value=" XII"> XII</option>
+					<option value=" Others"> Others</option>
+				</select>
+			</div>
+			<div id='courseError' style='color:red;font-size:0.9em'></div>
+		</form>
+		<div style='height:15px;'></div>
+		<div id='errorMessage' style='color:red;font-size:0.9em'></div>
+		<div id='successMessage' style='color:green;font-size:0.9em'></div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary">Submit</button>
+        <button type="button" class="btn btn-primary" onclick="submitEnquiry()">Submit</button>
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
+<script>
+	function submitEnquiry(){
+		let name = $("#enquiryDataForm [name='name']").val();
+		if(name == ""){
+			$("#enquiryDataForm [name='name']").effect('highlight',2000);
+			$("#enquiryDataForm #nameError").text("Please enter name");
+			return false;
+		}else{
+			$("#enquiryDataForm #nameError").text("");
+		}
+		
+		let phone = $("#enquiryDataForm [name='phone']").val();
+		if(phone == ""){
+			$("#enquiryDataForm [name='phone']").effect('highlight',2000);
+			$("#enquiryDataForm #phoneError").text("Please enter valid 10 digit name");
+			return false;
+		}else{
+			$("#enquiryDataForm #phoneError").text("");
+		}
+		let course = $("#enquiryDataForm [name='course']").val();
+		if(course == "-1"){
+			$("#enquiryDataForm [name='course']").effect('highlight',2000);
+			$("#enquiryDataForm #courseError").text("Please select course");
+			return false;
+		}else{
+			$("#enquiryDataForm #courseError").text("");
+		}
+		
+		captchaAction = "newEnquiry";
+		grecaptcha.execute('6LeQ334UAAAAAMcpX18gQk-hvLQh74biC2ii-oXI', {action: captchaAction})
+		.then(function(token) {
+			var dataPoints = $("#enquiryDataForm").serializeArray();
+			data = {};
+			data['name'] = name;
+			data['phone'] = phone;
+			data['cource'] = course;
+			if(typeof(token) != "undefined" && token.length > 0)
+				data['token']=token;
+			
+			$("#successMessage").text("Please wait...Registring your enquiry with TSPH Experts.");
+			$.post("ajax/newEnquiry.php", data, function(data){
+				try{
+					$("#successMessage").text();
+					$("#errorMessage").text();
+					jsonData = JSON.parse(data);
+					if(typeof(jsonData['status']) != "undefined" && jsonData['status'] == "success"){
+						$("#enquiryDataForm").hide();
+						$("#enquiryForm .modal-footer").hide();
+						$("#successMessage").html("<h3 class='text-center'><span style='font-size:1.2em'>Thank You</span><br/>&nbsp;<br/>Request is Registered Successfully.<br/>&nbsp;<br/>&nbsp;</h3>");
+					}else{
+						$("#errorMessage").text("Failed to connect to server. Please reload the page and try again.")
+					}
+				}catch(e){
+					console.log(e);
+					$("#successMessage").text();
+					$("#errorMessage").text("Failed to connect to server. Please reload the page and try again.")
+					
+				}
+			});
+		});
+	}
+</script>
