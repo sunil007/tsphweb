@@ -77,10 +77,10 @@
 						<div class="text-center"><img src="images/2021EngResults/TSPH Result Unnati Singh.JPG" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Unnati Singh</h2></div>
-						<div class="studentdetail text-center" style="font-size:1.7em;">99.83%</div>
 						<hr>
+						<div class="studentdetail text-center" style="font-size:1.7em;">99.83%</div>
 						<div class="studentname text-center">
-							(NTA Score) <br>
+							(NTA Score)
 						</div>
 					</div>
 					
@@ -89,10 +89,10 @@
 						<div class="text-center"><img src="images/2021EngResults/TSPH Result Dev Goti.JPG" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Dev Goti</h2></div>
-						<div class="studentdetail text-center" style="font-size:1.7em;">99.20%</div>
 						<hr>
+						<div class="studentdetail text-center" style="font-size:1.7em;">99.20%</div>
 						<div class="studentname text-center">
-							(NTA Score) <br>
+							(NTA Score) 
 						</div>
 					</div>
 					
@@ -109,6 +109,7 @@
 						<div class="text-center">
 							98.92%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Tushar Rathi -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -119,6 +120,7 @@
 						<div class="text-center">
 							98.86%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Janam Khandelwal -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -129,6 +131,7 @@
 						<div class="text-center">							
 							98.45%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -144,6 +147,7 @@
 						<div class="text-center">
 							98.27%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Bhavani Jangir -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -154,6 +158,7 @@
 						<div class="text-center">
 							97.75%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Aditya Mote -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -164,6 +169,7 @@
 						<div class="text-center">
 							97.66%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -179,6 +185,7 @@
 						<div class="text-center">							
 							97.65%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Deepam Shah -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -189,6 +196,7 @@
 						<div class="text-center">
 							97.64%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Preet Jain -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -199,6 +207,7 @@
 						<div class="text-center">
 							97.28%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -214,6 +223,7 @@
 						<div class="text-center">							
 							96.98%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Tanvi Darji -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -224,6 +234,7 @@
 						<div class="text-center">
 							96.96%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Meet Ranka -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -234,6 +245,7 @@
 						<div class="text-center">							
 							96.90%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -249,6 +261,7 @@
 						<div class="text-center">
 							96.53%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Keshav Singh -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -259,6 +272,7 @@
 						<div class="text-center">
 							96.33%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Kunal Goudani -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -269,6 +283,7 @@
 						<div class="text-center">
 							96.19%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -284,6 +299,7 @@
 						<div class="text-center">							
 							96.17%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Pavan Alva -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -294,6 +310,7 @@
 						<div class="text-center">
 							95.80%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Sneha Mishra -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -304,6 +321,7 @@
 						<div class="text-center">
 							95.63%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -319,6 +337,7 @@
 						<div class="text-center">							
 							95.36%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Jigar Siddhpura -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -329,6 +348,7 @@
 						<div class="text-center">
 							95.30%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Akash Manna-->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -339,6 +359,7 @@
 						<div class="text-center">
 							95.28%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					
 					<div class="col-md-12">
@@ -354,6 +375,7 @@
 						<div class="text-center">							
 							95.20%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<!-- Heet Bhadani -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
@@ -364,6 +386,7 @@
 						<div class="text-center">
 							95.04%
 						</div>
+						<div class="studentdetail text-center">(NTA Score)</div>
 					</div>
 					<div class="col-md-12">
 						<div style="height:50px;"></div>

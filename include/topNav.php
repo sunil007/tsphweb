@@ -35,11 +35,11 @@
 					</a>
 				</li>
 				<li>
-					<a href="tel:+918652375375" style='font-size:15px;' onMouseOver="this.style.color='#1173f2'"onMouseOut="this.style.color='#fff'">
+					<a href="tel:+918652375375" style='font-size:15px;' onMouseOver="this.style.color='#eb5424'"onMouseOut="this.style.color='#fff'">
 						<b class="fa fa-phone" aria-hidden="true"></b> <b>+91 8652-375-375</b>
 					</a>
 					<span style="border-left: 1px solid #cfcfcf;margin-left: 3px;">&nbsp;</span>
-					<a href="tel:+918652373373" style='font-size:15px;' onMouseOver="this.style.color='#1173f2'"onMouseOut="this.style.color='#fff'">	
+					<a href="tel:+918652373373" style='font-size:15px;' onMouseOver="this.style.color='#eb5424'"onMouseOut="this.style.color='#fff'">	
 						<b class="fa fa-phone" aria-hidden="true"></b> <b>+91 8652-373-373</b>
 					</a>
 				</li>

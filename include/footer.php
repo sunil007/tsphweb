@@ -91,13 +91,13 @@
 				<span class='input-group-addon'><i class='fa fa-list'></i></span>
 				<select id="course" name="course" class='form-control'>
 					<option value="-1">Select Course</option>
-					<option value="XI + XII + Engineering">XI + XII + Engineering</option>
-					<option value="XI + XII + Medical">XI + XII + Medical</option>
-					<option value="Eng. Rep.">Eng. Rep.</option>
-					<option value="Med. Rep.">Med. Rep.</option>
-					<option value="XII + Engineering">XII + Engineering</option>
-					<option value="XI + Medical">XI + Medical</option>
-					<option value=" XII"> XII</option>
+					<option value="XI + XII + Engineering">XI + XII + Engineering (JEE Mains + MHCET)</option>
+					<option value="XI + XII + Engineering">XI + XII + Engineering (JEE Mains + ADV. + MHCET)</option>
+					<option value="XI + XII + Medical">XI + XII + Medical(NEET)</option>
+					<option value="Eng. Rep.">JEE (Mains & ADV.) Repeater</option>
+					<option value="Med. Rep.">NEET Repeater</option>
+					<option value="XII + Engineering">XII + Engineering (JEE Mains + MHCET)</option>
+					<option value="XI + Medical">XI + Medical (NEET)</option>
 					<option value=" Others"> Others</option>
 				</select>
 			</div>
