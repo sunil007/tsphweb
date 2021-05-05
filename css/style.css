@@ -228,6 +228,8 @@ ul.agile_forms {
 	-o-background-size: cover;		
 	-moz-background-size: cover;
 	min-height:700px;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 .w3layouts-banner-top1{
 	background: url('../images/banner1.jpg') no-repeat 0px 0px;
@@ -237,6 +239,8 @@ ul.agile_forms {
 	-o-background-size: cover;		
 	-moz-background-size: cover;
 	min-height:700px;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 .w3layouts-banner-top2{
 	background: url('../images/banner2.jpg') no-repeat 0px 0px;
@@ -246,6 +250,8 @@ ul.agile_forms {
 	-o-background-size: cover;		
 	-moz-background-size: cover;	
 	min-height:700px;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 .agileits-banner-info h3 {
@@ -998,6 +1004,7 @@ h3.w3l_header.w3_agileits_header.two {
 .menu__list {
 	position: relative;
 	list-style: none;
+	float: right;
 }
 .menu__link {
 	-webkit-user-select: none;
@@ -2139,7 +2146,7 @@ h3.agileinfo_sign  {
 		width: 67%;
 	}
 	.w3layouts-banner-top,.w3layouts-banner-top1,.w3layouts-banner-top2 {
-		min-height: 700px;
+		min-height: 630px;
 	}
 	.agileits-banner-info {
 		padding: 15em 0 0em;
@@ -2152,6 +2159,9 @@ h3.agileinfo_sign  {
 	}
 }
 @media (max-width: 1366px){
+	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
+		min-height: 575px;
+	}
 	.navbar-right {
 		width: 70%;
 	}
@@ -2198,7 +2208,7 @@ h3.agileinfo_sign  {
 		right: -15%;
 	}
 	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
-		min-height: 530px;
+		min-height: 573px;
 	}
 	.agileits-banner-info {
 		padding: 11em 0 0em;
@@ -2217,6 +2227,9 @@ h3.agileinfo_sign  {
 	}
 }
 @media (max-width: 1080px){
+	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
+		min-height: 475px;
+	}
 	.navbar-right {
 		width: 95%;
 	}
@@ -2423,6 +2436,9 @@ h3.agileinfo_sign  {
 	}
 }
 @media (max-width: 1024px){
+	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
+		min-height: 450px;
+	}
 	.w3_agileits_search {
 		width: 30%;
 	}
@@ -2451,6 +2467,9 @@ h3.agileinfo_sign  {
 	}
 }
 @media (max-width: 991px){
+	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
+		min-height: 400px;
+	}
 	.navbar-nav > li > a {
 		padding: 3px 10px;
 	}
@@ -2817,6 +2836,7 @@ h3.agileinfo_sign  {
 	.navbar-nav {
 		margin: 0;
 		text-align:center;
+		float: inherit;
 	}
 	.navbar-nav > li > a {
 		padding: 5px 25px;
@@ -2871,7 +2891,7 @@ h3.agileinfo_sign  {
 }
 @media (max-width: 736px){
 	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
-		min-height: 430px;
+		min-height: 380px;
 	}
 	.w3l_footer_nav li {
 		margin-right: 1.4em;
@@ -3206,7 +3226,7 @@ h3.agileinfo_sign  {
 		letter-spacing: 5px;
 	}
 	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
-		min-height: 195px;
+		min-height: 250px;
 	}
 	.agileits-banner-info {
 		padding: 7em 0 0em;
@@ -3257,6 +3277,11 @@ h3.agileinfo_sign  {
 	}
 }
 @media (max-width: 480px){
+	
+	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
+		min-height: 222px;
+	}
+	
 	.agileinfo_more a {
 		border: 1px solid;
 	}
@@ -3386,6 +3411,11 @@ h3.agileinfo_sign  {
 	}
 }
 @media (max-width: 414px){
+	
+	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
+		min-height: 191px;
+	}
+	
 	.navbar-brand.img-responsive img {
 		height: 80px !important;
 	}
@@ -3591,7 +3621,7 @@ h3.agileinfo_sign  {
 		height: 80px !important;
 	}
     .w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
-		min-height: 175px;
+		min-height: 173px;
 	}
 	.agileits-banner-info {
 		padding: 5em 0 0em;
@@ -3662,7 +3692,7 @@ h3.agileinfo_sign  {
 }
 @media (max-width: 375px){
 	.navbar-brand.img-responsive img{
-		height:80px !important;
+		height:65px !important;
 	}
 	
 	.w3_agileits_search {
@@ -3673,7 +3703,7 @@ h3.agileinfo_sign  {
 		left: 37%;
 	}
 	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
-		min-height: 170px;
+		min-height: 165px;
 	}
 	.w3-agile-post-info ul li:nth-child(2) {
 		margin: 0 0 0 8em;
@@ -3714,7 +3744,7 @@ h3.agileinfo_sign  {
 }
 @media (max-width: 320px){
 	.navbar-brand.img-responsive img {
-		height: 80px !important;
+		height: 65px !important;
 	}
 	.agile_phone_mail ul li {
 		padding: 2px;

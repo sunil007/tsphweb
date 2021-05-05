@@ -343,20 +343,57 @@
 		
 		<h3 class="w3l_header w3_agileits_header"> Latest <span>  News & Announcements</span></h3>
 	
-			<div class="grid_3 grid_5 agile">
-				<!--comment><h3>Wells</h3><comment-->
-				<div class="well" style="border-color:#c71414;">
-					<a href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P" style="color:#c71414; font-weight:bold;">JEE Mains 2021Application Form Fill up</a>
+			
+			<div class="agileinfo_services_grids">
+				<div class="col-md-3 agileinfo_services_grid">
+					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
+						<h4>
+							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P" style="color:#eb5424; font-weight:bold;">JEE Mains 2021Application Form Fill up</a>
+						</h4>
+						<div class="agileinfo_services_grid1_pos">
+							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+							</a>
+						</div>
+					</div>
 				</div>
-				<div class="well" style="border-color:#e8be05;">
-					<a href="http://result.jeeadv.ac.in/" style="color:#e8be05; font-weight:bold;">Display of JEE Advanced 2020 Results</a>			
+				<div class="col-md-3 agileinfo_services_grid">
+					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
+						<h4>
+							<a href="http://result.jeeadv.ac.in/" style="color:#eb5424; font-weight:bold;">Display of JEE Advanced 2020 Results</a>	
+						</h4>
+						<div class="agileinfo_services_grid1_pos">
+							<a target="_blank" href="http://result.jeeadv.ac.in/">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+							</a>
+						</div>
+					</div>
 				</div>
-				<div class="well" style="border-color:#1dcf2f;">
-					<a href="http://ntaresults.nic.in/neet20/result/resultneet.htm" style="color:#1dcf2f; font-weight:bold;">Display of NEET 2020 Results</a>
+				<div class="col-md-3 agileinfo_services_grid">
+					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;"> 
+						<h4>
+							<a href="http://ntaresults.nic.in/neet20/result/resultneet.htm" style="color:#eb5424; font-weight:bold;">Display of <br>NEET 2020 <br>Results</a>
+						</h4>
+						<div class="agileinfo_services_grid1_pos">
+							<a target="_blank" href="http://ntaresults.nic.in/neet20/result/resultneet.htm">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+							</a>
+						</div>
+					</div>
 				</div>
-				<div class="well" style="border-color:#2076bd;">
-					<a href="https://mhtcet2020.mahaonline.gov.in/" style="color:#2076bd; font-weight:bold;">MHCET 2020 Objections Application</a>
+				<div class="col-md-3 agileinfo_services_grid">
+					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
+						<h4>
+							<a href="https://mhtcet2020.mahaonline.gov.in/" style="color:#eb5424; font-weight:bold;">MHCET 2020 Objections Application</a>
+						</h4>
+						<div class="agileinfo_services_grid1_pos">
+							<a target="_blank" href="https://mhtcet2020.mahaonline.gov.in/">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+							</a>
+						</div>
+					</div>
 				</div>
+				<div class="clearfix"> </div>
 			</div>
 		</div>
 	</div>
