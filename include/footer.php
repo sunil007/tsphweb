@@ -17,10 +17,10 @@
 						<li><a href="index.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'index')?"active": "" ?>">Home</a></li>
 						<li><a href="faculty.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'faculty')?"active": "" ?>">Faculty</a></li>
 						<li><a href="courses.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'courses')?"active": "" ?>">Courses</a></li>
-						<li><a href="digitalguru.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'digitalguru')?"active": "" ?>">Digital Guru</a></li>
+						<!--li><a href="digitalguru.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'digitalguru')?"active": "" ?>">Digital Guru</a></li-->
 						<li><a href="result_2021.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"active": "" ?>">Results</a></li>
 						<li><a href="gallery.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'gallery')?"active": "" ?>">Gallery</a></li>
-						<li><a href="blogs.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'blogs')?"active": "" ?>">Blogs</a></li>
+						<!--li><a href="blogs.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'blogs')?"active": "" ?>">Blogs</a></li-->
 						<li><a href="contactus.php" class="<?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'contactus')?"active": "" ?>">Contact Us</a></li>
 					</ul>
 				</div>

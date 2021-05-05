@@ -166,7 +166,7 @@ input[type="submit"],input[type="reset"],a,.agileinfo_services_grid1_pos,.agilei
     font-size: 13px;
 }
 .navbar-right {
-    width: 74%;
+    width: 60%;
     margin-right: 0;
 }
 .navbar-default .navbar-nav > li > a {
@@ -227,7 +227,7 @@ ul.agile_forms {
 	-moz-background-size: cover;
 	-o-background-size: cover;		
 	-moz-background-size: cover;
-	min-height:700px !important;
+	min-height:700px;
 }
 .w3layouts-banner-top1{
 	background: url('../images/banner1.jpg') no-repeat 0px 0px;
@@ -236,7 +236,7 @@ ul.agile_forms {
 	-moz-background-size: cover;
 	-o-background-size: cover;		
 	-moz-background-size: cover;
-	min-height:700px !important;
+	min-height:700px;
 }
 .w3layouts-banner-top2{
 	background: url('../images/banner2.jpg') no-repeat 0px 0px;
@@ -245,7 +245,7 @@ ul.agile_forms {
 	-moz-background-size: cover;
 	-o-background-size: cover;		
 	-moz-background-size: cover;	
-	min-height:700px !important;
+	min-height:700px;
 }
 
 .agileits-banner-info h3 {
