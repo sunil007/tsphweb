@@ -79,9 +79,7 @@
 						When the passion of the teacher meets with dedication and hard work of students then the miracle happens! 
 					</p>
 					<div style='height:15px;'></div>
-					<p> Since inception in 2013; we are able to put Mira - Bhayandar on Maharashtra State map by producing state-level toppers in entrance examinations.
-						Year on year, number of students clearing national level entrance exams like IIT – JEE (Mains & Adv.), NEET, etc. are on rise. Many students from TSPH are entering into the most premier institutes of the country like IIT, NIT and many renowned GMC.
-						Our vision is to do all-round development of youngsters which enables them to pursue further studies from national level renowned engineering and medical institutes.
+					<p> Since inception in 2013; we are able to put Mira - Bhayandar on Maharashtra State map by producing state-level toppers in entrance examinations.Year on year, number of students clearing national level entrance exams like IIT – JEE (Mains & Adv.), NEET, etc. are on rise. Many students from TSPH are entering into the most premier institutes of the country like IIT, NIT and many renowned GMC.Our vision is to do all-round development of youngsters which enables them to pursue further studies from national level renowned engineering and medical institutes.
 					</p>
 					
 				</div>
@@ -93,10 +91,12 @@
 		</div>
 	</div>
 	
-	<div class="embed-responsive embed-responsive-16by9">
+	<div class="">
 		<iframe width="100%" height="500px;"
 			src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1">
 		</iframe>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/_gC5MmyX8sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	
 	<div class="clearfix"> </div>
