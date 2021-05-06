@@ -61,16 +61,17 @@
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">41 STUDENTS </strong>
+									<strong class='texthiglight1' >41 STUDENTS </strong>
 								</span> 
 								<span style="font-weight:bold;"> CLEARED JEE MAINS.</span>
 							</span>
 						</div>	
+						<div style='height:40px;'>&nbsp;</div>
 					</div>	
 					
 					
-					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2019EngResults/TSPH Result Mayank A.JPG" alt="" height="450px"></div></div>
+					<div class="col-md-12 col-sm-12">
+						<div class="col-md-6"><div class="text-center"><img src="images/2019EngResults/TSPH Result Mayank A.JPG" alt="" class='img-responsive'></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Mayank Agarwal</h2></div>
@@ -89,13 +90,13 @@
 						</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12 col-sm-12">
 						<div style="height:60px;"></div>
 					</div>
 					
 					<!-- PANKAJ W. -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/TSPH Result Pankaj W.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Pankaj W.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Pankaj W.</h2></div>
 						<div class="studentdetail text-center"><h2>(Now @ IIT-BOMBAY)</h2></div>
@@ -108,7 +109,7 @@
 					</div>
 					<!-- KETAN S. -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/TSPH Result Ketan S.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Ketan S.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Ketan S.</h2></div>
 						<div class="studentdetail text-center"><h2>(Now @ IIT-VARANASI)</h2></div>
@@ -121,7 +122,7 @@
 					</div>
 					<!-- MAHESH R. -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/TSPH Result Mahesh R.jpg" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Mahesh R.jpg" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Mahesh R.</h2></div>
 						<div class="studentdetail text-center"><h2>(Now @ NIT SURAT)</h2></div>
@@ -132,7 +133,7 @@
 						</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
 					</div>
 					
@@ -141,7 +142,7 @@
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">9 STUDENTS </strong>
+									<strong class='texthiglight1'>9 STUDENTS </strong>
 								</span> 
 								<span style="font-weight:bold;"> CLEARED JEE ADVANCED.</span>
 							</span>
@@ -189,7 +190,7 @@
 						<div class="studentdetail text-center">S.P.I.T, Mumbai</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
 					</div>
 					
@@ -230,7 +231,7 @@
 						<div class="studentdetail text-center">Thakur, Mumbai</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12  col-sm-12">
 						<div style="height:50px;"></div>
 					</div>
 					
@@ -272,18 +273,18 @@
 						<div class="studentdetail text-center">PICT, Pune </div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12  col-sm-12">
 						
 						<div style="height:50px;"></div>
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">24 STUDENTS </strong>
+									<strong class='texthiglight1'>24 STUDENTS </strong>
 								</span> 
 								<span style="font-weight:bold;">SCORED 99 PERCENTILE AND ABOVE IN MHCET.<span>
 							</span>
 						</div>
-						<div class="col-md-12">
+						<div class="col-md-12  col-sm-12">
 							<div style="height:0px;"></div>
 						</div>
 						<div class="studentdetail text-center">* indicates category rank.</div>
@@ -292,15 +293,15 @@
 					<!-- //2019 Eng Results-->
 					
 					<!--2019 Med Results-->
-					<div class="col-md-12">&nbsp;</div>
-					<div class="col-md-12">
+					<div class="col-md-12 col-sm-12">&nbsp;</div>
+					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
 						<h3 class="w3l_header w3_agileits_header">Medical Results <span>2019</span></h3>
 						<div style="height:50px;"></div>
 					</div>
 					
-					<div style='height:80px;'>&nbsp;</div>
-					<div class="">
+					<div class="col-md-12 col-sm-12" style='height:80px;'>&nbsp;</div>
+					<div class="col-md-12 col-sm-12">
 						<iframe width="100%" height="500px;"
 							src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;" allowfullscreen>
 						</iframe>
@@ -309,7 +310,7 @@
 					
 					<!-- NIHARIKA MISHRA -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2019MedResults/TSPH Result Niharika M.JPG" alt="" height="450px"></div></div>
+						<div class="col-md-6"><div class="text-center"><img src="images/2019MedResults/TSPH Result Niharika M.JPG" alt="" class='img-responsive'></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Niharika Mishra</h2></div>
@@ -326,12 +327,12 @@
 						</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12  col-sm-12">
 						<div style="height:50px;"></div>
 					</div>
 					
 					<!-- ALOK Y. -->
-					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-12  col-sm-12" style="height:25px;"></div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019MedResults/TSPH Result Alok Y.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Alok Y.</div>
@@ -368,12 +369,12 @@
 						</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12  col-sm-12">
 						<div style="height:50px;"></div>
 					</div>
 					
 					<!-- JEET D. -->
-					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-12  col-sm-12" style="height:25px;"></div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019MedResults/TSPH Result Jeet D.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Jeet D.</div>
@@ -410,7 +411,7 @@
 						</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12  col-sm-12">
 						<div style="height:50px;"></div>
 					</div>
 					
@@ -449,12 +450,12 @@
 						</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12  col-sm-12">
 						<div style="height:50px;"></div>
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">14 MBBS</strong>
+									<strong class='texthiglight1'>14 MBBS</strong>
 								</span> 
 								<span style="font-weight:bold;">IN GOVERNMENT MEDICAL COLLEGE (GMC) FROM SINGLE CENTER.</span>
 							</span>

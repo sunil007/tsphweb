@@ -21,6 +21,9 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+.texthiglight1{
+	font-size: 3em;
+}
 input[type="submit"],input[type="reset"],a,.agileinfo_services_grid1_pos,.agileinfo_services_grid1 h4,.simplefilter li{
 	-webkit-transition: 0.5s ease-in;
     -moz-transition: 0.5s ease-in;
@@ -1524,6 +1527,9 @@ h3.agileits-icons-title {
 	}
 }
 @media (max-width: 640px){
+	.texthiglight1{
+		font-size: 2em;
+	}
 	.icon-box {
 		float: left;
 		width: 50%;

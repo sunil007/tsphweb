@@ -64,11 +64,12 @@
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">93 STUDENTS </strong>
+									<strong class='texthiglight1'>93 STUDENTS </strong>
 								</span> 
 								<span style="font-weight:bold;"> SCORED ABOVE 90% (PR)</span>
 							</span>
 						</div>	
+						<div class="hidden-md" style="height:50px;"></div>
 					</div>	
 					
 					<!-- JEE & MHCET -->
@@ -80,8 +81,8 @@
 				
 		
 					<!-- Mohit Sharma -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Mohit Sharma.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-1 col-md-4 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Mohit Sharma.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Mohit Sharma</h2></div>
 						<div class="studentdetail text-center"><h2>VJTI, Mumbai</h2></div>
@@ -95,8 +96,8 @@
 					</div>
 					
 					<!-- Daksh Prajapati -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Daksh Prajapati.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-2 col-md-4 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Daksh Prajapati.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Daksh Prajapati</h2></div>
 						<div class="studentdetail text-center"><h2>IIIT, Jabalpur</h2></div>
@@ -114,8 +115,8 @@
 					</div>
 					
 					<!-- Sejal Choudhary -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Sejal Choudhary.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-1 col-md-4  col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Sejal Choudhary.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Sejal Choudhary</h2></div>
 						<div class="studentdetail text-center"><h2>NIT, Surat</h2></div>
@@ -128,8 +129,8 @@
 						</div>
 					</div>
 					<!-- Divyashree Rao -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Divyashree Rao.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-2 col-md-4 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Divyashree Rao.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Divyashree Rao</h2></div>
 						<div class="studentdetail text-center"><h2>NIT, Surat</h2></div>
@@ -147,8 +148,8 @@
 					</div>
 					
 					<!-- Ayush Singh -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Ayush Singh.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-1 col-md-4  col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Ayush Singh.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Ayush Singh</h2></div>
 						<div class="studentdetail text-center"><h2>BIT Meshra, Ranchi</h2></div>
@@ -159,8 +160,8 @@
 						</div>
 					</div>
 					<!-- Shruti Singh -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Shruti Singh.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-2 col-md-4 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Shruti Singh.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Shruti Singh</h2></div>
 						<div class="studentdetail text-center"><h2>NIT, Raipur</h2></div>
@@ -177,7 +178,7 @@
 					
 					<!-- Vikas Gupta -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Vikas Gupta.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Vikas Gupta.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Vikas Gupta</h2></div>
 						<hr>
@@ -188,7 +189,7 @@
 					</div>
 					<!-- Shyam Bhuva -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Shyam Bhuva.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Shyam Bhuva.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Shyam Bhuva</h2></div>
 						<hr>
@@ -199,7 +200,7 @@
 					</div>
 					<!-- Vikram Singh -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Vikram Singh.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Vikram Singh.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Vikram Singh</h2></div>
 						<hr>
@@ -215,7 +216,7 @@
 					
 					<!-- Karan Purohit -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Karan Purohit.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Karan Purohit.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Karan Purohit</h2></div>
 						<hr>
@@ -226,7 +227,7 @@
 					</div>
 					<!-- Ayush Jain -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Ayush Jain.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Ayush Jain.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Ayush Jain</h2></div>
 						<hr>
@@ -237,7 +238,7 @@
 					</div>
 					<!-- Deep Patel -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Deep Patel.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Deep Patel.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Deep Patel</h2></div>
 						<hr>
@@ -253,7 +254,7 @@
 					
 					<!-- Nitesh Bhalala -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Nitesh Bhalala.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Nitesh Bhalala.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Nitesh Bhalala</h2></div>
 						<hr>
@@ -264,7 +265,7 @@
 					</div>
 					<!-- Khushi Mehta -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Khushi Mehta.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Khushi Mehta.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Khushi Mehta</h2></div>
 						<hr>
@@ -275,7 +276,7 @@
 					</div>
 					<!-- Deepti Singh -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020EngResults/TSPH Result Deepti Singh.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2020EngResults/TSPH Result Deepti Singh.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Deepti Singh</h2></div>
 						<hr>
@@ -309,7 +310,8 @@
 					
 					<!-- Khushboo Rajpurohit -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2020MedResults/TSPH Result Khushboo Rajpurohit.JPG" alt="" height="450px"></div></div>
+						<div class="col-md-offset-1 col-md-4"><div class="text-center">
+							<img src="images/2020MedResults/TSPH Result Khushboo Rajpurohit.JPG" alt="" class='img-responsive'></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Khushboo Rajpurohit</h2></div>
@@ -329,8 +331,8 @@
 					</div>
 					
 					<!-- Maunik Modi -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020MedResults/TSPH Result Maunik Modi.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-1 col-md-4 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/TSPH Result Maunik Modi.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Maunik Modi</h2></div>
 						<hr>
@@ -340,8 +342,8 @@
 						</div>
 					</div>
 					<!-- Pawan Modi -->
-					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2020MedResults/TSPH Result Pawan Modi.JPG" alt="" height="400px"></div>
+					<div class="col-md-offset-2 col-md-4 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2020MedResults/TSPH Result Pawan Modi.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Pawan Modi</h2></div>
 						<hr>
@@ -496,11 +498,12 @@
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong style="font-size: 3em;">28 STUDENTS</strong>
+									<strong class='texthiglight1'>28 STUDENTS</strong>
 								</span> 
 								<span style="font-weight:bold;">ABOVE 500 SCORE.</span>
 							</span>
 						</div>
+						<div class="hidden-md" style="height:50px;"></div>
 					</div>
 					<!-- //2020 Med Results-->
 				</div>

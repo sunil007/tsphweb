@@ -74,7 +74,7 @@
 					<!-- right -->
 					<div class='row'>
 						<!-- 1 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
+						<div class="col-md-offset-1 col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center"><img src="images/TSPHstars/TSPH Star Anuj Mittal.jpg" alt="" class='img-responsive'></div>
 						</div>
 						<!-- 2 -->
@@ -99,7 +99,7 @@
 					<!-- left -->
 					<div class='row'>
 						<!-- 6 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
+						<div class="col-md-offset-1 col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center"><img src="images/TSPHstars/TSPH Star Aniket L.jpg" alt="" class='img-responsive'></div>
 						</div>
 						<!-- 7 -->
@@ -125,7 +125,7 @@
 					<!-- right -->
 					<div class='row'>
 						<!-- 12 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
+						<div class="col-md-offset-1 col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/TSPH Star Jay S.jpg" alt="" class='img-responsive'></div>
 						</div>		
 						<!-- 13 -->
@@ -150,7 +150,7 @@
 					<!-- left -->
 					<div class='row'>
 						<!-- 17 -->
-						<div class="col-md-2 col-sm-6 wthree_services_grid_right">
+						<div class="col-md-offset-1 col-md-2 col-sm-6 wthree_services_grid_right">
 							<div class="text-center "><img src="images/TSPHstars/TSPH Star Nitin S.jpg" alt="" class='img-responsive'></div>
 						</div>
 						<!-- 18 -->

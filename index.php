@@ -105,7 +105,7 @@
 		   <div class="agileits_banner_bottom_grids">
 		   
 				<div class="col-md-offset-1 col-md-4 col-sm-6 team-grids">
-					<img src="images/HiteshBechra-Physics.png" alt="" height="350px"/>
+					<img src="images/HiteshBechra-Physics.png" alt="" class='img-responsive'/>
 					<div class="img-caption w3-agileits">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Hitesh Bechra</h4>
@@ -124,7 +124,7 @@
 				</div>
 				
 				<div class="col-md-offset-2 col-md-4 col-sm-6 team-grids">
-					<img src="images/ParimalPatel-Chemistry.png" alt="" height="350px"/>
+					<img src="images/ParimalPatel-Chemistry.png" alt="" class='img-responsive'/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Parimal Patel</h4>
@@ -143,7 +143,7 @@
 				</div>
 				
 				<div class="col-md-offset-1  col-md-4 col-sm-6 team-grids">
-					<img src="images/PranavGandhi-Maths.png" alt="" height="350px"/>
+					<img src="images/PranavGandhi-Maths.png" alt="" class='img-responsive'/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Pranav Gandhi</h4>
@@ -164,7 +164,7 @@
 				
 				
 				<div class="col-md-offset-2 col-md-4 col-sm-6 team-grids">
-					<img src="images/GyanprakashPandey-Biology.png" alt="" height="350px"/>
+					<img src="images/GyanprakashPandey-Biology.png" alt="" class='img-responsive'/>
 					<div class="img-caption">
 						<div class="img-agileinfo-text">
 							<h4>Prof. Gyanprakash Pandey</h4>
@@ -435,7 +435,7 @@
 			<div style='height:80px;'>&nbsp;</div>
 			<div class="" >
 				<iframe width="100%" height="500px;"
-					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin-left:10px; margin-right:10px !important;" allowfullscreen>
+					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" allowfullscreen>
 				</iframe>
 			</div>
 		</div>

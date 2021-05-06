@@ -25,9 +25,9 @@
 					<div class="wthree_services_grids">	
 						
 						<!--Prof. Hitesh Bechra-->
-						<div class="col-md-4 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right text-center">
 							<img src="images/HiteshBechra-Physics.png" alt="" height="260px">
-
+							<div class='hidden-md' style='height:30px;'></div>
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Hitesh Bechra</span></h3>
@@ -37,11 +37,12 @@
 							</p>
 						</div>
 						<div class="clearfix"> </div>
-						<div style='height:25px;'></div>
+						<div class='hidden-sm hidden-xs' style='height:25px;'></div>
 						
 						<!--Prof. Parimal Patel-->
-						<div class="col-md-4 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right text-center">
 							<img src="images/ParimalPatel-Chemistry.png" alt="" height="270px">
+							<div class='hidden-md' style='height:30px;'></div>
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
 							<h3 class='text-left nomargin' style='font-size:1.5em'>Prof. <span>Parimal Patel</span></h3>
@@ -54,11 +55,12 @@
 							</p>
 						</div>
 						<div class="clearfix"> </div>
-						<div style='height:25px;'></div>
+						<div class='hidden-sm hidden-xs' style='height:25px;'></div>
 						
 						<!--Prof. Pranav Gandhi-->
-						<div class="col-md-4 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right text-center">
 							<img src="images/PranavGandhi-Maths.png" alt="" height="260px">
+							<div class='hidden-md' style='height:30px;'></div>
 							<div class="clearfix"> </div>
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
@@ -72,11 +74,12 @@
 							</p>
 						</div>
 						<div class="clearfix"> </div>
-						<div style='height:25px;'></div>
+						<div class='hidden-sm hidden-xs' style='height:25px;'></div>
 						
 						<!--Prof. Gyanprakash Pandey-->
-						<div class="col-md-4 wthree_services_grid_right">
+						<div class="col-md-4 wthree_services_grid_right text-center">
 							<img src="images/GyanprakashPandey-Biology.png" alt="" height="300px">
+							<div class='hidden-md' style='height:30px;'></div>
 							<div class="clearfix"> </div>
 						</div>
 						<div class="col-md-8 wthree_services_grid_left">
