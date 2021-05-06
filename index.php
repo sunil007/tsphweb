@@ -93,10 +93,8 @@
 	
 	<div class="">
 		<iframe width="100%" height="500px;"
-			src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1">
+			src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1" allowfullscreen>
 		</iframe>
-		
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/_gC5MmyX8sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	
 	<div class="clearfix"> </div>
@@ -435,9 +433,9 @@
 		</div>
 		<div class="col-md-6 w3layouts_event_left">
 			<div style='height:80px;'>&nbsp;</div>
-			<div class="embed-responsive embed-responsive-21by9 embed-responsive-16by9 embed-responsive-4by3 embed-responsive-1by1">
+			<div class="" >
 				<iframe width="100%" height="500px;"
-					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin-left:10px; margin-right:10px !important;">
+					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" style="margin-left:10px; margin-right:10px !important;" allowfullscreen>
 				</iframe>
 			</div>
 		</div>

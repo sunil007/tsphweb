@@ -52,7 +52,7 @@
 					<div style='height:80px;'>&nbsp;</div>
 					<div class="">
 						<iframe width="100%" height="500px;"
-							src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin:auto;">
+							src="https://www.youtube.com/embed/R5s_n1l5Lso?autoplay=1&mute=1&playlist=R5s_n1l5Lso&loop=1" style="margin:auto;"allowfullscreen>
 						</iframe>
 					</div>
 					<!-- MAYANK AGARWAL -->
@@ -302,7 +302,7 @@
 					<div style='height:80px;'>&nbsp;</div>
 					<div class="">
 						<iframe width="100%" height="500px;"
-							src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;">
+							src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;" allowfullscreen>
 						</iframe>
 					</div>
 					<div style='height:80px;'>&nbsp;</div>
