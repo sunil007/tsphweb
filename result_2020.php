@@ -286,11 +286,12 @@
 						<div class="studentdetail text-center">D. J. Sanghvi, Mumbai</div>
 					</div>
 					
-					<div class="col-md-12">
+					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
+						<div class="studentdetail text-center">% indicates percentile score</div>
 					</div>
 					
-					<div class="studentdetail text-center">% indicates percentile score</div>
+					
 					<!-- //2020 Eng Results-->
 					
 					<!--2020 Med Results-->
