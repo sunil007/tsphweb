@@ -265,7 +265,7 @@
 					</div>
 					<!-- RATISH S. -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2019EngResults/TSPH Result Rushbh S.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Ratish S.JPG" alt="" height="260px"></div>
 						<div class="studentname text-center">Ratish S.</div>
 						<div class="text-center">							 
 							MHT-CET : 99.226% (PR)
@@ -297,7 +297,7 @@
 					<div class="col-md-12 col-sm-12">
 						<div style="height:50px;"></div>
 						<h3 class="w3l_header w3_agileits_header">Medical Results <span>2019</span></h3>
-						<div style="height:50px;"></div>
+						<div style="height:30px;"></div>
 					</div>
 					
 					<div class="col-md-12 col-sm-12" style='height:80px;'>&nbsp;</div>
@@ -305,8 +305,9 @@
 						<iframe width="100%" height="500px;"
 							src="https://www.youtube.com/embed/N-nz8JpJdzg?autoplay=1&mute=1&playlist=N-nz8JpJdzg&loop=1" style="margin-left:30px;" allowfullscreen>
 						</iframe>
+						<div style='height:80px;'>&nbsp;</div>
 					</div>
-					<div style='height:80px;'>&nbsp;</div>
+					
 					
 					<!-- NIHARIKA MISHRA -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
