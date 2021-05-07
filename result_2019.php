@@ -95,7 +95,7 @@
 					</div>
 					
 					<!-- PANKAJ W. -->
-					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
+					<div class="col-md-3 col-sm-12 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019EngResults/TSPH Result Pankaj W.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Pankaj W.</h2></div>
@@ -108,7 +108,7 @@
 						</div>
 					</div>
 					<!-- KETAN S. -->
-					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
+					<div class="col-md-3 col-sm-12 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019EngResults/TSPH Result Ketan S.JPG" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Ketan S.</h2></div>
@@ -120,8 +120,21 @@
 							MHT-CET : 99.219% (PR)
 						</div>
 					</div>
+					<!-- Shivprakash G. -->
+					<div class="col-md-3 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2019EngResults/TSPH Result Shivprakash G.JPG" alt="" class='img-responsive'></div>
+						<div style="height:10px;"></div>
+						<div class="studentname text-center"><h2>Shivprakash G.</h2></div>
+						<div class="studentdetail text-center"><h2>(Now @ IIT-GUWAHATI)</h2></div>
+						<hr>
+						<div class="text-center">
+							JEE ADVANCED : RANK 2120* <br>								
+							JEE MAINS : 98.669% (PR) <br> 
+							MHT-CET : 99.858% (PR)
+						</div>
+					</div>
 					<!-- MAHESH R. -->
-					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
+					<div class="col-md-3 col-sm-12 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2019EngResults/TSPH Result Mahesh R.jpg" alt="" class='img-responsive'></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Mahesh R.</h2></div>
