@@ -73,9 +73,9 @@
 <!-- //banner -->
 
 	<div class="col-md-12">
-		<div style="height:50px;"></div>
+		<div style="height:10px;"></div>
 	</div>
-	<div class="clearfix"></div>
+
 	
 <!-- services -->
 	<div class="services two">
