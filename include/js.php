@@ -69,3 +69,12 @@
 	});
 </script>
 <script src='https://www.google.com/recaptcha/api.js?render=6LeQ334UAAAAAMcpX18gQk-hvLQh74biC2ii-oXI'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XH2Q6L581X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XH2Q6L581X');
+</script>

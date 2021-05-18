@@ -51,7 +51,7 @@
 							<p>Prof. Parimal Patel has completed B.Pharm from Institute of Chemical Technology (ICT). 
 								Stronghold on the subject and friendly environment in the classroom makes students fall in love with Chemistry. 
 								Along with Scientific knowledge, sir strongly believes in imparting spiritual knowledge also. 
-								Yoga sessions and lesson on physical exercise from Parimal sir helps students in better concentration in studies and excelling in their JEE & NEET preparation. Sir is also certified yoga teacher from Ayush Mantralaya, Governmet of India. 
+								Yoga sessions and lesson on physical exercise from Parimal sir helps students in better concentration in studies and excelling in their JEE & NEET preparation. Sir is also certified yoga teacher from Ayush Mantralaya, Government of India. 
 							</p>
 						</div>
 						<div class="clearfix"> </div>
