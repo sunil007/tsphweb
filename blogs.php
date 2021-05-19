@@ -22,18 +22,16 @@
 	
 	<!-- Blog Section Begin -->
     <section class="blog-section spad">
-        <div class="blog-pic">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <img src="images/blogs/TSPH Blog 1.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" class="img-responsive">
-                    </div>
-                </div>
-            </div>
-        </div>
+   
+		
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+
+				<div class="col-lg-8 col-md-8 col-sm-8" class="blog-pic">
+					<img src="images/blogs/TSPH Blog 1.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 97%;" class="img-responsive">
+				</div>
+
+                <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="blog-text">
                         <div class="blog-title">
                             <span>16 January 2019</span>
@@ -51,6 +49,14 @@
 								<li>JEE Main exam will be held in January and April while NEET will be held in February and May.</li>
 								<li>The exam which was originally been conducted by the CBSE board will now be driven by the newly formed examination conducting agency, National Testing Agency (NTA) single handed.</li>
 								<li>NTA plans to use tools like artificial intelligence, psychometric analysis and computer based adaptive testing. Where the candidates will be taken to next level once they are through with the easier questions to change the way exams are conducted.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="blog-text">
+						<div class="blog-desc">
+							<ul>
 								<li>Millions of questions will be prepared instead of 2 to 3 papers for a particular test.</li>
 								<li>The tests are 100% safe. The highest level of encryption will be used so that no one can hack the system. The NTA will annually test around millions of candidates single handed.</li>
 								<li>There will be a software algorithm picking questions at random for the test at a particular date based on the set difficulty level.</li>
@@ -72,7 +78,7 @@
 							</div>
 						</div>
 						
-                        <div class="blog-comment">
+                        <!--div class="blog-comment">
                             <h3>Comments (3)</h3>
                             <div class="single-comment">
                                 <img src="img/blog-comment.png" alt="">
@@ -103,7 +109,7 @@
                                 </div>
                             </div>
                             <button type="submit">Post</button>
-                        </form>
+                        </form-->
                     </div>
                 </div>
             </div>
