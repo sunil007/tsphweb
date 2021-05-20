@@ -6,6 +6,7 @@
 				<div class="col-md-3 w3layouts_footer_grid">
 					<h2>Follow <span>Us</span></h2>
 					<ul class="social_agileinfo">
+						<li><a href="https://wa.me/918652375375?text=Hello%20TSPH" class="w3_facebook" onMouseOver="this.style.background='#00ba66'" onMouseOut="this.style.background='inherit'"><i class="fa fa-whatsapp"></i></a></li>
 						<li><a href="https://www.facebook.com/tsphofficial/" class="w3_facebook"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="https://www.youtube.com/channel/UC_hBrnDRNGlle41c-E9uPFw" class="w3_youtube"><i class="fa fa-youtube-play"></i></a></li>
 						<li><a href="https://www.instagram.com/tsph_thescienceprivateshub/" class="w3_instagram"><i class="fa fa-instagram"></i></a></li>

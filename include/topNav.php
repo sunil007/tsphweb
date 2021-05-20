@@ -6,6 +6,12 @@
 					<a class="active" href="https://classmatrix.org/signin/tsph.php" style='font-size:16px;' target='_blank'><i class="fa fa-sign-in" aria-hidden="true"></i> Sign In</a>
 					<span style="border-left: 1px solid #cfcfcf;margin-left: 3px;">&nbsp;</span>
 					
+					
+					<a href="https://wa.me/918652375375?text=Hello%20TSPH" target="_blank" style='margin: 0px 10px;font-size:16px;' onMouseOver="this.style.color='#00ba66'"onMouseOut="this.style.color='#fff'" >
+						<i class="fa fa-whatsapp nopadding" aria-hidden="true" ></i>
+					</a>
+					<span style="border-left: 1px solid #cfcfcf;margin-left: 3px;">&nbsp;</span>
+					
 					<a href="https://www.facebook.com/tsphofficial/" target="_blank" style='margin: 0px 10px;font-size:16px;' onMouseOver="this.style.color='#4267B2'"onMouseOut="this.style.color='#fff'" >
 						<i class="fa fa-facebook nopadding" aria-hidden="true" ></i>
 					</a>
