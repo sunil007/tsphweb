@@ -30,7 +30,7 @@
 					<div style="height:15px;"></div>					
 					<p style="font-size:20px;"><b>Greetings of the day from the team TSPH.</b></p>
 					<p style="font-size:20px;">Kindly fillup enquiry form below to receive a callback from our side. We will respond to your message as soon as possible.</p>
-					<p style="font-size:20px;">You can get in touch with us on <b><u><a target="_blank" href="https://wa.me/8652375375?text=Hello%20TSPH" >+91 8652-375-375</a></u></b> either on WhatsApp or phone call during office hours.</p>
+					<p style="font-size:20px;">You can get in touch with us on <b><u><a target="_blank" href="https://wa.me/918652375375?text=Hello%20TSPH" >+91 8652-375-375</a></u></b> either on WhatsApp or phone call during office hours.</p>
 				</ul>
 			</div>	
 		</div>
