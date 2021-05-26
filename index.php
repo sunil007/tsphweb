@@ -24,6 +24,14 @@
 					</div>
 				</li>
 				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/map.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
 					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner2.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
