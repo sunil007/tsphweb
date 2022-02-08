@@ -97,7 +97,7 @@
 					<option value="Eng. Rep.">JEE (Mains & ADV.) Repeater</option>
 					<option value="Med. Rep.">NEET Repeater</option>
 					<option value="XII + Engineering">XII + Engineering (JEE Mains + MHCET)</option>
-					<option value="XI + Medical">XI + Medical (NEET)</option>
+					<option value="XII + Medical">XII + Medical (NEET)</option>
 					<option value=" Others"> Others</option>
 				</select>
 			</div>
