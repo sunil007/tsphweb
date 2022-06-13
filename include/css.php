@@ -5,7 +5,7 @@
 <link href="css/JiSlider.css" rel="stylesheet"> 
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css?20220614" rel="stylesheet" type="text/css" media="all" />
 
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <!-- font-awesome-icons -->

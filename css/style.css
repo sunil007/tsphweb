@@ -169,7 +169,7 @@ input[type="submit"],input[type="reset"],a,.agileinfo_services_grid1_pos,.agilei
     font-size: 13px;
 }
 .navbar-right {
-    width: 75%;
+    width: 80%;
     margin-right: 0;
 }
 .navbar-default .navbar-nav > li > a {
@@ -2146,7 +2146,7 @@ h3.agileinfo_sign  {
 /*-- start-responsive-design --*/
 @media (max-width:1440px){
 	.navbar-right {
-		width: 64%;
+		width: 80%;
 	}
 	.wthree_banner_info {
 		width: 67%;
@@ -2169,7 +2169,7 @@ h3.agileinfo_sign  {
 		min-height: 575px;
 	}
 	.navbar-right {
-		width: 70%;
+		width: 85%;
 	}
 	.banner {
 		min-height: 645px;
@@ -2198,7 +2198,7 @@ h3.agileinfo_sign  {
 }
 @media (max-width: 1280px){
 	.navbar-right {
-		width: 73%;
+		width: 82%;
 	}
 	.banner-bottom h3 {
 		font-size: 2.2em;
@@ -2237,7 +2237,7 @@ h3.agileinfo_sign  {
 		min-height: 475px;
 	}
 	.navbar-right {
-		width: 95%;
+		width: 88%;
 	}
 	.w3_agileits_search {
 		width:34%;
@@ -3423,7 +3423,7 @@ h3.agileinfo_sign  {
 	}
 	
 	.navbar-brand.img-responsive img {
-		height: 80px !important;
+		height: 70px !important;
 	}
 	
 	.w3_agileits_search {
@@ -3624,7 +3624,7 @@ h3.agileinfo_sign  {
 		letter-spacing: 2px;
 	}
 	.navbar-brand.img-responsive img {
-		height: 80px !important;
+		height: 70px !important;
 	}
     .w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
 		min-height: 173px;
