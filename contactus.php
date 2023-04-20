@@ -115,7 +115,7 @@
 			}else{
 				$("#contactDataForm #courseError").text("");
 			}
-			
+			gtag_report_conversion();
 			captchaAction = "newEnquiry";
 			grecaptcha.execute('6LeQ334UAAAAAMcpX18gQk-hvLQh74biC2ii-oXI', {action: captchaAction})
 			.then(function(token) {
@@ -149,6 +149,21 @@
 					}
 				});
 			});
+		}
+	</script>
+	<script>
+		function gtag_report_conversion() {
+			url = window.location.href;
+		  var callback = function () {
+			if (typeof(url) != 'undefined') {
+			  //window.location = url;
+			}
+		  };
+		  gtag('event', 'conversion', {
+			  'send_to': 'AW-368368883/RH32COn_3NgCEPO5068B',
+			  'event_callback': callback
+		  });
+		  return false;
 		}
 	</script>
 

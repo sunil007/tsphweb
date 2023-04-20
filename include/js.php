@@ -78,3 +78,14 @@
 
   gtag('config', 'G-XH2Q6L581X');
 </script>
+
+<!-- ----------------------NEW GMAG--------------------------->
+<!-- Global site tag (gtag.js) - Google Ads: 368368883 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-368368883"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-368368883');
+</script>

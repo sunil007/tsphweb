@@ -35,10 +35,6 @@
 					<a href="document/TSPH_Prospectus_2022-24.pdf" style="font-size:15px;border: 1px solid #eb5424;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
 						<b class="fa fa-download" aria-hidden="true"></b> <b>Prospectus</b>
 					</a>
-					&nbsp;
-					<a href="document/TSPH Digital Guru.pdf" style="font-size:15px;border: 1px solid #eb5424;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
-						<b class="fa fa-star" aria-hidden="true"></b> <b>Results 2021</b>
-					</a>
 				</li>
 				<li>
 					<a href="tel:+918652375375" style='font-size:15px;' onMouseOver="this.style.color='#eb5424'"onMouseOut="this.style.color='#fff'">
@@ -74,6 +70,7 @@
 						<!--li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'digitalguru')?"menu__item--current": "" ?>"><a href="digitalguru.php" class="menu__link">Digital Guru</a></li-->
 						<li class="dropdown menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"menu__item--current": "" ?>"><a href="result_2021.php" class="dropdown-toggle menu__link" data-toggle="dropdown">Results<b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown ">
+								<li><a href="result_2022.php">2022 Results</a></li>
 								<li><a href="result_2021.php">2021 Results</a></li>
 								<li><a href="result_2020.php">2020 Results</a></li>
 								<li><a href="result_2019.php">2019 Results</a></li>
@@ -87,7 +84,7 @@
 						
 						<li class="dropdown menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'blogs')?"menu__item--current": "" ?>"><a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown">Blogs<b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown ">
-								<li><a href="neet-2021.php">NEET - 2021</a></li>
+								<li><a href="answer-keys-solutions.php">Answer Key</a></li>
 								<li><a href="blogs.php">TSPH BLOGS</a></li>
 							</ul>
 						</li>

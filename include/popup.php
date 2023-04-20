@@ -1,4 +1,4 @@
-<div id='offerModal' class="modal" tabindex="-1" role="dialog">
+<!--div id='offerModal' class="modal" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
 		<div data-dismiss="modal">
@@ -16,4 +16,4 @@
 			$("#offerModal").modal('show')
 		}, 1000);
 	}
-</script>
+</script-->

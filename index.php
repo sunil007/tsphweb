@@ -16,7 +16,7 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner1.jpg);'>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner6.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -24,7 +24,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/map.jpg);'>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner7.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -32,7 +32,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner2.jpg);'>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner8.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -40,7 +40,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner3.jpg);'>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner9.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -48,7 +48,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner4.jpg);'>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner10.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -56,7 +56,23 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner5.jpg);'>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner11.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner12.jpg);'>
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner13.jpg);'>
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -214,7 +230,7 @@
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
 						<p>Directors themselves take the full responsibility of the subject and execute the plan with the help of small team of teachers. 
-							<strong>‘Personal Attention’</strong> is the key to crack entrance exam like JEE Mains, Advanced, NEET and MHCET, which distinguishes TSPH from others.
+							<strong>‘Personal Attention’</strong> is the key to crack entrance exam like JEE Mains, Advanced, NEET and MHT-CET, which distinguishes TSPH from others.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -248,7 +264,7 @@
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
 						<p>Self-designed, systematic & comprehensive study material is provided for boards & entrance exam preparation. 
-							Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it. It plays quite a significant role in preparation of entrance exam like JEE Mains, Advanced, NEET and MHCET.
+							Exhaustive numerical practice sheets, tutorials & challenge rounds are another features of it. It plays quite a significant role in preparation of entrance exam like JEE Mains, Advanced, NEET and MHT-CET.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -354,7 +370,7 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
 						<h4>
-							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P" style="color:#eb5424; font-weight:bold;">JEE Mains 2021Application Form Fill up</a>
+							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P" style="color:#eb5424; font-weight:bold;">JEE Mains 2023 Updates</a>
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
 							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P">
@@ -366,10 +382,23 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
 						<h4>
-							<a href="http://result.jeeadv.ac.in/" style="color:#eb5424; font-weight:bold;">Display of JEE Advanced 2020 Results</a>	
+							<a href="https://neet.nta.nic.in/" style="color:#eb5424; font-weight:bold;">NEET 2023 Updates</a>	
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
-							<a target="_blank" href="http://result.jeeadv.ac.in/">
+							<a target="_blank" href="https://neet.nta.nic.in/">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+							</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-3 agileinfo_services_grid">
+					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
+						<h4>
+							<a href="https://cetcell.mahacet.org/CET_landing_page_2022/" style="color:#eb5424; font-weight:bold;">MHT-CET 2023 Updates</a>
+						</h4>
+						<div class="agileinfo_services_grid1_pos">
+							<a target="_blank" href="https://cetcell.mahacet.org/CET_landing_page_2022/">
 								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 							</a>
 						</div>
@@ -378,22 +407,10 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;"> 
 						<h4>
-							<a href="http://ntaresults.nic.in/neet20/result/resultneet.htm" style="color:#eb5424; font-weight:bold;">Display of <br>NEET 2020 <br>Results</a>
+							<a href="https://www.mahahsscboard.in" style="color:#eb5424; font-weight:bold;">HSC 2023 Updates</a>
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
-							<a target="_blank" href="http://ntaresults.nic.in/neet20/result/resultneet.htm">
-								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 agileinfo_services_grid">
-					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
-						<h4>
-							<a href="https://mhtcet2020.mahaonline.gov.in/" style="color:#eb5424; font-weight:bold;">MHCET 2020 Objections Application</a>
-						</h4>
-						<div class="agileinfo_services_grid1_pos">
-							<a target="_blank" href="https://mhtcet2020.mahaonline.gov.in/">
+							<a target="_blank" href="https://www.mahahsscboard.in">
 								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 							</a>
 						</div>
@@ -420,12 +437,12 @@
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid2">
 		<i class="fa fa-smile-o" aria-hidden="true"></i>
-			<p class="counter">650</p>
+			<p class="counter">1030</p>
 			<h3>Active Students</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid3">
 		<i class="fa fa-users" aria-hidden="true"></i>
-			<p class="counter">1250</p>
+			<p class="counter">2100</p>
 			<h3>Ex-TSPHians</h3>
 		</div>
 		<div class="clearfix"> </div>
@@ -501,7 +518,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p style='margin:0px !important;padding-left:50px;'>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material designed by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studies. Based on my experience of JEE batch, I truly recommend TSPH for JEE Mains, Advanced & MHCET courses.</p>
+									<p style='margin:0px !important;padding-left:50px;'>Teaching is the great part of The Science Private’s Hub but the way they take the rigorous Test is awesome and the study material designed by the faculties is so awesome that preparing for Entrance exams like JEE and NEET becomes easy. Students who cannot study at home they can come at TSPH library for studies. Based on my experience of JEE batch, I truly recommend TSPH for JEE Mains, Advanced & MHT-CET courses.</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
@@ -543,7 +560,7 @@
 						<li>
 							<div class="w3_event_right_grid">
 								<div class="w3layouts_event_right_para">
-									<p style='margin:0px !important;padding-left:50px;'>The Best Place to study where we can know our strong points and our weak points in studies and also making weakness to strength with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they help us to manage our timings and make us work harder. TSPH helped me cracking all entrance exams i.e. JEE Mains, Advanced & MHCET. I am really proud to join TSPH...They proved that TSPH is TSPH....</p>
+									<p style='margin:0px !important;padding-left:50px;'>The Best Place to study where we can know our strong points and our weak points in studies and also making weakness to strength with the help of our professors...TSPH is a place where we can get Success by working Smartly and also they help us to manage our timings and make us work harder. TSPH helped me cracking all entrance exams i.e. JEE Mains, Advanced & MHT-CET. I am really proud to join TSPH...They proved that TSPH is TSPH....</p>
 									<div class="w3layouts_event_right_para_pos">
 										<i class="fa fa-quote-left" aria-hidden="true"></i>
 									</div>
