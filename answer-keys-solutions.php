@@ -28,6 +28,35 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="blog-text">
+						<h3 style=" border-left: 3px solid #eb5424; padding-left: 10px; ">JEE</h3>
+						<ul style=" margin-left: 25px; padding-top: 10px; ">
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_24 Jan_1st Shift.pdf">2023 - 24th Jan 1st Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/24-1-2023_S-1.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_24 Jan_2nd Shift.pdf">2023 - 24th Jan 2nd Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/24-1-2023_S-2.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_25 Jan_1st Shift.pdf">2023 - 25th Jan 1st Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/25-1-2023_S-1.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_25 Jan_2nd Shift.pdf">2023 - 25th Jan 2nd Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/25-1-2023_S-2.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_29 Jan_1st Shift.pdf">2023 - 29th Jan 1st Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/29-1-2023_S-1.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_29 Jan_2nd Shift.pdf">2023 - 29th Jan 2nd Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/29-1-2023_S-2.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_30 Jan_1st Shift.pdf">2023 - 30th Jan 1st Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/30-1-2023_S-1.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_30 Jan_2nd Shift.pdf">2023 - 30th Jan 2nd Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/30-1-2023_S-2.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_31 Jan_1st Shift.pdf">2023 - 31st Jan 1st Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/31-1-2023_S-1.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_31 Jan_2nd Shift.pdf">2023 - 31st Jan 2nd Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/31-1-2023_S-2.pdf">Answer Key</a></li>
+						
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_1 Feb_1st Shift.pdf">2023 - 1st Feb 1st Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/1-2-2023_S-1.pdf">Answer Key</a></li>
+							
+							<li style="font-weight:bold;"><a style=" width: 300px; display: inline-block; " target='_blank' href="https://tsph.in/document/JEE%202023/2023_JEE Actual Paper_1 Feb_2nd Shift.pdf">2023 - 1st Feb 2nd Shift Paper</a> | <a target='_blank' href="https://tsph.in/document/JEE%202023/1-2-2023_S-2.pdf">Answer Key</a></li>
+						
+						</ul>
+						<h3>&nbsp;</h3>
+					
                        <h3 style=" border-left: 3px solid #eb5424; padding-left: 10px; ">NEET</h3>
 					   <ul style=" margin-left: 25px; padding-top: 10px; ">
 							<li style="font-weight:bold;"><a target='_blank' href="https://tsph.in/document/NEET%202022/Physics_QP_with AK.pdf">2022 - Physics Question paper and answer key</a></li>
