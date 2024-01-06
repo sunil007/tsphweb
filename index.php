@@ -458,9 +458,16 @@
 		</div>
 		<div class="col-md-6 w3layouts_event_left">
 			<div style='height:80px;'>&nbsp;</div>
-			<div class="" >
+			<div class="" style="padding: 10px;">
 				<iframe width="100%" height="500px;"
 					src="https://www.youtube.com/embed/ymlpbKDlLDY?autoplay=1&mute=1&playlist=ymlpbKDlLDY&loop=1" allowfullscreen>
+				</iframe>
+			</div>
+
+			<div class="" style="padding: 10px;">
+				<iframe width="100%" height="500px" 
+					src="https://www.youtube.com/embed/VOnyl1ZfJ0g?si=sTCCz71FtdjRJhnB" title="Khushboo Rajpurohit" allowfullscreen>
+					<!-- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  -->
 				</iframe>
 			</div>
 		</div>

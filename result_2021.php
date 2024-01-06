@@ -16,7 +16,7 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/banner/banner5.jpg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner1.jpeg') no-repeat 0px 0px; background-size: cover;">
 
 						<div class="container">
 							<div class="agileits-banner-info">
@@ -24,8 +24,8 @@
 						</div>
 					</div>
 				</li>
-				<!--li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/TSPH Result 2018 1.jpg') no-repeat 0px 0px; background-size: cover;">
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner2.jpeg') no-repeat 0px 0px; background-size: cover;">
 					<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -33,20 +33,95 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018MedResults/Slider_Chandrika_R.jpg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner3.jpeg') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
 							
 						</div>
 					</div>
-				</li-->
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner4.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner5.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner6.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner7.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner8.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner9.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2021ResultBanners/banner10.jpeg') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+							
+						</div>
+					</div>
+				</li>
 
 			</ul>
 		</div>
 	</div>
 
 <!-- //banner -->
+
+	<!-- Youtube Video -->
+	<div class="container" style="padding: 50px 15px 0px; margin-top: 15px;">
+		<div class="">
+			<!-- style="padding: 25px 10px 0px;" -->
+			<iframe width="100%" height="500px;"
+				src="https://www.youtube.com/embed/TNpfuKUfgsY?autoplay=1&mute=1&si=e1hkHZQ9AoswDb5o" title="TSPH 2020 & 2021 FELICITATION CUM REUNION" frameborder="0" 
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+			</iframe>
+		</div>
+	</div>
+
 
 	<div class="banner-bottom">
 		<div class="container">
