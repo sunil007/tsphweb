@@ -71,6 +71,102 @@
 						</div>
 					</div>
 				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Anish.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Darshit.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Janam.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Lakshit.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Mehek.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Nikita.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Nishit.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Sanyam.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Soumya.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Unnati.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Vaidehi.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Ved.png') no-repeat 0px 0px; background-size: cover;">
+						<div class="container">
+							<div class="agileits-banner-info">
+							</div>	
+						</div>
+					</div>
+				</li>
 				<!--li>
 					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/TSPH Result 2018 1.jpg') no-repeat 0px 0px; background-size: cover;">
 					<div class="container">
@@ -114,7 +210,7 @@
 					<div class="col-md-12">
 						<h3 class="w3l_header w3_agileits_header">Engineering Results <span>2022</span></h3>
 						<div style="height:20px;"></div>
-						<div class="studentdetail text-center"><h4>(JEE Mains March Attempt)</h4></div>
+						<!-- <div class="studentdetail text-center"><h4>(JEE Mains March Attempt)</h4></div> -->
 						<!--div style="height:10px;"></div-->
 					</div>
 					<!--2021 Eng Results-->
@@ -459,7 +555,7 @@
 					</div>
 					
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2022Results/Riya Hankare.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2022MHTCETResults/Riya Hankare.JPG" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Riya Hankare</h2></div>
 						<hr>
