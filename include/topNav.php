@@ -70,6 +70,7 @@
 						<!--li class="menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'digitalguru')?"menu__item--current": "" ?>"><a href="digitalguru.php" class="menu__link">Digital Guru</a></li-->
 						<li class="dropdown menu__item <?php echo (isset($_SESSION['pageName']) && $_SESSION['pageName'] == 'results')?"menu__item--current": "" ?>"><a href="result_2021.php" class="dropdown-toggle menu__link" data-toggle="dropdown">Results<b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown ">
+								<li><a href="result_2023.php">2023 Results</a></li>
 								<li><a href="result_2022.php">2022 Results</a></li>
 								<li><a href="result_2021.php">2021 Results</a></li>
 								<li><a href="result_2020.php">2020 Results</a></li>
