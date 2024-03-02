@@ -16,7 +16,7 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/1Highlight.jpeg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/51 Students.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -24,7 +24,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/2Highlight.jpeg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/66 Students.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -32,7 +32,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/3Highlight.jpeg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Bharat.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -40,7 +40,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/4Highlight.jpeg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/MBBS.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -48,7 +48,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Soumya.jpeg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Shlok.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -56,135 +56,13 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Mehek + Lakshit Banner.jpeg') no-repeat 0px 0px; background-size: cover;">
+					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Vaisahli.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Nishit Sureka Banner.jpeg') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Anish.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Darshit.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Janam.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Lakshit.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Mehek.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Nikita.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Nishit.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Sanyam.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Soumya.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Unnati.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Vaidehi.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2022Results/Ved.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<!--li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018EngResults/TSPH Result 2018 1.jpg') no-repeat 0px 0px; background-size: cover;">
-					<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top w3layouts-banner-top" style="background: url('images/2018MedResults/Slider_Chandrika_R.jpg') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-							
-						</div>
-					</div>
-				</li-->
-
 			</ul>
 		</div>
 	</div>
