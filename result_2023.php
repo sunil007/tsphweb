@@ -663,12 +663,6 @@
 						<div class="studentname text-center">Yukti Bhamare</div>
 						<div class="studentdetail text-center">99.94</div>
 					</div>
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Purvi Thakar.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
-						<div class="studentname text-center">Purvi Thakar</div>
-						<div class="studentdetail text-center">99.81</div>
-					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
 						<div class="text-center"><img src="images/2023Results/2023MHCETResults/Dhruv Patel.jpg" alt="" height="260px"></div>
@@ -719,12 +713,6 @@
 						<div class="text-center"><img src="images/2023Results/2023MedResults/Bivashis Senapati.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Bivashis Senapati</div>
 						<div class="studentdetail text-center">99.69</div>
-					</div>
-					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Mahima Pandya.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
-						<div class="studentname text-center">Mahima Pandya</div>
-						<div class="studentdetail text-center">99.27</div>
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
