@@ -103,7 +103,7 @@
 					
 					<!-- Shlok Kevadiya -->
 					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Shlok Kevadiya_99.07.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Shlok Kevadiya_99.07.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Shlok Kevadiya</h2></div>
 						<hr>
@@ -115,7 +115,7 @@
 					
 					<!-- Vivek Lathiya -->
 					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Vivek Lathiya_99.39.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Vivek Lathiya_99.39.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Vivek Lathiya</h2></div>
 						<hr>
@@ -131,7 +131,7 @@
 					
 					<!-- GAURAV SHARMA -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Sharma_96.92.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Sharma_96.92.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Gaurav Sharma</h2></div>
 						<hr>
@@ -140,7 +140,7 @@
 					</div>
 					<!-- JASBIR NAGI -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Jasbir Singh Nagi_94.2.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Jasbir Singh Nagi_94.2.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Jasbir Nagi</h2></div>
 						<hr>
@@ -149,7 +149,7 @@
 					</div>
 					<!-- RAJ SUREKA -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Raj Sureka_97.89.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Raj Sureka_97.89.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Raj Surekha</h2></div>
 						<hr>
@@ -163,7 +163,7 @@
 					
 					<!-- AARYAN SHAH -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Aaryan Shah_97.71.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Aaryan Shah_97.71.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Aaryan Shah</h2></div>
 						<hr>
@@ -172,7 +172,7 @@
 					</div>
 					<!-- YASH SUTHAR -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Suthar_95.60.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Suthar_95.60.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Yash Suthar</h2></div>
 						<hr>
@@ -181,7 +181,7 @@
 					</div>
 					<!-- PRANAAY SALIAN -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Pranaay Salian_96.8.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Pranaay Salian_96.8.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Pranaay Salian</h2></div>
 						<hr>
@@ -197,7 +197,7 @@
 					
 					<!-- VIDHI SINGH -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Vidhi Singh_97.78.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Vidhi Singh_97.78.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Vidhi Singh</h2></div>
 						<hr>
@@ -206,7 +206,7 @@
 					</div>
 					<!-- NISHIT JAIN -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Nishit Jain_96.43.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Nishit Jain_96.43.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Nishit Jain</h2></div>
 						<hr>
@@ -215,7 +215,7 @@
 					</div>
 					<!-- GAURAV GAUR -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Gaur_96.3.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Gaur_96.3.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Gaurav Gaur</h2></div>
 						<hr>
@@ -229,7 +229,7 @@
 					
 					<!-- YASH MISTRY -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Mistry_97.6.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Mistry_97.6.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Yash Mistry</h2></div>
 						<hr>
@@ -238,7 +238,7 @@
 					</div>
 					<!-- DIYA PAGHDAL -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Diya Paghdal_93.79.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Diya Paghdal_93.79.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Diya Paghdal</h2></div>
 						<hr>
@@ -247,7 +247,7 @@
 					</div>
 					<!-- SHOBHIT CHOUDHARY -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Shobhit Choudhary_96.68.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Shobhit Choudhary_96.68.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Shobhit Choudhary</h2></div>
 						<hr>
@@ -270,7 +270,7 @@
 					</div>
 					<!-- RAHIL SHAH -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Rahil Shah_96.15.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Rahil Shah_96.15.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Rahil Shah</h2></div>
 						<hr>
@@ -279,7 +279,7 @@
 					</div>
 					<!-- RAIYYAN PATEL -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Raiyyan Patel_96.44.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Raiyyan Patel_96.44.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Raiyyan Patel</h2></div>
 						<hr>
@@ -293,7 +293,7 @@
 					
 					<!-- YASH PUNMIYA -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Punmiya_96.36.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Punmiya_96.36.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Yash Punmiya</h2></div>
 						<hr>
@@ -302,7 +302,7 @@
 					</div>
 					<!-- NIMESH SANKPAL -->
 					<div class="col-md-4 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Nimesh Sankpal_95.77.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Nimesh Sankpal_95.77.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Nimesh Sankpal</h2></div>
 						<hr>
@@ -327,7 +327,7 @@
 					
 					<!-- BHARAT CHHAPARIA -->
 					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
-						<div class="col-md-6"><div class="text-center"><img src="images/2023Results/2023MedResults/BHARAT CHHAPARIA.JPG" alt="" height="450px"></div></div>
+						<div class="col-md-6"><div class="text-center"><img src="images/2023Results/2023MedResults/BHARAT CHHAPARIA.jpg" alt="" height="450px"></div></div>
 						<div class="col-md-6">
 							<div style="height:50px;"></div>
 							<div class="studentname text-left"><h2>Bharat Chhaparia</h2></div>
@@ -340,14 +340,14 @@
 					
 					<!-- ASVITA RAHANU -->
 					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Asvita Rahanu.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Asvita Rahanu.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Asvita Rahanu</h2></div>
 						<div class="studentdetail text-center"><h2>LTMMC Mumbai - 661</h2></div>
 					</div>
 					<!-- ANSHIKA PANDEY -->
 					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Anshika Pandey.JPG" alt="" height="400px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Anshika Pandey.jpg" alt="" height="400px"></div>
 						<div style="height:10px;"></div>
 						<div class="studentname text-center"><h2>Anshika Pandey</h2></div>
 						<div class="studentdetail text-center"><h2>LTMMC Mumbai - 655</h2></div>
@@ -355,19 +355,19 @@
 					<!-- OBAID POTRICK -->
 					<div class="col-md-12" style="height:25px;"></div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Obaid Potrick.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Obaid Potrick.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Obaid Potrick</div>
 						<div class="studentdetail text-center">JJ Mumbai - 652</div>
 					</div>
 					<!-- KHUSHAL  GADHIYA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Kushal Gadhiya.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Kushal Gadhiya.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Khushal  Gadhiya</div>
 						<div class="studentdetail text-center">Nair Mumbai - 651</div>
 					</div>
 					<!-- SAUMY TIWARI -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Saumy Tiwari.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Saumy Tiwari.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Saumy Tiwari</div>
 						<div class="studentdetail text-center">JJ Mumbai - 643</div>
 					</div>
@@ -379,7 +379,7 @@
 					</div>
 					<!-- CHETAN POOJARY -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Chetan Poojary.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Chetan Poojary.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Chetan Poojary</div>
 						<div class="studentdetail text-center">JJ Mumbai - 640</div>
 					</div>
@@ -399,55 +399,55 @@
 					</div>
 					<!-- NIVEDITA DALVI -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Nivedita Dalvi.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Nivedita Dalvi.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Nivedita Dalvi</div>
 						<div class="studentdetail text-center">Nair Mumbai - 637</div>
 					</div>
 					<!-- PRAKHAR MISHRA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Prakhar Mishra.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Prakhar Mishra.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Prakhar Mishra</div>
 						<div class="studentdetail text-center">GMC Nagpur - 634</div>
 					</div>
 					<!-- AASTHA ARUN DUBEY -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Aastha Arun Dubey.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Aastha Arun Dubey.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Aastha Arun Dubey</div>
 						<div class="studentdetail text-center">Vedant Mumbai - 634</div>
 					</div>
 					<!-- ARYAN CHOUDHARY -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Aryan Choudhari.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Aryan Choudhari.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Aryan Choudhary</div>
 						<div class="studentdetail text-center">GMC Nagpur - 631</div>
 					</div>
 					<!-- P. KAVYA REDDY -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/P. Kavya Reddy.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/P. Kavya Reddy.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">P. Kavya Reddy</div>
 						<div class="studentdetail text-center">GMC Nagpur - 631</div>
 					</div>
 					<!-- RAVI SINGH -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Ravikumar Singh.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Ravikumar Singh.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Ravi Singh</div>
 						<div class="studentdetail text-center">KIMS Goa - 620</div>
 					</div>
 					<!-- SHRUTI SHARMA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Shruti Kumari.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Shruti Kumari.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Shruti Sharma</div>
 						<div class="studentdetail text-center">JJ Mumbai - 620</div>
 					</div>
 					<!-- HITESH TELI -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Hitesh Teli.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Hitesh Teli.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">HITESH TELI</div>
 						<div class="studentdetail text-center">IGGMC Nagpur - 619</div>
 					</div>
 					<!-- GAURAV RAJPUROHIT -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/GAURAV RAJPUROHIT.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/GAURAV RAJPUROHIT.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Gaurav Rajpurohit</div>
 						<div class="studentdetail text-center">GMC Nanded - 609</div>
 					</div>
@@ -459,7 +459,7 @@
 					</div>
 					<!-- AASTHA VINOD DUBEY -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Aastha Vinod Dubey.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Aastha Vinod Dubey.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Aastha Vinod Dubey</div>
 						<div class="studentdetail text-center">MGIMS Wardha - 609</div>
 					</div>
@@ -471,7 +471,7 @@
 					</div>
 					<!-- HRADAY NAWLAKHA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Hradya Nawlakha.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Hradya Nawlakha.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Hraday Nawlakha</div>
 						<div class="studentdetail text-center">GMC Akola - 602</div>
 					</div>
@@ -483,13 +483,13 @@
 					</div>
 					<!-- ADARSH MISHRA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Adarsh Mishra.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Adarsh Mishra.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Adarsh Mishra</div>
 						<div class="studentdetail text-center">SBHGMC Dhule - 599</div>
 					</div>
 					<!-- ANJALI GUPTA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Anjali Gupta.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Anjali Gupta.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Anjali Gupta</div>
 						<div class="studentdetail text-center">SVNGMC Yavatmal - 595</div>
 					</div>
@@ -513,25 +513,25 @@
 					</div>
 					<!-- ANJIVI KAMTEKAR -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Anjivi Kamtekar.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Anjivi Kamtekar.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Anjivi Kamtekar</div>
 						<div class="studentdetail text-center">GMC Jalgaon - 588</div>
 					</div>
 					<!-- MAHEK PARMAR -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Mahek Parmar.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Mahek Parmar.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Mahek Parmar</div>
 						<div class="studentdetail text-center">GMC Ratnagiri - 587</div>
 					</div>
 					<!-- SUHANA KUSHWAHA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Suhana Khushwana.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Suhana Khushwana.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Suhana Kushwaha</div>
 						<div class="studentdetail text-center">GMC Nandurbar - 587</div>
 					</div>
 					<!-- SHWETA GUPTA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Shweta Gupta.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Shweta Gupta.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Shweta Gupta</div>
 						<div class="studentdetail text-center">GMC Nandurbar - 586</div>
 					</div>
@@ -543,33 +543,33 @@
 					</div>
 					<!-- NISHAT KHAN -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Nishat Khan.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Nishat Khan.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Nishat Khan</div>
 						<div class="studentdetail text-center">GMC Ratnagiri - 585</div>
 					</div>
 					<!-- ASHISH RATH -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Ashish Rath.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Ashish Rath.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Ashish Rath</div>
 						<div class="studentdetail text-center">Dr. UPMC Jalgaon</div>
 					</div>
 					<!-- JANHAVI YADAV -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Janavi Yadav.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Janavi Yadav.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Janhavi Yadav</div>
 						<div class="studentdetail text-center">MIMER Pune</div>
 					</div>
 					<!-- ANITA CHOUHAN -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Anita Chouhan.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Anita Chouhan.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Anita Chouhan</div>
 						<div class="studentdetail text-center">Dr. N.Y. TIMS Karjat</div>
 					</div>
 					<!-- PRAGYA GUPTA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Pragya Gupta.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Pragya Gupta.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Pragya Gupta</div>
 						<div class="studentdetail text-center">SMBT Nashik</div>
@@ -588,42 +588,42 @@
 					</div>
 					<!-- AKANKSHA SINGH -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Akanksha Singh.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Akanksha Singh.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Akanksha Singh</div>
 						<div class="studentdetail text-center">MGM Navi Mumbai</div>
 					</div>
 					<!-- ANGELINA NADAR -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Angelina Nadar.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Angelina Nadar.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Angelina Nadar</div>
 						<div class="studentdetail text-center">SEU</div>
 					</div>
 					<!-- SADAF PATANWALA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Sadaf Patanwala.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Sadaf Patanwala.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Sadaf Patanwala</div>
 						<div class="studentdetail text-center">JNMC Belgav</div>
 					</div>
 					<!-- GARIMA BARANWAL -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Garima Baranwal.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Garima Baranwal.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Garima Baranwal</div>
 						<div class="studentdetail text-center">UUMS Prayagraj</div>
 					</div>
 					<!-- LYNN JIVU -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Lynn Jivu.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Lynn Jivu.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Lynn Jivu</div>
 						<div class="studentdetail text-center">VK Patil Ahmedngar</div>
 					</div>
 					<!-- ASHMI KADAM -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/ASHMI KADAM.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/ASHMI KADAM.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">ASHMI KADAM</div>
 						<div class="studentdetail text-center">VIMC Palghar</div>
@@ -642,13 +642,13 @@
 						<div class="studentdetail text-center">100</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Saumy Tiwari.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Saumy Tiwari.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Saumy Tiwari</div>
 						<div class="studentdetail text-center">99.99</div>
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/BHARAT CHHAPARIA.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/BHARAT CHHAPARIA.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Bharat Chhaparia</div>
 						<div class="studentdetail text-center">99.99</div>
 					</div>
@@ -664,7 +664,7 @@
 						<div class="studentdetail text-center">99.94</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Purvi Thakar.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Purvi Thakar.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Purvi Thakar</div>
 						<div class="studentdetail text-center">99.81</div>
@@ -682,7 +682,7 @@
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023MedResults/Obaid Potrick.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Obaid Potrick.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Obaid Potrick</div>
 						<div class="studentdetail text-center">99.9</div>
 					</div>
@@ -704,12 +704,12 @@
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Gaur_96.3.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Gaur_96.3.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Gaurav Gaur</div>
 						<div class="studentdetail text-center">99.78</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/SWARA SAWANT.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/SWARA SAWANT.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Swara Sawant</div>
 						<div class="studentdetail text-center">99.71</div>
@@ -721,7 +721,7 @@
 						<div class="studentdetail text-center">99.69</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Mahima Pandya.JPG" alt="" height="260px"></div> -->
+						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Mahima Pandya.jpg" alt="" height="260px"></div> -->
 						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Mahima Pandya</div>
 						<div class="studentdetail text-center">99.27</div>
@@ -733,7 +733,7 @@
 						<div class="studentdetail text-center">99.65</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Nimesh Sankpal_95.77.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Nimesh Sankpal_95.77.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Nimesh Sankpal</div>
 						<div class="studentdetail text-center">99.63</div>
 					</div>
@@ -744,7 +744,7 @@
 						<div class="studentdetail text-center">99.62</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Mistry_97.6.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Mistry_97.6.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Yash Mistry</div>
 						<div class="studentdetail text-center">99.6</div>
 					</div>
@@ -766,18 +766,18 @@
 						<div class="studentdetail text-center">99.55</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Rahil Shah_96.15.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Rahil Shah_96.15.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">RAHIL SHAH</div>
 						<div class="studentdetail text-center">99.55</div>
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Aaryan Shah_97.71.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Aaryan Shah_97.71.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Aaryan Shah</div>
 						<div class="studentdetail text-center">99.53</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Sharma_96.92.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Gaurav Sharma_96.92.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Gaurav Sharma</div>
 						<div class="studentdetail text-center">99.51</div>
 					</div>
@@ -788,7 +788,7 @@
 						<div class="studentdetail text-center">99.48</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Vidhi Singh_97.78.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Vidhi Singh_97.78.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Vidhi Singh</div>
 						<div class="studentdetail text-center">99.47</div>
 					</div>
@@ -816,18 +816,18 @@
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Suthar_95.60.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Yash Suthar_95.60.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Yash Suthar</div>
 						<div class="studentdetail text-center">99.42</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Shlok Kevadiya_99.07.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Shlok Kevadiya_99.07.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Shlok Kevadiya</div>
 						<div class="studentdetail text-center">99.42</div>
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Pranaay Salian_96.8.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Pranaay Salian_96.8.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Pranaay Salian</div>
 						<div class="studentdetail text-center">99.4</div>
 					</div>
@@ -838,12 +838,12 @@
 					</div>
 					
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Vivek Lathiya_99.39.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Vivek Lathiya_99.39.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Vivek Lathiya</div>
 						<div class="studentdetail text-center">99.35</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Jasbir Singh Nagi_94.2.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Jasbir Singh Nagi_94.2.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Jasbir Nagi</div>
 						<div class="studentdetail text-center">99.31</div>
 					</div>
@@ -890,7 +890,7 @@
 						<div class="studentdetail text-center">99.18</div>
 					</div>
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<div class="text-center"><img src="images/2023Results/2023EngResults/Nishit Jain_96.43.JPG" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023EngResults/Nishit Jain_96.43.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Nishit Jain</div>
 						<div class="studentdetail text-center">99.18</div>
 					</div>
