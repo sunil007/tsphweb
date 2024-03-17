@@ -16,7 +16,7 @@
 		<div id="JiSlider" class="jislider">
 			<ul>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/51 Students.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/1_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -24,7 +24,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/66 Students.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/2_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -32,7 +32,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Bharat.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/3_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -40,23 +40,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/MBBS.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Shlok.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Vaisahli.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/4_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	

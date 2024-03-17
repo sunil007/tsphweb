@@ -2144,6 +2144,15 @@ h3.agileinfo_sign  {
 }
 /*-- //registration --*/
 /*-- start-responsive-design --*/
+@media (max-width:2560px){
+    .newBanner {
+		min-height: 670px;
+	}
+
+	.jislider__controller {
+		bottom: 4%;
+	}
+}
 @media (max-width:1440px){
 	.navbar-right {
 		width: 80%;
