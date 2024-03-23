@@ -32,7 +32,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="document/TSPH_Prospectus_2022-24.pdf" style="font-size:15px;border: 1px solid #eb5424;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
+					<a href="document/Prospectus_2024.pdf" style="font-size:15px;border: 1px solid #eb5424;padding: 5px 10px;border-radius: 10px;background: #eb5424;" target='_blank'>
 						<b class="fa fa-download" aria-hidden="true"></b> <b>Prospectus</b>
 					</a>
 				</li>
