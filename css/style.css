@@ -369,7 +369,7 @@ p.w3l_sub_para_agile {
 }
 .banner-bottom h3{
        text-align: center;
-        color: #262c38;
+    color: #262c38;
     font-size: 2em;
     text-transform: capitalize;
     width: 82%;
@@ -1485,6 +1485,10 @@ h3.agileits-icons-title {
 	.icon-box {
 		width:33.33%;
 	}
+
+	span.plus {
+		font-size: 35px;
+	  }
 }
 @media (max-width:991px){
 	h3.agileits-icons-title {
@@ -1556,6 +1560,11 @@ h3.agileits-icons-title {
 	.bs-glyphicons li {
 		width: 31.33%;
 	}
+
+	span.plus {
+		font-size: 30px;
+		margin-left: 0;
+	  }
 }
 @media (max-width: 384px){
 	.icon-box {
@@ -4271,3 +4280,12 @@ h3.agileinfo_sign  {
 	display: inline-block;
 	padding: 40px 0;
 }
+
+span.plus {
+	font-size: 45px;
+	font-weight: 600;
+	color: #fff;
+	margin-left: 6px;
+  }
+
+  

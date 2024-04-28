@@ -122,14 +122,14 @@
 						</div>
 					</div>
 				</li>
-				<li>
+				<!-- <li>
 					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/66 Students.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
 						</div>
 					</div>
-				</li>
+				</li> -->
 				<li>
 					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Bharat.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
@@ -177,7 +177,7 @@
 			<h3 class="w3l_header w3_agileits_header">About <span>Us</span></h3>
 			<div class="wthree_services_grids">	
 				<div class="col-md-12 wthree_services_grid_left">
-					<h3 class="text-left nomargin">THE <span>SCIENCE PRIVATE'S</span> HUB</h3>
+					<h3 class="text-left nomargin"><span>TSPH -</span> THE SCIENCE PRIVATE'S HUB</h3>
 					<h4>Challenge your Limits!</h4>
 					<div style='height:15px;'></div>
 					<p> TSPH, The Science Private’s Hub, is an institution focused on creating a benchmark in the education industry. 
@@ -507,26 +507,28 @@
 	<!-- //blog -->
 <!-- stats -->
 	<div class="stats" id="stats">
-	    <div class="container"> 
+	    <div class="container" style="padding-top: 15px; padding-bottom: 15px;"> 
 			<div class="inner_w3l_agile_grids">
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid">
 		   <i class="fa fa-code-fork" aria-hidden="true"></i>
-			<p class="counter">02</p>
+			<p class="counter" style="display: inline-block; padding: 5px;">02</p>
 			<h3>Branches</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid1">
 		    <i class="fa fa-laptop" aria-hidden="true"></i>
-			<p class="counter">08</p>
+			<p class="counter" style="display: inline-block; padding: 5px;">08</p>
 			<h3>Courses</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid2">
 		<i class="fa fa-smile-o" aria-hidden="true"></i>
-			<p class="counter">1030</p>
+			<p class="counter" style="display: inline-block; padding: 5px;">1500</p>
+			<span class="plus">+</span>
 			<h3>Active Students</h3>
 		</div>
 		<div class="col-md-3 w3layouts_stats_left w3_counter_grid3">
 		<i class="fa fa-users" aria-hidden="true"></i>
-			<p class="counter">2100</p>
+			<p class="counter" style="display: inline-block; padding: 5px;">3000</p>
+			<span class="plus">+</span>
 			<h3>Ex-TSPHians</h3>
 		</div>
 		<div class="clearfix"> </div>
