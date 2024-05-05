@@ -26,6 +26,66 @@
 		
         <div class="container">
             <div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="blog-text">
+						<h3 style=" border-left: 3px solid #eb5424; padding-left: 10px; ">ACTUAL NEET 2023</h3>
+						<table class='table table-striped'>
+							<thead>
+								<tr>
+									<th>Subject</th>
+									<th>Question Paper</th>
+									<th>Question Paper<br>With Answer Key</th>
+									<th>Question Paper<br>With Text Solution</th>
+									<th>Video Solution</th>
+								</tr>
+							</thead>
+							<tr>
+								<td>Physics</td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_PHYSICS QUESTION PAPER..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_PHYSICS ANSWER KEY..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET-2023_PHYSICS-TEXT SOLUTION.pdf">Download <i class='fa fa-download'></i></a></td>
+								<td>
+									<a target='_blank' href="https://youtu.be/yemTT6-VPQ4">Section A</a>
+									&nbsp;
+									<a target='_blank' href="https://youtu.be/6e7btwzDjZY">Section B</a>
+								</td>
+							</tr>
+							<tr>
+								<td>Chemistry</td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_CHEMISTRY QUESTION PAPER..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_CHEMISTRY ANSWER KEY..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET-2023_CHEMISTRY-TEXT SOLUTION.pdf">Download <i class='fa fa-download'></i></a></td>
+								<td>
+									<a target='_blank' href="https://youtu.be/jmxfgIpgS8g">Section A</a>
+									&nbsp;
+									<a target='_blank' href="https://youtu.be/ZnTQGK9v47s">Section B</a>
+								</td>
+							</tr>
+							<tr>
+								<td>Biology (Botany)</td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_BOTANY QUESTION PAPER..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_BOTANY ANSWER KEY..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="#">Coming Soon...</a></td>
+								<td>
+									<a target='_blank' href="https://youtu.be/Q6_3mYfcUWY">Section A</a>
+									&nbsp;
+									<a target='_blank' href="https://youtu.be/34dDzR3H0zc">Section B</a>
+								</td>
+							</tr>
+							<tr>
+								<td>Biology (Zoology)</td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_ZOOLOGY QUESTION PAPER..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2023/TSPH_NEET 2023_ZOOLOGY ANSWER KEY..pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="#">Coming Soon...</a></td>
+								<td>
+									<a target='_blank' href="https://youtu.be/QwDj72PUY94">Section A</a>
+									&nbsp;
+									<a target='_blank' href="https://youtu.be/y6BhuuxcpJE">Section B</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="blog-text">
 						<h3 style=" border-left: 3px solid #eb5424; padding-left: 10px; ">JEE</h3>
