@@ -15,73 +15,9 @@
 	<div class="banner-silder">
 		<div id="JiSlider" class="jislider">
 			<ul>
-				<!-- <li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner6.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner7.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner8.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner9.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner10.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner11.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner12.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3layouts-banner-top" style='background-image: url(images/banner/banner13.jpg);'>
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li> -->
 				<!-- Result 2024 banner starts -->
 				<li>
-					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/1_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/1_Web Banners_JEE Main_2024.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -89,7 +25,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/2_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/2_Web Banners_JEE Main_2024.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -97,7 +33,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/3_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/3_Web Banners_JEE Main_2024.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -105,7 +41,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/4_Web _JEE Mains Session_1.png') no-repeat 0px 0px; background-size: cover;">
+					<div class="newBanner w3layouts-banner-top" style="background: url('images/2024Results/banners/4_Web Banners_JEE Main_2024.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
 							</div>	
@@ -114,7 +50,7 @@
 				</li>
 				<!-- Result 2024 banner ends -->
 				<!-- Result 2023 banner starts -->
-				<li>
+				<!-- <li>
 					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/51 Students.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
 							<div class="agileits-banner-info">
@@ -122,14 +58,6 @@
 						</div>
 					</div>
 				</li>
-				<!-- <li>
-					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/66 Students.png') no-repeat 0px 0px; background-size: cover;">
-						<div class="container">
-							<div class="agileits-banner-info">
-							</div>	
-						</div>
-					</div>
-				</li> -->
 				<li>
 					<div class="w3layouts-banner-top" style="background: url('images/2023Results/banners/Bharat.png') no-repeat 0px 0px; background-size: cover;">
 						<div class="container">
@@ -161,7 +89,7 @@
 							</div>	
 						</div>
 					</div>
-				</li>
+				</li> -->
 				<!-- Result 2023 banner ends -->
 			</ul>
 		</div>
