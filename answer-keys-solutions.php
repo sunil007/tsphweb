@@ -26,7 +26,67 @@
 		
         <div class="container">
             <div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="blog-text">
+						<h3 style=" border-left: 3px solid #eb5424; padding-left: 10px; ">ACTUAL NEET 2024</h3>
+						<table class='table table-striped'>
+							<thead>
+								<tr>
+									<th>Subject</th>
+									<th>Question Paper</th>
+									<th>Question Paper<br>With Answer Key</th>
+									<th>Question Paper<br>With Text Solution</th>
+									<th>Video Solution</th>
+								</tr>
+							</thead>
+							<tr>
+								<td>Physics</td>
+								<td><a target='_blank' href="./document/NEET 2024/1. 2024_PHYSICS_QP.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2024/1. 2024_PHYSICS_Answer Key.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2024/1. 2024_PHYSICS_Soln.pdf">Download <i class='fa fa-download'></i></a></td>
+								<td>
+									<a target='_blank' href="https://youtu.be/IVXJZ8hgacw">Section A</a>
+									&nbsp;
+									<a target='_blank' href="https://youtu.be/-B7HcvU1hOw">Section B</a>
+								</td>
+							</tr>
+							<tr>
+								<td>Chemistry</td>
+								<td><a target='_blank' href="./document/NEET 2024/2. 20234_CHEMISTRY_QP.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2024/2. 20234_CHEMISTRY_Answer Key.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2024/2. 20234_CHEMISTRY_QP With Soln.pdf">Download <i class='fa fa-download'></i></a></td>
+								<td>
+									<a target='_blank' href="https://youtu.be/zAbvZPacmV0">Section A & B</a>
+									&nbsp;
+									<!-- <a target='_blank' href="https://youtu.be/ZnTQGK9v47s">Section B</a> -->
+								</td>
+							</tr>
+							<tr>
+								<td>Biology (Botany)</td>
+								<td><a target='_blank' href="./document/NEET 2024/3. 2024_Biology (Botany)_QP.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2024/3. 2024_Biology (Botany)_Answer Key.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="#">Coming Soon...</a></td>
+								<td>
+									<a target='_blank' href="#">Coming Soon...</a>
+									&nbsp;
+									<!-- <a target='_blank' href="#">Section B (Coming Soon)</a> -->
+								</td>
+							</tr>
+							<tr>
+								<td>Biology (Zoology)</td>
+								<td><a target='_blank' href="./document/NEET 2024/4. 2024_Biology (Zoology)_QP.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="./document/NEET 2024/4. 2024_Biology (Zoology)_Answer Key.pdf"> Download <i class='fa fa-download'></i></a></td>
+								<td><a target='_blank' href="#">Coming Soon...</a></td>
+								<td>
+									<a target='_blank' href="#">Coming Soon...</a>
+									&nbsp;
+									<!-- <a target='_blank' href="#">Section B (Coming Soon)</a> -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				<div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="blog-text">
 						<h3 style=" border-left: 3px solid #eb5424; padding-left: 10px; ">ACTUAL NEET 2023</h3>
 						<table class='table table-striped'>
