@@ -78,7 +78,7 @@
 						<div class="alert alert-success text-center" role="alert" style="position: relative;">
 							<span style="position: absolute;width: 100%;left: 0;top: -25px;">
 								<span>
-									<strong class='texthiglight1'>51 STUDENTS </strong>
+									<strong class='texthiglight1'>55 STUDENTS </strong>
 								</span> 
 								<span style="font-weight:bold;"> SCORED ABOVE 95% (PR) NTA SCORE.</span>
 							</span>
