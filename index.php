@@ -132,6 +132,14 @@
 			src="https://www.youtube.com/embed/_gC5MmyX8sw?autoplay=1&mute=1&playlist=_gC5MmyX8sw&loop=1" allowfullscreen>
 		</iframe>
 	</div>
+
+	<div class="" style="padding-top: 20px;">
+		<iframe width="100%" height="500px;"
+			src="https://www.youtube.com/embed/7XfvW_FVnPQ?autoplay=1&mute=1&si=NDlJlCnFTNsIjMfc" title="TSPH 2023 FELICITATION HIGHLIGHTS" frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+		</iframe>
+		</div>
+	</div>
 	
 	<div class="clearfix"> </div>
 	<div style='height:50px;'>&nbsp;</div>
@@ -247,11 +255,45 @@
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
+
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>2</span>
+						<i class="fa fa-laptop" aria-hidden="true"></i>
+						</figure>
+						<h5>TSPH Digital</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p><strong>‘TSPH Digital Guru’</strong> is transforming student’s performance in every possible way. 
+							Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
+							Students as well as parents are given access to our online web portal/android app to closely monitor attendance, test performance and progress.
+						</p>
+					</div>
+					<div class="col-md-12"><hr></div>
+				</div>
+
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>3</span>
+						<i class="fa fa-question-circle-o" aria-hidden="true"></i>
+						</figure>
+						<h5>Work Extraction & Rigorous Doubts Solving</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>At TSPH, we ensure timely completion and honesty in homework. At Hub, availability of professors make doubt solving instant and effective.
+						</p>
+					</div>
+					<div class="col-md-12"><hr></div>
+				</div>
 				
 				<div class='row'>
 					<div class="col-md-3 service-box">
 						<figure class="icon">
-							<span>2</span>
+							<span>4</span>
 							<i class="fa fa-bank" aria-hidden="true"></i>
 						</figure>
 						<h5>Library Study Hall</h5>
@@ -264,11 +306,27 @@
 					</div>
 					<div class="col-md-12"><hr></div>
 				</div>
+
+				<div class='row'>
+					<div class="col-md-3 service-box">
+						<figure class="icon">
+						 <span>5</span>
+						<i class="fa fa-users" aria-hidden="true"></i>
+						</figure>
+						<h5>One on One Counseling</h5>
+					</div>
+					<div class="col-md-9 service-box text-left">
+						<div style='height:15px;'></div>
+						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of parent because we believe that all the three must work in coordination to ensure the best progress of Engineering and Medical aspirants.
+						</p>
+					</div>
+					<div class="col-md-12"><hr></div>
+				</div>
 				
 				<div class='row'>
 					<div class="col-md-3 service-box">
 						<figure class="icon">
-						 <span>3</span>
+						 <span>6</span>
 						<i class="fa fa-book" aria-hidden="true"></i>
 						</figure>
 						<h5>Study Material</h5>
@@ -285,7 +343,7 @@
 				<div class='row'>
 					<div class="col-md-3 service-box">
 						<figure class="icon">
-						 <span>4</span>
+						 <span>7</span>
 						<i class="fa fa-lightbulb-o" aria-hidden="true"></i>
 						</figure>
 						<h5>Testing Program</h5>
@@ -293,56 +351,6 @@
 					<div class="col-md-9 service-box text-left">
 						<div style='height:15px;'></div>
 						<p>To ensure the relentless hard work from students, we, at Hub have designed <strong>‘Unique Testing Program’</strong> for boards as well as JEE, NEET entrance. Students are constantly engaged in a monthly testing cycle comprising of small test of 15 minutes to the JEE Advanced pattern 6 hours long test. 
-						</p>
-					</div>
-					<div class="col-md-12"><hr></div>
-				</div>
-				
-				<div class='row'>
-					<div class="col-md-3 service-box">
-						<figure class="icon">
-						 <span>5</span>
-						<i class="fa fa-question-circle-o" aria-hidden="true"></i>
-						</figure>
-						<h5>Work Extraction & Rigorous Doubts Solving</h5>
-					</div>
-					<div class="col-md-9 service-box text-left">
-						<div style='height:15px;'></div>
-						<p>At TSPH, we ensure timely completion and honesty in homework. At Hub, availability of professors make doubt solving instant and effective.
-						</p>
-					</div>
-					<div class="col-md-12"><hr></div>
-				</div>
-				
-				<div class='row'>
-					<div class="col-md-3 service-box">
-						<figure class="icon">
-						 <span>6</span>
-						<i class="fa fa-users" aria-hidden="true"></i>
-						</figure>
-						<h5>One on One Counseling</h5>
-					</div>
-					<div class="col-md-9 service-box text-left">
-						<div style='height:15px;'></div>
-						<p>Parent – Student - Teacher meetings are conducted on regular basis to discuss the performance of student & role of parent because we believe that all the three must work in coordination to ensure the best progress of Engineering and Medical aspirants.
-						</p>
-					</div>
-					<div class="col-md-12"><hr></div>
-				</div>
-				
-				<div class='row'>
-					<div class="col-md-3 service-box">
-						<figure class="icon">
-						 <span>7</span>
-						<i class="fa fa-laptop" aria-hidden="true"></i>
-						</figure>
-						<h5>TSPH Digital</h5>
-					</div>
-					<div class="col-md-9 service-box text-left">
-						<div style='height:15px;'></div>
-						<p><strong>‘TSPH Digital Guru’</strong> is transforming student’s performance in every possible way. 
-							Recorded video sessions, online testing, practice session, performance info graphics and digital library are key features of our digital app. 
-							Students as well as parents are given access to our online web portal/android app to closely monitor attendance, test performance and progress.
 						</p>
 					</div>
 					<div class="col-md-12"><hr></div>
@@ -382,10 +390,10 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
 						<h4>
-							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P" style="color:#eb5424; font-weight:bold;">JEE Mains 2023 Updates</a>
+							<a target="_blank" href="https://jeemain.nta.ac.in/" style="color:#eb5424; font-weight:bold;">JEE Mains 2024 Updates</a>
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
-							<a target="_blank" href="https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P">
+							<a target="_blank" href="https://jeemain.nta.ac.in/">
 								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 							</a>
 						</div>
@@ -394,10 +402,10 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
 						<h4>
-							<a href="https://neet.nta.nic.in/" style="color:#eb5424; font-weight:bold;">NEET 2023 Updates</a>	
+							<a href="https://nta.ac.in/" style="color:#eb5424; font-weight:bold;">NEET 2024 Updates</a>	
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
-							<a target="_blank" href="https://neet.nta.nic.in/">
+							<a target="_blank" href="https://nta.ac.in/">
 								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 							</a>
 						</div>
@@ -407,10 +415,10 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;">
 						<h4>
-							<a href="https://cetcell.mahacet.org/CET_landing_page_2022/" style="color:#eb5424; font-weight:bold;">MHT-CET 2023 Updates</a>
+							<a href="https://cetcell.mahacet.org/" style="color:#eb5424; font-weight:bold;">MHT-CET 2024 Updates</a>
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
-							<a target="_blank" href="https://cetcell.mahacet.org/CET_landing_page_2022/">
+							<a target="_blank" href="https://cetcell.mahacet.org/">
 								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 							</a>
 						</div>
@@ -419,7 +427,7 @@
 				<div class="col-md-3 agileinfo_services_grid">
 					<div class="agileinfo_services_grid1 text-center" style="border: 2px solid #eb5424;background: #fff;border-radius: 15px;"> 
 						<h4>
-							<a href="https://www.mahahsscboard.in" style="color:#eb5424; font-weight:bold;">HSC 2023 Updates</a>
+							<a href="https://www.mahahsscboard.in" style="color:#eb5424; font-weight:bold;">HSC 2024 Updates</a>
 						</h4>
 						<div class="agileinfo_services_grid1_pos">
 							<a target="_blank" href="https://www.mahahsscboard.in">
