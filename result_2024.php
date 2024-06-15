@@ -682,6 +682,190 @@
 					<!-- //2024 Eng Results-->
 					
 					<div class="col-md-12">&nbsp;</div>	
+
+					<div class="col-md-12">
+						<div style="height:50px;"></div>
+						<h3 class="w3l_header w3_agileits_header">Medical Results <span>2024</span></h3>
+						<div style="height:50px;"></div>
+					</div>
+					
+					<!-- Abhishek Virendra Jha -->
+					<div class="col-md-12 col-sm-12 wthree_services_grid_right">
+						<div class="col-md-6"><div class="text-center"><img src="images/2024Results/MedResults/Abhishek Jha.jpg" alt="" height="450px"></div></div>
+						<div class="col-md-6">
+							<div style="height:50px;"></div>
+							<div class="studentname text-left"><h2>Abhishek Virendra Jha</h2></div>
+							<div style="height:10px;"></div>
+							<!-- <div class="text-left"><h2>KEM Mumbai</h2></div> -->
+							<div style="height:10px;"></div>
+							<div class="studentdetail text-left"><h2>690 - NEET Score</h2></div>
+						</div>
+					</div>
+					
+					<!-- Anjali Anandrao Ingale -->
+					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Anjali Ingale.jpg" alt="" height="400px"></div>
+						<div style="height:10px;"></div>
+						<div class="studentname text-center"><h2>Anjali Anandrao Ingale</h2></div>
+						<div class="studentdetail text-center"><h2>688 - NEET Score</h2></div>
+					</div>
+					<!-- Shifa Abdul Kalam Fatima Khan -->
+					<div class="col-md-6 col-sm-12 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Shifa Abdul Kalam Fatima Khan.jpg" alt="" height="400px"></div>
+						<div style="height:10px;"></div>
+						<div class="studentname text-center"><h2>Shifa Abdul Kalam Fatima Khan</h2></div>
+						<div class="studentdetail text-center"><h2>683 - NEET Score</h2></div>
+					</div>
+					<!-- Dhruv Shashikant Patel -->
+					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Dhruv Patel.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Dhruv Shashikant Patel</div>
+						<div class="studentdetail text-center">680 - NEET Score</div>
+					</div>
+					<!-- Om Dilip Kumar Singh -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Om Singh.jpeg" alt="" height="260px"></div>
+						<div class="studentname text-center">Om Dilip Kumar Singh</div>
+						<div class="studentdetail text-center">680 - NEET Score</div>
+					</div>
+					<!-- Sukrit Pradeepkumar Shukla -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Sukrit Shukla.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Sukrit Pradeepkumar Shukla</div>
+						<div class="studentdetail text-center">679 - NEET Score</div>
+					</div>
+					<!-- Jatin Gyaneshwar Murpana -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Jatin Murpana.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Jatin Gyaneshwar Murpana</div>
+						<div class="studentdetail text-center">665 - NEET Score</div>
+					</div>
+
+					<!-- Khushi Gadhiya -->
+					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Khushi Gadiya.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Khushi Gadhiya</div>
+						<div class="studentdetail text-center">662 - NEET Score</div>
+					</div>
+					<!-- Harshvardhan Mishra -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Harshvardhan Mishra.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Harshvardhan Mishra</div>
+						<div class="studentdetail text-center">657 - NEET Score</div>
+					</div>
+					<!-- Maria Moazzam Chougle -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Maria Moazzam Chougle.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Maria Moazzam Chougle</div>
+						<div class="studentdetail text-center">656 - NEET Score</div>
+					</div>
+					<!-- Mohd. Asif Ansari -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Muhammed Asif Ansari Hamida.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Mohd. Asif Ansari</div>
+						<div class="studentdetail text-center">656 - NEET Score</div>
+					</div>
+
+					<!-- Himanshi Damodar Sharma -->
+					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Himanshi Damodar Sharma.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Himanshi Damodar Sharma</div>
+						<div class="studentdetail text-center">650 - NEET Score</div>
+					</div>
+					<!-- Janhavi Chandraprakash Yadav -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Janhavi Yadav.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Janhavi Chandraprakash Yadav</div>
+						<div class="studentdetail text-center">650 - NEET Score</div>
+					</div>
+					<!-- Shivam Kumar -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Shivam Kumar.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Shivam Kumar</div>
+						<div class="studentdetail text-center">647 - NEET Score</div>
+					</div>
+					<!-- Stuti Ravindra Tiwari -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Stuti Tiwari.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Stuti Ravindra Tiwari</div>
+						<div class="studentdetail text-center">647 - NEET Score</div>
+					</div>
+
+					<!-- Sanika Subhash Kashid -->
+					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Sanika kashid.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Sanika Subhash Kashid</div>
+						<div class="studentdetail text-center">646 - NEET Score</div>
+					</div>
+					<!-- Shreyas Pawar -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Shreyas Pawar.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Shreyas Pawar</div>
+						<div class="studentdetail text-center">645 - NEET Score</div>
+					</div>
+					<!-- Manish Meghraj Patel -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<!-- <div class="text-center"><img src="images/2024Results/MedResults/Manish Patel.jpg" alt="" height="260px"></div> -->
+						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Manish Meghraj Patel</div>
+						<div class="studentdetail text-center">645 - NEET Score</div>
+					</div>
+					<!-- Saniya Ejaz shaikh -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<!-- <div class="text-center"><img src="images/2024Results/MedResults/Saniya Shaikh.jpg" alt="" height="260px"></div> -->
+						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Saniya Ejaz Shaikh</div>
+						<div class="studentdetail text-center">643 - NEET Score</div>
+					</div>
+
+					<!-- Ram Mohanlal Gupta -->
+					<div class="col-md-12" style="height:25px;"></div>
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Ram Gupta.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Ram Mohanlal Gupta</div>
+						<div class="studentdetail text-center">642 - NEET Score</div>
+					</div>
+					<!-- Yashvi Suresh Nakrani -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Yashvi Suresh Narkarni.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Yashvi Suresh Nakrani</div>
+						<div class="studentdetail text-center">640 - NEET Score</div>
+					</div>
+					<!-- Pragati Kamaldas Prasad -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Pragati Kamaldas Prasad.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Pragati Kamaldas Prasad</div>
+						<div class="studentdetail text-center">634 - NEET Score</div>
+					</div>
+					<!-- Shruti Ramakant Tiwari -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Shruti Ramakant Tiwari.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Shruti Ramakant Tiwari</div>
+						<div class="studentdetail text-center">633 - NEET Score</div>
+					</div>
+
+					<!-- Durga Ramlal Suthar -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Durga Suthar.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Durga Ramlal Suthar</div>
+						<div class="studentdetail text-center">632 - NEET Score</div>
+					</div>
+					<!-- Hammad Adil Khan -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Hammad.jpg" alt="" height="260px"></div>
+						<div class="studentname text-center">Hammad Adil Khan</div>
+						<div class="studentdetail text-center">632 - NEET Score</div>
+					</div>
+					<!-- Mahika Rakesh Sharma -->
+					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
+						<div class="text-center"><img src="images/2024Results/MedResults/Mahika Sharma .jpeg" alt="" height="260px"></div>
+						<div class="studentname text-center">Mahika Rakesh Sharma</div>
+						<div class="studentdetail text-center">632 - NEET Score</div>
+					</div>
 					
 				</div>
 			</div>
