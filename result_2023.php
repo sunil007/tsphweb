@@ -549,8 +549,7 @@
 					</div>
 					<!-- ASHISH RATH -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Ashish Rath.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Ashish Rath.jpeg" alt="" height="260px"></div>
 						<div class="studentname text-center">Ashish Rath</div>
 						<div class="studentdetail text-center">Dr. UPMC Jalgaon</div>
 					</div>
@@ -562,15 +561,13 @@
 					</div>
 					<!-- ANITA CHOUHAN -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Anita Chouhan.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Anita Chauhan.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Anita Chouhan</div>
 						<div class="studentdetail text-center">Dr. N.Y. TIMS Karjat</div>
 					</div>
 					<!-- PRAGYA GUPTA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Pragya Gupta.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Pragya Gupta.jpeg" alt="" height="260px"></div>
 						<div class="studentname text-center">Pragya Gupta</div>
 						<div class="studentdetail text-center">SMBT Nashik</div>
 					</div>
@@ -588,36 +585,31 @@
 					</div>
 					<!-- AKANKSHA SINGH -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Akanksha Singh.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Aakanksha Singh.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Akanksha Singh</div>
 						<div class="studentdetail text-center">MGM Navi Mumbai</div>
 					</div>
 					<!-- ANGELINA NADAR -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Angelina Nadar.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Angelina Nadar.jpeg" alt="" height="260px"></div>
 						<div class="studentname text-center">Angelina Nadar</div>
 						<div class="studentdetail text-center">SEU</div>
 					</div>
 					<!-- SADAF PATANWALA -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Sadaf Patanwala.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Sadaf Patanwala.jpeg" alt="" height="260px"></div>
 						<div class="studentname text-center">Sadaf Patanwala</div>
 						<div class="studentdetail text-center">JNMC Belgav</div>
 					</div>
 					<!-- GARIMA BARANWAL -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Garima Baranwal.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Garima Banarval.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Garima Baranwal</div>
 						<div class="studentdetail text-center">UUMS Prayagraj</div>
 					</div>
 					<!-- LYNN JIVU -->
 					<div class="col-md-3 col-sm-6 wthree_services_grid_right">
-						<!-- <div class="text-center"><img src="images/2023Results/2023MedResults/Lynn Jivu.jpg" alt="" height="260px"></div> -->
-						<div class="text-center"><img src="images/human.jpg" alt="" height="260px"></div>
+						<div class="text-center"><img src="images/2023Results/2023MedResults/Lyn Jiu.jpg" alt="" height="260px"></div>
 						<div class="studentname text-center">Lynn Jivu</div>
 						<div class="studentdetail text-center">VK Patil Ahmedngar</div>
 					</div>
